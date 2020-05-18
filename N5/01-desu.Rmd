@@ -11,10 +11,7 @@ output:
       countIncrementalSlides: false
       beforeInit: "js/macros.js"
       slideNumberFormat: '%current%'
-      navigation:
-        click: false
-        touch: true
-        scroll: true
+
 ---
 
 layout: true
