@@ -1,0 +1,12 @@
+<script src="../site_libs/jquery-1.11.3/jquery.min.js"></script>
+
+<script>
+$(document).ready(function(){
+    $("button").click(function(){
+      if ( $(this).next('div.english').css('visibility') == 'hidden' )
+        $(this).next('div.english').css('visibility','visible');
+      else
+    $(this).next('div.english').css('visibility','hidden');
+    });
+});
+</script>

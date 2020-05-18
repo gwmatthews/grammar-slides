@@ -1,0 +1,16 @@
+name: "日本語の文法"
+output_dir: "."
+navbar:
+  title: ""
+  left:
+    - text: "日本語の文法"
+      href: index.html
+
+output:
+  html_document:
+    theme: simplex
+    css: style.css
+    includes:
+      in_header: header.html
+
+

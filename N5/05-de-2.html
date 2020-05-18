@@ -1,0 +1,565 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>05-de-2.utf8</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/simplex.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<!-- <script src="site_libs/audiojs/audio.min.js"></script>
+<script>
+  audiojs.events.ready(function() {
+    var as = audiojs.createAll();
+  });
+</script>
+
+-->
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+    $("button").click(function(){
+      if ( $(this).next('div.english').css('visibility') == 'hidden' )
+        $(this).next('div.english').css('visibility','visible');
+      else
+    $(this).next('div.english').css('visibility','hidden');
+    });
+});
+</script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 41px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+.section h2 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+.section h3 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+.section h4 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+.section h5 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+.section h6 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html"></a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">日本語の文法</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<p><br></p>
+<div id="でニ" class="section level2">
+<h2><span class="top"> で　ニ </span></h2>
+<p><br></p>
+<p>1<em>.</em> おれは自分の目で見たことを信じる男なんだ。</p>
+<audio src="05/de-2-01.mp3" preload="auto">
+</audio>
+<button class="show-english">
+英語
+</button>
+<div class="english">
+<p>I believe what I see with my own eyes.</p>
+</div>
+<hr>
+<p>2<em>.</em> わたしは頭痛がすると言って一人で帰って来ました。</p>
+<audio src="05/de-2-02.mp3" preload="auto">
+</audio>
+<button class="show-english">
+英語
+</button>
+<div class="english">
+<p>I said I had a headache and came back alone.</p>
+</div>
+<hr>
+<p>3<em>.</em> なにかの理由で彼はもどってきませんでした。</p>
+<audio src="05/de-2-03.mp3" preload="auto">
+</audio>
+<button class="show-english">
+英語
+</button>
+<div class="english">
+<p>For some reason or other he had not returned.</p>
+</div>
+<hr>
+<p>4<em>.</em> 二人はふるえる指でそれを拡げた。紙は白紙だった！</p>
+<audio src="05/de-2-04.mp3" preload="auto">
+</audio>
+<button class="show-english">
+英語
+</button>
+<div class="english">
+<p>With trembling fingers they unfolded it. The sheet was blank!</p>
+</div>
+<hr>
+<p>5<em>.</em> あたりの雰囲気は、棺のにおいでよごされている感じだった。</p>
+<audio src="05/de-2-05.mp3" preload="auto">
+</audio>
+<button class="show-english">
+英語
+</button>
+<div class="english">
+<p>The atmosphere seemed tainted with the smell of coffins.</p>
+</div>
+<hr>
+<p>6<em>.</em> だれがこの遺言書を燃やしたのだ？何の目的で？</p>
+<audio src="05/de-2-06.mp3" preload="auto">
+</audio>
+<button class="show-english">
+英語
+</button>
+<div class="english">
+<p>Who destroyed this will? And what was their object?</p>
+</div>
+<hr>
+<p>7<em>.</em> あなたのことでなにか妙な噂が流されているのですね。</p>
+<audio src="05/de-2-07.mp3" preload="auto">
+</audio>
+<button class="show-english">
+英語
+</button>
+<div class="english">
+<p>There is evidently some story being circulated about you.</p>
+</div>
+<hr>
+<p>8<em>.</em> そうはいっても、わたし、あることで、ひどく悩んでいます。</p>
+<audio src="05/de-2-08.mp3" preload="auto">
+</audio>
+<button class="show-english">
+英語
+</button>
+<div class="english">
+<p>But all the same, I’m sorely troubled about something.</p>
+</div>
+<hr>
+<p>9<em>.</em> インターネットで花を注文して、確認メールを受け取った。</p>
+<audio src="05/de-2-09.mp3" preload="auto">
+</audio>
+<button class="show-english">
+英語
+</button>
+<div class="english">
+<p>I ordered flowers online and received a confirmation by email.</p>
+</div>
+<hr>
+<p>10<em>.</em> だから僕は、先祖伝来のものおよび、労力で得たものを尊重するのだ。</p>
+<audio src="05/de-2-10.mp3" preload="auto">
+</audio>
+<button class="show-english">
+英語
+</button>
+<div class="english">
+<p>That’s why I prize what’s come to me from my ancestors or been won by hard work.</p>
+</div>
+<hr>
+<p>11<em>.</em> 震える指で、彼女は封筒を開けた。</p>
+<audio src="05/de-2-11.mp3" preload="auto">
+</audio>
+<button class="show-english">
+英語
+</button>
+<div class="english">
+<p>She opened the envelope with her trembling fingers.</p>
+</div>
+<hr>
+<p>12<em>.</em> 今の雷でどこかの電線が切れた。</p>
+<audio src="05/de-2-12.mp3" preload="auto">
+</audio>
+<button class="show-english">
+英語
+</button>
+<div class="english">
+<p>That lightning just now cut one of the power lines.</p>
+</div>
+<hr>
+<p>13<em>.</em> 彼は人気のない海岸に一人で立っている。</p>
+<audio src="05/de-2-13.mp3" preload="auto">
+</audio>
+<button class="show-english">
+英語
+</button>
+<div class="english">
+<p>He stood alone on the quiet beach.</p>
+</div>
+<hr>
+<p>14<em>.</em> なんであの人あんな格好で車内うろついてんの？</p>
+<audio src="05/de-2-14.mp3" preload="auto">
+</audio>
+<button class="show-english">
+英語
+</button>
+<div class="english">
+<p>Why is he wandering around the train looking like that?</p>
+</div>
+<hr>
+<p>15<em>.</em> 青年は乾いた砂の上で足のしずくを払った。</p>
+<audio src="05/de-2-15.mp3" preload="auto">
+</audio>
+<button class="show-english">
+英語
+</button>
+<div class="english">
+<p>The young man stamped on the dry sand to shake off the wet.</p>
+</div>
+<hr>
+<p>16<em>.</em> 何がきっかけでそんな恐ろしい光景を見たのか、心当たりはありますか？</p>
+<audio src="05/de-2-16.mp3" preload="auto">
+</audio>
+<button class="show-english">
+英語
+</button>
+<div class="english">
+<p>Any idea what might have sparked such a frightening vision?</p>
+</div>
+<hr>
+<p>17<em>.</em> こんな重い物を一人で動かすには相当骨が折れます。</p>
+<audio src="05/de-2-17.mp3" preload="auto">
+</audio>
+<button class="show-english">
+英語
+</button>
+<div class="english">
+<p>It’d be hard for one person to move something this heavy around.</p>
+</div>
+<hr>
+<p>18<em>.</em> 部屋はたちまち火と煙で埋まりました。</p>
+<audio src="05/de-2-18.mp3" preload="auto">
+</audio>
+<button class="show-english">
+英語
+</button>
+<div class="english">
+<p>The room was filled with fire and smoke.</p>
+</div>
+<hr>
+<p>19<em>.</em> あなたの危険な冒険旅行には、連れは一人では足りませんよ。</p>
+<audio src="05/de-2-19.mp3" preload="auto">
+</audio>
+<button class="show-english">
+英語
+</button>
+<div class="english">
+<p>You will need more than one companion in your dangerous adventure.</p>
+</div>
+<hr>
+<p>20<em>.</em> 地元のコミュニティが設立したこのセンターは、寄付金で運営されています。</p>
+<audio src="05/de-2-20.mp3" preload="auto">
+</audio>
+<button class="show-english">
+英語
+</button>
+<div class="english">
+<p>The community here set up this center, which is run on donations.</p>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

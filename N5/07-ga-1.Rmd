@@ -1,0 +1,288 @@
+---
+title="deshou"
+---
+
+<br>
+
+## <span class="top"> が　一 </span>
+
+<br>
+
+1*.* 非常階段があるな。これは便利だ。
+
+<audio src="07/ga-1-01.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+Here is an emergency staircase. That is convenient.
+
+</div>
+
+<hr>
+
+
+2*.* あなたがピアノを弾けるとは知りませんでした。
+
+<audio src="07/ga-1-02.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+I didn’t know you could play the piano.
+
+</div>
+
+<hr>
+
+
+3*.* 次から次へと恐ろしい危険が待っていて、逃げてまわる旅なのだ。
+
+<audio src="07/ga-1-03.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+During this trip I will fly from deadly peril into deadly peril.
+
+</div>
+
+<hr>
+
+
+4*.* イギリスの経済的安定、私の子どもたちの将来が心配なんです。
+
+<audio src="07/ga-1-04.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+I’m worried for the economic stability of the UK, and I’m worried for my children’s future.
+
+</div>
+
+<hr>
+
+
+
+5*.* ドアが開いて小百合が姿を現わした。
+
+<audio src="07/ga-1-05.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+The door opened and Sayuri appeared.
+
+</div>
+
+<hr>
+
+
+6*.* 推定で１０％のイギリス人が、アイルランド人の血筋を引いています。
+
+<audio src="07/ga-1-06.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+An estimated 10 percent of Brits have Irish heritage.
+
+</div>
+
+<hr>
+
+
+7*.* 夏が過ぎ、冬がふたたびやって来た。
+
+<audio src="07/ga-1-07.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+The summer passed, and winter came again.
+
+</div>
+
+<hr>
+
+
+8*.* 星々が窓に光り、夜空の静けさが私を取り巻くように思えた。
+
+<audio src="07/ga-1-08.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+The stars shone through the window and the silence of the heavens seemed to be round me.
+
+</div>
+
+<hr>
+
+
+9*.* 紙を走るペンの音がやんだ。
+
+<audio src="07/ga-1-09.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+The pen ceased to move over the paper.
+
+</div>
+
+<hr>
+
+
+10*.* よし、その金はわたしが貸そう。
+
+<audio src="07/ga-1-10.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+Okay, I will lend you the money.
+
+</div>
+
+<hr>
+
+
+11*.* 私が私のものをどう処分しようと、それはあなたにどんな関係があるんです？
+
+<audio src="07/ga-1-11.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+What business is it of yours to know what I do with my own things?
+
+</div>
+
+<hr>
+
+
+12*.* 日本の英語レベルが、外国人が日本でビジネスをすることをいっそう難しくしています。
+
+<audio src="07/ga-1-12.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+The level of English in Japan makes it more difficult for the foreigner to do business.
+
+</div>
+
+<hr>
+
+
+13*.* 自分の彼女が料理が下手だとガッカリする男性は多いようです。
+
+<audio src="07/ga-1-13.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+It seems that a lot of men feel disappointed when their girlfriends can’t cook.
+
+</div>
+
+<hr>
+
+
+14*.* 見たことのない時代を作り上げる面白さがありますね。
+
+<audio src="07/ga-1-14.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+It’s interesting to create an era that we’ve never seen.
+
+</div>
+
+<hr>
+
+
+15*.* 足が急に重くなり、猛烈な眠気がさしてきた。
+
+<audio src="07/ga-1-15.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+My legs felt suddenly heavy and a great drowsiness came upon me.
+
+</div>
+
+<hr>
+
+
+16*.* 努力に努力を重ねて作り上げたキャラクターが素晴らしく、この作品を見れば誰もが彼のファンになってしまうのではないでしょうか。
+
+<audio src="07/ga-1-16.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+He kept on trying his hardest to create an amazing character. I think anyone who watches this movie will become his fan.
+
+</div>
+
+<hr>
+
+
+17*.* Ｂｒｅｘｉｔの投票後、皆が大変なことになると話しています。
+
+<audio src="07/ga-1-17.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+Everybody speaks of calamity after the Brexit vote.
+
+</div>
+
+<hr>
+
+
+18*.* 庭の方からは、スバルが芝を刈る音が聞こえてきた。
+
+<audio src="07/ga-1-18.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+The sound of Subaru cutting the lawn came in from the garden.
+
+</div>
+
+<hr>
+
+
+19*.* 女の子が落としたのは小さな指輪だった。
+
+<audio src="07/ga-1-19.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+What the little girl dropped was a small ring.
+
+</div>
+
+<hr>
+
+
+20*.* 戦う理由が僕にはないよ。
+
+<audio src="07/ga-1-20.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+I have no reason to fight.
+
+</div>
+

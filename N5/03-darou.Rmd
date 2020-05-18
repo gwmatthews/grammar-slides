@@ -1,0 +1,303 @@
+---
+title: "darou"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default", "style.css"]
+    lib_dir: libs
+    includes: 
+      after_body: "header.html"
+    nature:
+      countIncrementalSlides: false
+      beforeInit: "js/macros.js"
+      slideNumberFormat: '%current%'
+---
+
+layout: true
+class: middle center
+
+---
+class: title-slide 
+count: false
+
+.top[ だろう ]
+
+---
+
+私はまだ夢を見ているのだろうか？
+
+![:audio](03/darou-01.mp3)
+
+![:button]
+
+.english[
+
+Am I still dreaming?
+
+]
+
+---
+
+彼らはいったいどんな夢を見てるだろう。
+
+![:audio](03/darou-02.mp3)
+
+![:button]
+
+.english[
+
+I wonder what sort of dreams they are having.
+
+]
+
+---
+
+たぶんふたりともわたしを忘れないだろう。
+
+![:audio](03/darou-03.mp3)
+
+![:button]
+
+.english[
+
+They probably won’t forget me.
+
+]
+
+---
+
+信じないよりは信じた方がいいだろう。
+
+![:audio](03/darou-04.mp3)
+
+![:button]
+
+.english[
+
+Better to believe than not to believe.
+
+]
+
+---
+
+急がせて悪かった。いろいろと大変だっただろう。
+
+![:audio](03/darou-05.mp3)
+
+![:button]
+
+.english[
+
+Sorry to hurry you. I’m sure it was tough.
+
+]
+
+---
+
+これこそ運動の最大の恩恵だろう。
+
+![:audio](03/darou-06.mp3)
+
+![:button]
+
+.english[
+
+This is probably the greatest benefit of physical exercise.
+
+]
+
+---
+
+そいつは君が持っていればいい。何かの役に立つだろう。
+
+![:audio](03/darou-07.mp3)
+
+![:button]
+
+.english[
+
+You can keep those. They might come in handy.
+
+]
+
+---
+
+どんなやつが、ここへ、この道具を持ってきたんだろう？
+
+![:audio](03/darou-08.mp3)
+
+![:button]
+
+.english[
+
+Who could have brought those tools here?
+
+]
+
+---
+
+美しいということはおそらく、危険な所持品なんだろうね。
+
+![:audio](03/darou-09.mp3)
+
+![:button]
+
+.english[
+
+Beauty is perhaps a dangerous possession.
+
+]
+
+---
+
+何も連絡がないので気を揉んでいることだろう。
+
+![:audio](03/darou-10.mp3)
+
+![:button]
+
+.english[
+
+You must be anxious at hearing nothing.
+
+]
+
+---
+
+きみは、わたしに借金の申し込みをしようと言うんだろう。
+
+![:audio](03/darou-11.mp3)
+
+![:button]
+
+.english[
+
+You are getting ready to touch me for a loan.
+
+]
+
+---
+
+そのとおり。百人中、九十九人までがそう言うだろう。
+
+![:audio](03/darou-12.mp3)
+
+![:button]
+
+.english[
+
+Exactly. Just what ninety-nine people out of a hundred would say!
+
+]
+
+---
+
+どうしてクイズ番組が楽しいって、人は思うんだろう？
+
+![:audio](03/darou-13.mp3)
+
+![:button]
+
+.english[
+
+Why do people find TV game shows to be entertaining?
+
+]
+
+---
+
+広告の数を削減すれば、売り上げに損害を与えるだろう。
+
+![:audio](03/darou-14.mp3)
+
+![:button]
+
+.english[
+
+Reducing the number of ads would probably cripple our sales.
+
+]
+
+---
+
+たった２４時間で重病化するのはどんな病気だろうか？
+
+![:audio](03/darou-15.mp3)
+
+![:button]
+
+.english[
+
+What kind of serious illness came on in a mere twenty-four hours?
+
+]
+
+---
+
+あのマーケティング計画を実行に移すのは、簡単ではないだろう。
+
+![:audio](03/darou-16.mp3)
+
+![:button]
+
+.english[
+
+That marketing plan may not be easy to execute.
+
+]
+
+---
+
+今まで運動しなかった人は、最初は身体が思うように動かないだろう。
+
+![:audio](03/darou-17.mp3)
+
+![:button]
+
+.english[
+
+If you haven’t been exercising, your body will probably protest at first.
+
+]
+
+---
+
+もしわたしがこのこころみで死ぬようなことになれば、彼はどうなるのだろう？
+
+![:audio](03/darou-18.mp3)
+
+![:button]
+
+.english[
+
+If I die in the attempt, what will become of him?
+
+]
+
+---
+
+どうしたら、われわれの製品設計に新鮮なアイデアを注入できるだろう？
+
+![:audio](03/darou-19.mp3)
+
+![:button]
+
+.english[
+
+How can we inject fresh ideas into our product designs?
+
+]
+
+---
+
+たくさんの人がすごく動揺して、「わあ、大変、新年だ！」と思うだろう。
+
+![:audio](03/darou-20.mp3)
+
+![:button]
+
+.english[
+
+I think a lot of people freak out and think, “Oh my god, another year!”
+
+]

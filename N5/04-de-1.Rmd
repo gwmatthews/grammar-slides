@@ -1,0 +1,233 @@
+---
+title: "で　一"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default", "style.css"]
+    lib_dir: libs
+    includes: 
+      after_body: "header.html"
+    nature:
+      countIncrementalSlides: false
+      beforeInit: "js/macros.js"
+      slideNumberFormat: '%current%'
+---
+
+layout: true
+class: middle center
+
+---
+class: title-slide 
+count: false
+
+.top[ で　一 ]
+
+---
+
+この帽子はどこで買いましたか？
+
+![:audio](04/de-1-01.mp3)
+
+![:button]
+
+.english[
+
+Where did you buy this hat?
+
+]
+
+---
+
+このレストランで食事しましょう。
+
+![:audio](04/de-1-02.mp3)
+
+![:button]
+
+.english[
+
+Let’s eat at this restaurant.
+
+]
+
+---
+
+家の中で遊ばないで。
+
+![:audio](04/de-1-03.mp3)
+
+![:button]
+
+.english[
+
+Don’t play inside the house.
+
+]
+
+---
+
+どこで日本語を勉強していますか？
+
+![:audio](04/de-1-04.mp3)
+
+![:button]
+
+.english[
+
+Where are you studying Japanese?
+
+]
+
+---
+
+新宿駅南口で会いましょうか？
+
+![:audio](04/de-1-05.mp3)
+
+![:button]
+
+.english[
+
+Shall we meet at the South gate of Shinjuku station?
+
+]
+
+---
+
+被害者は公園で殺された。
+
+![:audio](04/de-1-06.mp3)
+
+![:button]
+
+.english[
+
+The victim was killed in the park.
+
+]
+
+---
+
+私はいつも図書館で本を読みます。
+
+![:audio](04/de-1-07.mp3)
+
+![:button]
+
+.english[
+
+I always read books in the library.
+
+]
+
+---
+
+ここでサッカーをしないでください。
+
+![:audio](04/de-1-08.mp3)
+
+![:button]
+
+.english[
+
+Please don’t play soccer here.
+
+]
+
+---
+
+その著作権論争は法廷で決着しました。
+
+![:audio](04/de-1-09.mp3)
+
+![:button]
+
+.english[
+
+The copyright dispute was settled in court.
+
+]
+
+---
+
+数百人の幸運なファンがロンドンで列を成し、「ハリー・ポッターと呪いの子」の初公演を火曜日に見ました。
+
+![:audio](04/de-1-10.mp3)
+
+![:button]
+
+.english[
+
+Hundreds of lucky fans lined up in London to see the first showing of Harry Potter and the Cursed Child on Tuesday.
+
+]
+
+---
+
+探検家たちは、ブラジルのジャングルで、失われた文明を発見した。
+
+![:audio](04/de-1-11.mp3)
+
+![:button]
+
+.english[
+
+Explorers discovered a lost civilization in the jungles of Brazil.
+
+]
+
+---
+
+大学で蝶類の研究をしております。
+
+![:audio](04/de-1-12.mp3)
+
+![:button]
+
+.english[
+
+I study butterfly species at the university.
+
+]
+
+---
+
+道程のどこかで、別々の方向へ歩き出した。
+
+![:audio](04/de-1-13.mp3)
+
+![:button]
+
+.english[
+
+Somewhere along the road we took different turnings.
+
+]
+
+---
+
+中田は家の前で封筒の中を確かめている。
+
+![:audio](04/de-1-14.mp3)
+
+![:button]
+
+.english[
+
+Nakada’s checking the inside of the envelope in front of the house.
+
+]
+
+---
+
+危険が多く、物騒で、不潔で、騒がしい環境で生活している人もいました。
+
+![:audio](04/de-1-15.mp3)
+
+![:button]
+
+.english[
+
+Some of them lived in risky, dangerous, dirty and loud environments.
+
+]

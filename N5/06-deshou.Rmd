@@ -1,0 +1,288 @@
+---
+title="deshou"
+---
+
+<br>
+
+## <span class="top">　でしょう </span>
+
+<br>
+
+1*.* あなたならうまく乗り切れるでしょう。
+
+<audio src="06/deshou-01.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+I know you will be able to get through it.
+
+</div>
+
+<hr>
+
+
+2*.* あの世へ行けば、何もかもよくわかるでしょう。
+
+<audio src="06/deshou-02.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+In another world we shall understand it all.
+
+</div>
+
+<hr>
+
+
+3*.* ばかげた話に聞こえるでしょうね。
+
+<audio src="06/deshou-03.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+I expect that sounds foolish to you.
+
+</div>
+
+<hr>
+
+
+4*.* それではその話全部はたぶん伝説なのでしょうね。
+
+<audio src="06/deshou-04.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+Probably the whole story is a myth.
+
+</div>
+
+<hr>
+
+
+
+5*.* そんな自白を信じる者は多くないでしょうね。
+
+<audio src="06/deshou-05.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+Many might doubt such a confession.
+
+</div>
+
+<hr>
+
+
+6*.* 私の娘の子供たち、可愛いでしょう？
+
+<audio src="06/deshou-06.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+My daughter’s children. Aren’t they cute?
+
+</div>
+
+<hr>
+
+
+7*.* 熱心なアップルファンはきっと買うでしょう。
+
+<audio src="06/deshou-07.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+The die-hard Apple followers will buy it.
+
+</div>
+
+<hr>
+
+
+8*.* 私は最初の任務を決して忘れないでしょう。
+
+<audio src="06/deshou-08.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+I’ll never forget my first assignment.
+
+</div>
+
+<hr>
+
+
+9*.* ご自分がどんなに幸運な方か、おわかりでしょうね。
+
+<audio src="06/deshou-09.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+You know how lucky you are, don’t you?
+
+</div>
+
+<hr>
+
+
+10*.* きっと有益なご協力をいただけるでしょう。
+
+<audio src="06/deshou-10.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+I am sure your co-operation will be very valuable.
+
+</div>
+
+<hr>
+
+
+11*.* 今、あなたが望んでいたのは、理知だったんでしょう。
+
+<audio src="06/deshou-11.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+It was intelligence you were requiring just now.
+
+</div>
+
+<hr>
+
+
+12*.* 私は何たる低能だったでしょう。ようやく、はっきりと解った。
+
+<audio src="06/deshou-12.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+I have been an imbecile. I see clearly at last.
+
+</div>
+
+<hr>
+
+
+13*.* ねえ、コーヒー茶碗は、粉みじんにこわれているでしょう。
+
+<audio src="06/deshou-13.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+See, the coffee-cup is absolutely smashed to powder.
+
+</div>
+
+<hr>
+
+
+14*.* 私が行けば、ショウタも、今晩は泊めてくれるでしょう。
+
+<audio src="06/deshou-14.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+Shota will put me up for the night when I get there.
+
+</div>
+
+<hr>
+
+
+15*.* どうすればあなたのように平常心を保っていられるのでしょう。
+
+<audio src="06/deshou-15.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+How do I maintain serenity and peace like you?
+
+</div>
+
+<hr>
+
+
+16*.* けっきょく、あの地方みたいなところは、ありませんでしょう？
+
+<audio src="06/deshou-16.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+After all, there’s nothing like the country, is there?
+
+</div>
+
+<hr>
+
+
+17*.* その問題については、たぶんあなたは何も聞いていないでしょう。
+
+<audio src="06/deshou-17.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+It is unlikely that you would ever have heard anything of the matter.
+
+</div>
+
+<hr>
+
+
+18*.* 一生懸命に働いて、運もあればそのうちにはお金持ちにもなるでしょう。
+
+<audio src="06/deshou-18.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+With diligence and good luck, you may be rich in time.
+
+</div>
+
+<hr>
+
+
+19*.* 正直に言って、この中ではおそらく、私がいちばん怖くないでしょう。
+
+<audio src="06/deshou-19.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+To be honest, I’m probably the least scary of them all.
+
+</div>
+
+<hr>
+
+
+20*.* ここで手紙は切れています。疑いもなく、書き手に邪魔がはいったのでしょう。
+
+<audio src="06/deshou-20.mp3" preload="auto"></audio>
+
+<button class="show-english">英語</button>
+<div class="english">
+
+Here, the letter breaks off. Doubtless the writer was interrupted.
+
+</div>
+

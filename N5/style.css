@@ -1,0 +1,47 @@
+@import url(https://fonts.googleapis.com/css?family=Sawarabi+Mincho);
+@import url(https://fonts.googleapis.com/earlyaccess/hannari.css);
+
+p, h1, h2, h3, h4 {
+  font-family: 'Sawarabi Mincho';
+  font-size: 200%;
+}
+
+.english {
+  font-size: 60%;
+  visibility: hidden;
+
+}
+
+.smaller {
+  
+  font-size: 75%;
+  
+}
+
+.show-english {
+  
+  transform: translateY(-40px);
+  font-size: 120%;
+  
+}
+
+.top {
+  
+  margin-top: 30px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 90px;
+  padding: 20px;
+  border: 2px #ddd dashed;
+  border-radius: 10px;
+  background-color: #eee;
+  font-size: 200%;
+  font-family: 'Sawarabi Mincho';
+}
+
+.title-slide .remark-slide-number {
+  display: none;
+}
+
+
