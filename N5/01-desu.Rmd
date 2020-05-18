@@ -12,8 +12,8 @@ output:
       beforeInit: "js/macros.js"
       slideNumberFormat: '%current%'
       navigation:
-        click: true
-        touch: false
+        click: false
+        touch: true
         scroll: true
 ---
 
