@@ -11,6 +11,10 @@ output:
       countIncrementalSlides: false
       beforeInit: "js/macros.js"
       slideNumberFormat: '%current%'
+      navigation:
+        scroll: true
+        click: false
+        touch: false
 
 ---
 
@@ -22,6 +26,8 @@ class: title-slide
 count: false
 
 .top[ です ]
+
+![:next]
 
 ---
 
@@ -36,6 +42,10 @@ count: false
 That’s a very interesting comment.
 
 ]
+
+![:prev]
+
+![:next]
 
 ---
 
@@ -52,6 +62,10 @@ I felt that my dream of becoming a concert pianist was over.
 
 ]
 
+![:prev]
+
+![:next]
+
 ---
 
 最初からずっと、サッカーが好きでしたね。ごく自然にそうなりました。
@@ -65,6 +79,10 @@ I felt that my dream of becoming a concert pianist was over.
 I’ve loved football ever since day one. It just came so naturally.
 
 ]
+
+![:prev]
+
+![:next]
 
 ---
 
@@ -80,6 +98,10 @@ They were in a wide hall with doors on either side.
 
 ]
 
+![:prev]
+
+![:next]
+
 ---
 
 フェイスブックは、どうあれ職場では奇妙な現象です。
@@ -93,6 +115,10 @@ They were in a wide hall with doors on either side.
 Facebook is an odd phenomenon in the workplace anyway.
 
 ]
+
+![:prev]
+
+![:next]
 
 ---
 
@@ -108,6 +134,10 @@ Obviously I’m British, but I also feel very European.
 
 ]
 
+![:prev]
+
+![:next]
+
 ---
 
 考えてみると、食べ物、特に食べ物を人と分かち合うことは、心に残るすてきな贈り物です。
@@ -121,6 +151,10 @@ Obviously I’m British, but I also feel very European.
 Come to think of it, food, and especially sharing food, is a great and memorable gift.
 
 ]
+
+![:prev]
+
+![:next]
 
 ---
 
@@ -136,6 +170,10 @@ I was a positive child. I did whatever I wanted to.
 
 ]
 
+![:prev]
+
+![:next]
+
 ---
 
 客たちの期待は裏切られず、まことに楽しい宴会でした。
@@ -149,6 +187,10 @@ I was a positive child. I did whatever I wanted to.
 The guests were not disappointed: they had a very pleasant feast.
 
 ]
+
+![:prev]
+
+![:next]
 
 ---
 
@@ -168,6 +210,10 @@ Your father is a well-known journalist. What does he mean to you, and how have y
 
 ]
 
+![:prev]
+
+![:next]
+
 ---
 
 わたしたちは間違いなく似合いのカップルだった。
@@ -181,6 +227,10 @@ Your father is a well-known journalist. What does he mean to you, and how have y
 It was so obvious that we were meant for each other.
 
 ]
+
+![:prev]
+
+![:next]
 
 ---
 
@@ -196,6 +246,10 @@ I am very, very pleased that the UK has another female Prime Minister.
 
 ]
 
+![:prev]
+
+![:next]
+
 ---
 
 父の敵を取るために、復讐心に燃えるキャラクターです。
@@ -209,6 +263,10 @@ I am very, very pleased that the UK has another female Prime Minister.
 This is a character whose heart is filled with the desire to avenge his father.
 
 ]
+
+![:prev]
+
+![:next]
 
 ---
 
@@ -228,6 +286,10 @@ You speak of danger, but you do not understand. This is no treasure-hunt, no the
 
 ]
 
+![:prev]
+
+![:next]
+
 ---
 
 本当に優れたマジックは「子供だまし」ではありませんよ。
@@ -241,6 +303,10 @@ You speak of danger, but you do not understand. This is no treasure-hunt, no the
 Truly exceptional magic is not mere “kid’s stuff.”
 
 ]
+
+![:prev]
+
+![:next]
 
 ---
 
@@ -256,6 +322,10 @@ The late afternoon was bright and peaceful.
 
 ]
 
+![:prev]
+
+![:next]
+
 ---
 
 私たちはすごく怖いんです。でも私たちはあなたと一緒に行くつもりです。
@@ -270,6 +340,10 @@ We are horribly afraid, but we are coming with you.
 
 ]
 
+![:prev]
+
+![:next]
+
 ---
 
 芝居をすることができて本当に幸せです。
@@ -283,6 +357,10 @@ We are horribly afraid, but we are coming with you.
 I’m so happy I can play on a stage.
 
 ]
+
+![:prev]
+
+![:next]
 
 ---
 
@@ -299,6 +377,10 @@ Who says your supposition is not reality?
 
 ]
 
+![:prev]
+
+![:next]
+
 ---
 
 これは、東京市内の掲示の写真です。
@@ -313,4 +395,5 @@ This picture is a notice in Tokyo.
 
 ]
 
+![:prev]
 

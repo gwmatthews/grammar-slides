@@ -53,4 +53,29 @@ p, h1, h2, h3, h4 {
   display: none;
 }
 
+.next, .previous {
+  
+ font-size:150%;
+  color: #555;
+  border-radius: 7px;
+  width: 40px;
+  text-align: center; 
+  opacity: 0.3;
+}
 
+.next {
+  
+  position: absolute; 
+  left: 93%; 
+  top: 85%; 
+  
+}
+
+
+.previous {
+  
+  position: absolute; 
+  left: 3%; 
+  top: 85%; 
+  
+}

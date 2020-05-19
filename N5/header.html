@@ -2,7 +2,7 @@
 
 <script>
 $(document).ready(function(){
-    $("button").hover(function(){
+    $("button.show-english").click(function(){
       if ( $(this).next('div.english').css('visibility') == 'hidden' )
         $(this).next('div.english').css('visibility','visible');
       else
@@ -10,3 +10,4 @@ $(document).ready(function(){
     });
 });
 </script>
+

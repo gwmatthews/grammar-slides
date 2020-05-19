@@ -46,3 +46,19 @@ remark.macros.button = function () {
   
   return '<button class="show-english">英語</button>';
 }
+
+
+remark.macros.next = function () {
+  
+  return '<button class="next" onclick="slideshow.gotoNextSlide();">+</button>'
+  
+}
+
+remark.macros.prev = function () {
+  
+  return '<button class="previous" onclick="slideshow.gotoPreviousSlide();">-</button>'
+  
+}
+
+
+/* x= 60 750  y= 400 */
