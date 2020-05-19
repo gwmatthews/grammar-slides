@@ -24,3 +24,11 @@ pagetitle: "文法"
 - [授業 七](N5/07-ga-1.html):　が 一
 
 - [授業 八](N5/08-ga-2.html):　が ニ
+
+- [授業 九](N5/09-gaaru.html): がある
+
+- [授業 十](N5/10-gairu.html):　がいる
+
+- [授業 十一](N5/11-hougaii-1.html):　ほうがいい　一
+
+- [授業 十ニ](N5/12-hougaii-2.html):　はうがいい　ニ
