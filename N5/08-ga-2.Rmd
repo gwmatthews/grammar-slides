@@ -1,288 +1,385 @@
 ---
-title="が　に"
+title: " が　ニ "
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default", "style.css"]
+    lib_dir: libs
+    includes: 
+      after_body: "header.html"
+    nature:
+      countIncrementalSlides: false
+      beforeInit: "js/macros.js"
+      slideNumberFormat: '%current%'
 ---
 
-<br>
+layout: true
+class: middle center
 
-## <span class="top"> が　ニ </span>
+---
+class: title-slide 
+count: false
 
-<br>
+.top[ が　ニ ]
 
-1*.* 不況だったが、以前にはもっと深刻な不況もあった。
+![:next]
 
-<audio src="08/ga-2-01.mp3" preload="auto"></audio>
+---
 
-<button class="show-english">英語</button>
-<div class="english">
+不況だったが、以前にはもっと深刻な不況もあった。
+
+![:audio](08/ga-2-01.mp3)
+
+![:button]
+
+.english[
 
 There was a recession, but people had seen worse.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-2*.* 眠れるとは思っていなかった、私はちゃんと眠れた。
+---
 
-<audio src="08/ga-2-02.mp3" preload="auto"></audio>
+眠れるとは思っていなかった、私はちゃんと眠れた。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](08/ga-2-02.mp3)
+
+![:button]
+
+.english[
 
 I wasn’t sure I’d sleep, but I did, and soundly.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-3*.* 水はいらないが、コカコーラをもらえばありがたいね。
+---
 
-<audio src="08/ga-2-03.mp3" preload="auto"></audio>
+水はいらないが、コカコーラをもらえばありがたいね。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](08/ga-2-03.mp3)
+
+![:button]
+
+.english[
 
 I don’t want water, but a Coca-Cola would be very nice.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-4*.* そんなことはないと思うが、断言できる者はいないな。
+---
 
-<audio src="08/ga-2-04.mp3" preload="auto"></audio>
+そんなことはないと思うが、断言できる者はいないな。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](08/ga-2-04.mp3)
+
+![:button]
+
+.english[
 
 I don’t think so, but who can tell?
 
-</div>
+]
 
-<hr>
+![:prev]
+
+![:next]
+
+---
 
 
+その会社の社長は辞任したが、誰も理由を説明しなかった。
 
-5*.* その会社の社長は辞任したが、誰も理由を説明しなかった。
+![:audio](08/ga-2-05.mp3)
 
-<audio src="08/ga-2-05.mp3" preload="auto"></audio>
+![:button]
 
-<button class="show-english">英語</button>
-<div class="english">
+.english[
 
 The company resident resigned, but no one explained why.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-6*.* いくつか小さな欠点はあるが、これは素晴らしい小説だ。
+---
 
-<audio src="08/ga-2-06.mp3" preload="auto"></audio>
+いくつか小さな欠点はあるが、これは素晴らしい小説だ。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](08/ga-2-06.mp3)
+
+![:button]
+
+.english[
 
 This is a great novel, although it has a few minor flaws.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-7*.* 厳密に言うと、ここに駐車はできないが、皆がやっている。
+---
 
-<audio src="08/ga-2-07.mp3" preload="auto"></audio>
+厳密に言うと、ここに駐車はできないが、皆がやっている。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](08/ga-2-07.mp3)
+
+![:button]
+
+.english[
 
 Technically, you can’t park here, but everybody does.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-8*.* 彼は横になり、目を閉じて休息したが、眠りはしなかった。
+---
 
-<audio src="08/ga-2-08.mp3" preload="auto"></audio>
+彼は横になり、目を閉じて休息したが、眠りはしなかった。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](08/ga-2-08.mp3)
+
+![:button]
+
+.english[
 
 He lay down and closed his eyes to rest, but he got no sleep whatever.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-9*.* 成功は保証しませんが、可能性は充分あると思います。
+---
 
-<audio src="08/ga-2-09.mp3" preload="auto"></audio>
+成功は保証しませんが、可能性は充分あると思います。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](08/ga-2-09.mp3)
+
+![:button]
+
+.english[
 
 I do not guarantee success, but I do think there is a reasonable possibility of it.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-10*.* 失礼ですが、それでは、まえのあなたのお話と喰いちがいますよ。
+---
 
-<audio src="08/ga-2-10.mp3" preload="auto"></audio>
+失礼ですが、それでは、まえのあなたのお話と喰いちがいますよ。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](08/ga-2-10.mp3)
+
+![:button]
+
+.english[
 
 Excuse me, but that is not just what you told us before.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-11*.* 仕事なら金銭をもたらしてくれますが、友情は金には結びつきません。
+---
 
-<audio src="08/ga-2-11.mp3" preload="auto"></audio>
+仕事なら金銭をもたらしてくれますが、友情は金には結びつきません。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](08/ga-2-11.mp3)
+
+![:button]
+
+.english[
 
 Business brings money, but friendship does not.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-12*.* 君はこの上地へやって来た。そして商売をはじめたが、金につまった。
+---
 
-<audio src="08/ga-2-12.mp3" preload="auto"></audio>
+君はこの上地へやって来た。そして商売をはじめたが、金につまった。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](08/ga-2-12.mp3)
+
+![:button]
+
+.english[
 
 You came here; you started a little business, but you were short of money.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-13*.* 私は少しこわくなってきましたが、どうしたらいいかわかりませんでした。
+---
 
-<audio src="08/ga-2-13.mp3" preload="auto"></audio>
+私は少しこわくなってきましたが、どうしたらいいかわかりませんでした。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](08/ga-2-13.mp3)
+
+![:button]
+
+.english[
 
 I began to get scared, but I didn’t know what to do.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-14*.* 心臓発作を起こしたことはないが、これがその本物だっていう気がするよ。
+---
 
-<audio src="08/ga-2-14.mp3" preload="auto"></audio>
+心臓発作を起こしたことはないが、これがその本物だっていう気がするよ。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](08/ga-2-14.mp3)
+
+![:button]
+
+.english[
 
 I never had a heart attack, but this sure feels like one.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-15*.* アキラは私をばか呼ばわりしたが、それは侮辱というより冗談だった。
+---
 
-<audio src="08/ga-2-15.mp3" preload="auto"></audio>
+アキラは私をばか呼ばわりしたが、それは侮辱というより冗談だった。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](08/ga-2-15.mp3)
+
+![:button]
+
+.english[
 
 Akira called me stupid, but it was more of a joke and an insult.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-16*.* 私の父はジャズの大ファンだが、私はロックンロールが好きだ。
+---
 
-<audio src="08/ga-2-16.mp3" preload="auto"></audio>
+私の父はジャズの大ファンだが、私はロックンロールが好きだ。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](08/ga-2-16.mp3)
+
+![:button]
+
+.english[
 
 My father is a jazz enthusiast, but I like rock ‘n’ roll.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-17*.* 二人は、長いあいだ話をしていたが、ほとんど心のなぐさめにはならなかった。
+---
 
-<audio src="08/ga-2-17.mp3" preload="auto"></audio>
+二人は、長いあいだ話をしていたが、ほとんど心のなぐさめにはならなかった。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](08/ga-2-17.mp3)
+
+![:button]
+
+.english[
 
 The two of them had a long talk, but it brought them little comfort.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-18*.* このアパートは古くて狭いが、学校から近くて便利だ。
+---
 
-<audio src="08/ga-2-18.mp3" preload="auto"></audio>
+このアパートは古くて狭いが、学校から近くて便利だ。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](08/ga-2-18.mp3)
+
+![:button]
+
+.english[
 
 Though this apartment is old and small, it’s convenient because it’s near my school.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-19*.* 失礼ですがこちらの切符は同じ３でもB寝台です。
+---
 
-<audio src="08/ga-2-19.mp3" preload="auto"></audio>
+失礼ですがこちらの切符は同じ３でもB寝台です。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](08/ga-2-19.mp3)
+
+![:button]
+
+.english[
 
 I’m sorry, your ticket is for compartment 3 on sleeping car B.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-20*.* 口をきこうとしたが、舌がひきつった。
+---
 
-<audio src="08/ga-2-20.mp3" preload="auto"></audio>
+口をきこうとしたが、舌がひきつった。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](08/ga-2-20.mp3)
+
+![:button]
+
+.english[
 
 I wished to speak, but my tongue refused to move.
 
-</div>
+]
+
+![:prev]
 

@@ -1,288 +1,386 @@
 ---
-title="deshou"
+title: " でしょう "
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default", "style.css"]
+    lib_dir: libs
+    includes: 
+      after_body: "header.html"
+    nature:
+      countIncrementalSlides: false
+      beforeInit: "js/macros.js"
+      slideNumberFormat: '%current%'
 ---
 
-<br>
+layout: true
+class: middle center
 
-## <span class="top">　でしょう </span>
+---
+class: title-slide 
+count: false
 
-<br>
+.top[　でしょう ]
 
-1*.* あなたならうまく乗り切れるでしょう。
 
-<audio src="06/deshou-01.mp3" preload="auto"></audio>
+![:next]
 
-<button class="show-english">英語</button>
-<div class="english">
+---
+
+あなたならうまく乗り切れるでしょう。
+
+![:audio](06/deshou-01.mp3)
+
+![:button]
+
+.english[
 
 I know you will be able to get through it.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-2*.* あの世へ行けば、何もかもよくわかるでしょう。
+---
 
-<audio src="06/deshou-02.mp3" preload="auto"></audio>
+あの世へ行けば、何もかもよくわかるでしょう。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](06/deshou-02.mp3)
+
+![:button]
+
+.english[
 
 In another world we shall understand it all.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-3*.* ばかげた話に聞こえるでしょうね。
+---
 
-<audio src="06/deshou-03.mp3" preload="auto"></audio>
+ばかげた話に聞こえるでしょうね。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](06/deshou-03.mp3)
+
+![:button]
+
+.english[
 
 I expect that sounds foolish to you.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-4*.* それではその話全部はたぶん伝説なのでしょうね。
+---
 
-<audio src="06/deshou-04.mp3" preload="auto"></audio>
+それではその話全部はたぶん伝説なのでしょうね。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](06/deshou-04.mp3)
+
+![:button]
+
+.english[
 
 Probably the whole story is a myth.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
+---
 
-5*.* そんな自白を信じる者は多くないでしょうね。
+そんな自白を信じる者は多くないでしょうね。
 
-<audio src="06/deshou-05.mp3" preload="auto"></audio>
+![:audio](06/deshou-05.mp3)
 
-<button class="show-english">英語</button>
-<div class="english">
+![:button]
+
+.english[
 
 Many might doubt such a confession.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-6*.* 私の娘の子供たち、可愛いでしょう？
+---
 
-<audio src="06/deshou-06.mp3" preload="auto"></audio>
+私の娘の子供たち、可愛いでしょう？
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](06/deshou-06.mp3)
+
+![:button]
+
+.english[
 
 My daughter’s children. Aren’t they cute?
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-7*.* 熱心なアップルファンはきっと買うでしょう。
+---
 
-<audio src="06/deshou-07.mp3" preload="auto"></audio>
+熱心なアップルファンはきっと買うでしょう。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](06/deshou-07.mp3)
+
+![:button]
+
+.english[
 
 The die-hard Apple followers will buy it.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-8*.* 私は最初の任務を決して忘れないでしょう。
+---
 
-<audio src="06/deshou-08.mp3" preload="auto"></audio>
+私は最初の任務を決して忘れないでしょう。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](06/deshou-08.mp3)
+
+![:button]
+
+.english[
 
 I’ll never forget my first assignment.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-9*.* ご自分がどんなに幸運な方か、おわかりでしょうね。
+---
 
-<audio src="06/deshou-09.mp3" preload="auto"></audio>
+ご自分がどんなに幸運な方か、おわかりでしょうね。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](06/deshou-09.mp3)
+
+![:button]
+
+.english[
 
 You know how lucky you are, don’t you?
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-10*.* きっと有益なご協力をいただけるでしょう。
+---
 
-<audio src="06/deshou-10.mp3" preload="auto"></audio>
+きっと有益なご協力をいただけるでしょう。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](06/deshou-10.mp3)
+
+![:button]
+
+.english[
 
 I am sure your co-operation will be very valuable.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-11*.* 今、あなたが望んでいたのは、理知だったんでしょう。
+---
 
-<audio src="06/deshou-11.mp3" preload="auto"></audio>
+今、あなたが望んでいたのは、理知だったんでしょう。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](06/deshou-11.mp3)
+
+![:button]
+
+.english[
 
 It was intelligence you were requiring just now.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-12*.* 私は何たる低能だったでしょう。ようやく、はっきりと解った。
+---
 
-<audio src="06/deshou-12.mp3" preload="auto"></audio>
+私は何たる低能だったでしょう。ようやく、はっきりと解った。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](06/deshou-12.mp3)
+
+![:button]
+
+.english[
 
 I have been an imbecile. I see clearly at last.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-13*.* ねえ、コーヒー茶碗は、粉みじんにこわれているでしょう。
+---
 
-<audio src="06/deshou-13.mp3" preload="auto"></audio>
+ねえ、コーヒー茶碗は、粉みじんにこわれているでしょう。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](06/deshou-13.mp3)
+
+![:button]
+
+.english[
 
 See, the coffee-cup is absolutely smashed to powder.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-14*.* 私が行けば、ショウタも、今晩は泊めてくれるでしょう。
+---
 
-<audio src="06/deshou-14.mp3" preload="auto"></audio>
+私が行けば、ショウタも、今晩は泊めてくれるでしょう。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](06/deshou-14.mp3)
+
+![:button]
+
+.english[
 
 Shota will put me up for the night when I get there.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-15*.* どうすればあなたのように平常心を保っていられるのでしょう。
+---
 
-<audio src="06/deshou-15.mp3" preload="auto"></audio>
+どうすればあなたのように平常心を保っていられるのでしょう。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](06/deshou-15.mp3)
+
+![:button]
+
+.english[
 
 How do I maintain serenity and peace like you?
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-16*.* けっきょく、あの地方みたいなところは、ありませんでしょう？
+---
 
-<audio src="06/deshou-16.mp3" preload="auto"></audio>
+けっきょく、あの地方みたいなところは、ありませんでしょう？
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](06/deshou-16.mp3)
+
+![:button]
+
+.english[
 
 After all, there’s nothing like the country, is there?
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-17*.* その問題については、たぶんあなたは何も聞いていないでしょう。
+---
 
-<audio src="06/deshou-17.mp3" preload="auto"></audio>
+その問題については、たぶんあなたは何も聞いていないでしょう。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](06/deshou-17.mp3)
+
+![:button]
+
+.english[
 
 It is unlikely that you would ever have heard anything of the matter.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-18*.* 一生懸命に働いて、運もあればそのうちにはお金持ちにもなるでしょう。
+---
 
-<audio src="06/deshou-18.mp3" preload="auto"></audio>
+一生懸命に働いて、運もあればそのうちにはお金持ちにもなるでしょう。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](06/deshou-18.mp3)
+
+![:button]
+
+.english[
 
 With diligence and good luck, you may be rich in time.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-19*.* 正直に言って、この中ではおそらく、私がいちばん怖くないでしょう。
+---
 
-<audio src="06/deshou-19.mp3" preload="auto"></audio>
+正直に言って、この中ではおそらく、私がいちばん怖くないでしょう。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](06/deshou-19.mp3)
+
+![:button]
+
+.english[
 
 To be honest, I’m probably the least scary of them all.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-20*.* ここで手紙は切れています。疑いもなく、書き手に邪魔がはいったのでしょう。
+---
 
-<audio src="06/deshou-20.mp3" preload="auto"></audio>
+ここで手紙は切れています。疑いもなく、書き手に邪魔がはいったのでしょう。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](06/deshou-20.mp3)
+
+![:button]
+
+.english[
 
 Here, the letter breaks off. Doubtless the writer was interrupted.
 
-</div>
+]
+
+![:prev]
+
 

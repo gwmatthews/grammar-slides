@@ -1,288 +1,384 @@
 ---
-title="deshou"
+title: " が　一 "
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default", "style.css"]
+    lib_dir: libs
+    includes: 
+      after_body: "header.html"
+    nature:
+      countIncrementalSlides: false
+      beforeInit: "js/macros.js"
+      slideNumberFormat: '%current%'
 ---
 
-<br>
+layout: true
+class: middle center
 
-## <span class="top"> が　一 </span>
+---
+class: title-slide 
+count: false
 
-<br>
+.top[ が　一 ]
 
-1*.* 非常階段があるな。これは便利だ。
+![:next]
 
-<audio src="07/ga-1-01.mp3" preload="auto"></audio>
+---
 
-<button class="show-english">英語</button>
-<div class="english">
+非常階段があるな。これは便利だ。
+
+![:audio](07/ga-1-01.mp3)
+
+![:button]
+
+.english[
 
 Here is an emergency staircase. That is convenient.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-2*.* あなたがピアノを弾けるとは知りませんでした。
+---
 
-<audio src="07/ga-1-02.mp3" preload="auto"></audio>
+あなたがピアノを弾けるとは知りませんでした。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](07/ga-1-02.mp3)
+
+![:button]
+
+.english[
 
 I didn’t know you could play the piano.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-3*.* 次から次へと恐ろしい危険が待っていて、逃げてまわる旅なのだ。
+---
 
-<audio src="07/ga-1-03.mp3" preload="auto"></audio>
+次から次へと恐ろしい危険が待っていて、逃げてまわる旅なのだ。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](07/ga-1-03.mp3)
+
+![:button]
+
+.english[
 
 During this trip I will fly from deadly peril into deadly peril.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-4*.* イギリスの経済的安定、私の子どもたちの将来が心配なんです。
+---
 
-<audio src="07/ga-1-04.mp3" preload="auto"></audio>
+イギリスの経済的安定、私の子どもたちの将来が心配なんです。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](07/ga-1-04.mp3)
+
+![:button]
+
+.english[
 
 I’m worried for the economic stability of the UK, and I’m worried for my children’s future.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
+---
 
-5*.* ドアが開いて小百合が姿を現わした。
+ドアが開いて小百合が姿を現わした。
 
-<audio src="07/ga-1-05.mp3" preload="auto"></audio>
+![:audio](07/ga-1-05.mp3)
 
-<button class="show-english">英語</button>
-<div class="english">
+![:button]
+
+.english[
 
 The door opened and Sayuri appeared.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-6*.* 推定で１０％のイギリス人が、アイルランド人の血筋を引いています。
+---
 
-<audio src="07/ga-1-06.mp3" preload="auto"></audio>
+推定で１０％のイギリス人が、アイルランド人の血筋を引いています。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](07/ga-1-06.mp3)
+
+![:button]
+
+.english[
 
 An estimated 10 percent of Brits have Irish heritage.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-7*.* 夏が過ぎ、冬がふたたびやって来た。
+---
 
-<audio src="07/ga-1-07.mp3" preload="auto"></audio>
+夏が過ぎ、冬がふたたびやって来た。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](07/ga-1-07.mp3)
+
+![:button]
+
+.english[
 
 The summer passed, and winter came again.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-8*.* 星々が窓に光り、夜空の静けさが私を取り巻くように思えた。
+---
 
-<audio src="07/ga-1-08.mp3" preload="auto"></audio>
+星々が窓に光り、夜空の静けさが私を取り巻くように思えた。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](07/ga-1-08.mp3)
+
+![:button]
+
+.english[
 
 The stars shone through the window and the silence of the heavens seemed to be round me.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-9*.* 紙を走るペンの音がやんだ。
+---
 
-<audio src="07/ga-1-09.mp3" preload="auto"></audio>
+紙を走るペンの音がやんだ。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](07/ga-1-09.mp3)
+
+![:button]
+
+.english[
 
 The pen ceased to move over the paper.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-10*.* よし、その金はわたしが貸そう。
+---
 
-<audio src="07/ga-1-10.mp3" preload="auto"></audio>
+よし、その金はわたしが貸そう。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](07/ga-1-10.mp3)
+
+![:button]
+
+.english[
 
 Okay, I will lend you the money.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-11*.* 私が私のものをどう処分しようと、それはあなたにどんな関係があるんです？
+---
 
-<audio src="07/ga-1-11.mp3" preload="auto"></audio>
+私が私のものをどう処分しようと、それはあなたにどんな関係があるんです？
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](07/ga-1-11.mp3)
+
+![:button]
+
+.english[
 
 What business is it of yours to know what I do with my own things?
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-12*.* 日本の英語レベルが、外国人が日本でビジネスをすることをいっそう難しくしています。
+---
 
-<audio src="07/ga-1-12.mp3" preload="auto"></audio>
+日本の英語レベルが、外国人が日本でビジネスをすることをいっそう難しくしています。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](07/ga-1-12.mp3)
+
+![:button]
+
+.english[
 
 The level of English in Japan makes it more difficult for the foreigner to do business.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-13*.* 自分の彼女が料理が下手だとガッカリする男性は多いようです。
+---
 
-<audio src="07/ga-1-13.mp3" preload="auto"></audio>
+自分の彼女が料理が下手だとガッカリする男性は多いようです。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](07/ga-1-13.mp3)
+
+![:button]
+
+.english[
 
 It seems that a lot of men feel disappointed when their girlfriends can’t cook.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-14*.* 見たことのない時代を作り上げる面白さがありますね。
+---
 
-<audio src="07/ga-1-14.mp3" preload="auto"></audio>
+見たことのない時代を作り上げる面白さがありますね。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](07/ga-1-14.mp3)
+
+![:button]
+
+.english[
 
 It’s interesting to create an era that we’ve never seen.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-15*.* 足が急に重くなり、猛烈な眠気がさしてきた。
+---
 
-<audio src="07/ga-1-15.mp3" preload="auto"></audio>
+足が急に重くなり、猛烈な眠気がさしてきた。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](07/ga-1-15.mp3)
+
+![:button]
+
+.english[
 
 My legs felt suddenly heavy and a great drowsiness came upon me.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-16*.* 努力に努力を重ねて作り上げたキャラクターが素晴らしく、この作品を見れば誰もが彼のファンになってしまうのではないでしょうか。
+---
 
-<audio src="07/ga-1-16.mp3" preload="auto"></audio>
+努力に努力を重ねて作り上げたキャラクターが素晴らしく、この作品を見れば誰もが彼のファンになってしまうのではないでしょうか。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](07/ga-1-16.mp3)
+
+![:button]
+
+.english[
 
 He kept on trying his hardest to create an amazing character. I think anyone who watches this movie will become his fan.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-17*.* Ｂｒｅｘｉｔの投票後、皆が大変なことになると話しています。
+---
 
-<audio src="07/ga-1-17.mp3" preload="auto"></audio>
+Ｂｒｅｘｉｔの投票後、皆が大変なことになると話しています。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](07/ga-1-17.mp3)
+
+![:button]
+
+.english[
 
 Everybody speaks of calamity after the Brexit vote.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-18*.* 庭の方からは、スバルが芝を刈る音が聞こえてきた。
+---
 
-<audio src="07/ga-1-18.mp3" preload="auto"></audio>
+庭の方からは、スバルが芝を刈る音が聞こえてきた。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](07/ga-1-18.mp3)
+
+![:button]
+
+.english[
 
 The sound of Subaru cutting the lawn came in from the garden.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-19*.* 女の子が落としたのは小さな指輪だった。
+---
 
-<audio src="07/ga-1-19.mp3" preload="auto"></audio>
+女の子が落としたのは小さな指輪だった。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](07/ga-1-19.mp3)
+
+![:button]
+
+.english[
 
 What the little girl dropped was a small ring.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-20*.* 戦う理由が僕にはないよ。
+---
 
-<audio src="07/ga-1-20.mp3" preload="auto"></audio>
+戦う理由が僕にはないよ。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](07/ga-1-20.mp3)
+
+![:button]
+
+.english[
 
 I have no reason to fight.
 
-</div>
+]
+
+![:prev]
 

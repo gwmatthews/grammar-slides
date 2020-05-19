@@ -1,288 +1,386 @@
 ---
-title="de-2"
+title: " で　ニ "
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default", "style.css"]
+    lib_dir: libs
+    includes: 
+      after_body: "header.html"
+    nature:
+      countIncrementalSlides: false
+      beforeInit: "js/macros.js"
+      slideNumberFormat: '%current%'
 ---
-<br>
 
-## <span class="top"> で　ニ </span>
+layout: true
+class: middle center
 
-<br>
+---
+class: title-slide 
+count: false
 
-1*.* おれは自分の目で見たことを信じる男なんだ。
+.top[ で　ニ ]
 
-<audio src="05/de-2-01.mp3" preload="auto"></audio>
+![:next]
 
-<button class="show-english">英語</button>
-<div class="english">
+---
+
+おれは自分の目で見たことを信じる男なんだ。
+
+![:audio](05/de-2-01.mp3)
+
+![:button]
+
+.english[
 
 I believe what I see with my own eyes.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-2*.* わたしは頭痛がすると言って一人で帰って来ました。
+---
 
-<audio src="05/de-2-02.mp3" preload="auto"></audio>
+私は頭痛がすると言って一人で帰って来ました。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](05/de-2-02.mp3)
+
+![:button]
+
+.english[
 
 I said I had a headache and came back alone.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-3*.* なにかの理由で彼はもどってきませんでした。
+---
 
-<audio src="05/de-2-03.mp3" preload="auto"></audio>
+何かの理由で彼はもどってきませんでした。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](05/de-2-03.mp3)
+
+![:button]
+
+.english[
 
 For some reason or other he had not returned.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-4*.* 二人はふるえる指でそれを拡げた。紙は白紙だった！
+---
 
-<audio src="05/de-2-04.mp3" preload="auto"></audio>
+二人はふるえる指でそれを拡げた。紙は白紙だった！
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](05/de-2-04.mp3)
+
+![:button]
+
+.english[
 
 With trembling fingers they unfolded it. The sheet was blank!
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-5*.* あたりの雰囲気は、棺のにおいでよごされている感じだった。
+---
 
-<audio src="05/de-2-05.mp3" preload="auto"></audio>
+あたりの雰囲気は、棺のにおいでよごされている感じだった。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](05/de-2-05.mp3)
+
+![:button]
+
+.english[
 
 The atmosphere seemed tainted with the smell of coffins.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-6*.* だれがこの遺言書を燃やしたのだ？何の目的で？
+---
 
-<audio src="05/de-2-06.mp3" preload="auto"></audio>
+だれがこの遺言書を燃やしたのだ？何の目的で？
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](05/de-2-06.mp3)
+
+![:button]
+
+.english[
 
 Who destroyed this will? And what was their object?
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-7*.* あなたのことでなにか妙な噂が流されているのですね。
+---
 
-<audio src="05/de-2-07.mp3" preload="auto"></audio>
+あなたのことでなにか妙な噂が流されているのですね。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](05/de-2-07.mp3)
+
+![:button]
+
+.english[
 
 There is evidently some story being circulated about you.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-8*.* そうはいっても、わたし、あることで、ひどく悩んでいます。
+---
 
-<audio src="05/de-2-08.mp3" preload="auto"></audio>
+そうはいっても、わたし、あることで、ひどく悩んでいます。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](05/de-2-08.mp3)
+
+![:button]
+
+.english[
 
 But all the same, I’m sorely troubled about something.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-9*.* インターネットで花を注文して、確認メールを受け取った。
+---
 
-<audio src="05/de-2-09.mp3" preload="auto"></audio>
+インターネットで花を注文して、確認メールを受け取った。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](05/de-2-09.mp3)
+
+![:button]
+
+.english[
 
 I ordered flowers online and received a confirmation by email.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-10*.* だから僕は、先祖伝来のものおよび、労力で得たものを尊重するのだ。
+---
 
-<audio src="05/de-2-10.mp3" preload="auto"></audio>
+だから僕は、先祖伝来のものおよび、労力で得たものを尊重するのだ。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](05/de-2-10.mp3)
+
+![:button]
+
+.english[
 
 That’s why I prize what’s come to me from my ancestors or been won by hard work.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-11*.* 震える指で、彼女は封筒を開けた。
+---
 
-<audio src="05/de-2-11.mp3" preload="auto"></audio>
+震える指で、彼女は封筒を開けた。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](05/de-2-11.mp3)
+
+![:button]
+
+.english[
 
 She opened the envelope with her trembling fingers.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-12*.* 今の雷でどこかの電線が切れた。
+---
 
-<audio src="05/de-2-12.mp3" preload="auto"></audio>
+今の雷でどこかの電線が切れた。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](05/de-2-12.mp3)
+
+![:button]
+
+.english[
 
 That lightning just now cut one of the power lines.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-13*.* 彼は人気のない海岸に一人で立っている。
+---
 
-<audio src="05/de-2-13.mp3" preload="auto"></audio>
+彼は人気のない海岸に一人で立っている。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](05/de-2-13.mp3)
 
+![:button]
+
+.english[
 
 He stood alone on the quiet beach.
-</div>
 
-<hr>
+]
 
+![:prev]
 
-14*.* なんであの人あんな格好で車内うろついてんの？
+![:next]
 
-<audio src="05/de-2-14.mp3" preload="auto"></audio>
+---
 
-<button class="show-english">英語</button>
-<div class="english">
+なんであの人あんな格好で車内うろついてんの？
+
+![:audio](05/de-2-14.mp3)
+
+![:button]
+
+.english[
 
 Why is he wandering around the train looking like that?
 
-</div>
+]
 
-<hr>
+![:prev]
+
+![:next]
+
+---
+
+青年は乾いた砂の上で足のしずくを払った。
 
 
-15*.* 青年は乾いた砂の上で足のしずくを払った。
+![:audio](05/de-2-15.mp3)
 
+![:button]
 
-<audio src="05/de-2-15.mp3" preload="auto"></audio>
-
-<button class="show-english">英語</button>
-<div class="english">
+.english[
 
 The young man stamped on the dry sand to shake off the wet.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-16*.* 何がきっかけでそんな恐ろしい光景を見たのか、心当たりはありますか？
+---
 
+何がきっかけでそんな恐ろしい光景を見たのか、心当たりはありますか？
 
-<audio src="05/de-2-16.mp3" preload="auto"></audio>
+![:audio](05/de-2-16.mp3)
 
-<button class="show-english">英語</button>
-<div class="english">
+![:button]
+
+.english[
 
 Any idea what might have sparked such a frightening vision?
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-17*.* こんな重い物を一人で動かすには相当骨が折れます。
+---
 
-<audio src="05/de-2-17.mp3" preload="auto"></audio>
+こんな重い物を一人で動かすには相当骨が折れます。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](05/de-2-17.mp3)
+
+![:button]
+
+.english[
 
 It’d be hard for one person to move something this heavy around.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-18*.* 部屋はたちまち火と煙で埋まりました。
+---
 
-<audio src="05/de-2-18.mp3" preload="auto"></audio>
+部屋はたちまち火と煙で埋まりました。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](05/de-2-18.mp3)
+
+![:button]
+
+.english[
 
 The room was filled with fire and smoke.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-19*.* あなたの危険な冒険旅行には、連れは一人では足りませんよ。
+---
 
-<audio src="05/de-2-19.mp3" preload="auto"></audio>
+あなたの危険な冒険旅行には、連れは一人では足りませんよ。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](05/de-2-19.mp3)
+
+![:button]
+
+.english[
 
 You will need more than one companion in your dangerous adventure.
 
-</div>
+]
 
-<hr>
+![:prev]
 
+![:next]
 
-20*.* 地元のコミュニティが設立したこのセンターは、寄付金で運営されています。
+---
 
-<audio src="05/de-2-20.mp3" preload="auto"></audio>
+地元のコミュニティが設立したこのセンターは、寄付金で運営されています。
 
-<button class="show-english">英語</button>
-<div class="english">
+![:audio](05/de-2-20.mp3)
+
+![:button]
+
+.english[
 
 The community here set up this center, which is run on donations.
 
-</div>
+]
+
+![:prev]
+
 

@@ -22,6 +22,8 @@ count: false
 
 .top[ だけ ]
 
+![:next]
+
 ---
 
 ほかに一つだけ可能性がある。
@@ -35,6 +37,10 @@ count: false
 There’s only one other possibility.
 
 ]
+
+![:prev]
+
+![:next]
 
 ---
 
@@ -51,6 +57,10 @@ Take just two or three steps forward.
 
 ]
 
+![:prev]
+
+![:next]
+
 ---
 
 この話をしたのは君にだけだ。
@@ -64,6 +74,10 @@ Take just two or three steps forward.
 Only to you have I told the story.
 
 ]
+
+![:prev]
+
+![:next]
 
 ---
 
@@ -79,6 +93,10 @@ You think that is all there is to it?
 
 ]
 
+![:prev]
+
+![:next]
+
 ---
 
 精神的作業だけでは人間は疲れない。
@@ -92,6 +110,10 @@ You think that is all there is to it?
 Mental work alone can’t make you tired.
 
 ]
+
+![:prev]
+
+![:next]
 
 ---
 
@@ -107,6 +129,10 @@ The only thing missing was the customers.
 
 ]
 
+![:prev]
+
+![:next]
+
 ---
 
 残された道は一つだけだと思いました。
@@ -120,6 +146,10 @@ The only thing missing was the customers.
 I decided that there was only one thing to be done.
 
 ]
+
+![:prev]
+
+![:next]
 
 ---
 
@@ -135,6 +165,10 @@ My only intention is to cure the disease.
 
 ]
 
+![:prev]
+
+![:next]
+
 ---
 
 私が受けた報告を申し上げただけです。
@@ -148,6 +182,10 @@ My only intention is to cure the disease.
 I repeat only what was reported to me.
 
 ]
+
+![:prev]
+
+![:next]
 
 ---
 
@@ -163,6 +201,10 @@ He’s not our only hope.
 
 ]
 
+![:prev]
+
+![:next]
+
 ---
 
 彼が左利きであることを知っているのは彼女だけだ。
@@ -176,6 +218,10 @@ He’s not our only hope.
 She alone knows that he’s left-handed.
 
 ]
+
+![:prev]
+
+![:next]
 
 ---
 
@@ -191,6 +237,10 @@ I am talking about ignoring only unjust criticism.
 
 ]
 
+![:prev]
+
+![:next]
+
 ---
 
 油断をしないように一言言っておきたかっただけだ。
@@ -204,6 +254,10 @@ I am talking about ignoring only unjust criticism.
 I only want to put you on your guard.
 
 ]
+
+![:prev]
+
+![:next]
 
 ---
 
@@ -219,6 +273,10 @@ My head aches a little, but otherwise I feel fine.
 
 ]
 
+![:prev]
+
+![:next]
+
 ---
 
 ここでは時間に意味はない。時はただ流れ去るだけ。
@@ -232,6 +290,10 @@ My head aches a little, but otherwise I feel fine.
 Time doesn’t matter in here; in here, time just floats away.
 
 ]
+
+![:prev]
+
+![:next]
 
 ---
 
@@ -247,6 +309,10 @@ Relax. It’s just kids shooting off firecrackers.
 
 ]
 
+![:prev]
+
+![:next]
+
 ---
 
 いまのわたしの願いは、あなたがよくなることだけ。
@@ -260,6 +326,10 @@ Relax. It’s just kids shooting off firecrackers.
 I only want you to get better.
 
 ]
+
+![:prev]
+
+![:next]
 
 ---
 
@@ -275,6 +345,10 @@ I kept silence. I just drank the rest of my water.
 
 ]
 
+![:prev]
+
+![:next]
+
 ---
 
 かごに棄てるのは、全くつまらないものだけでしょうね。
@@ -289,6 +363,10 @@ Only something quite unimportant would be thrown away like that.
 
 ]
 
+![:prev]
+
+![:next]
+
 ---
 
 自分だけの利益を追求するならば、仕事の質は低下する。
@@ -302,3 +380,6 @@ Only something quite unimportant would be thrown away like that.
 When you are concerned only with helping yourself, you do your job less well.
 
 ]
+
+![:prev]
+

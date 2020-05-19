@@ -22,6 +22,8 @@ count: false
 
 .top[ で　一 ]
 
+![:next]
+
 ---
 
 この帽子はどこで買いましたか？
@@ -35,6 +37,10 @@ count: false
 Where did you buy this hat?
 
 ]
+
+![:prev]
+
+![:next]
 
 ---
 
@@ -50,6 +56,10 @@ Let’s eat at this restaurant.
 
 ]
 
+![:prev]
+
+![:next]
+
 ---
 
 家の中で遊ばないで。
@@ -63,6 +73,10 @@ Let’s eat at this restaurant.
 Don’t play inside the house.
 
 ]
+
+![:prev]
+
+![:next]
 
 ---
 
@@ -78,6 +92,10 @@ Where are you studying Japanese?
 
 ]
 
+![:prev]
+
+![:next]
+
 ---
 
 新宿駅南口で会いましょうか？
@@ -91,6 +109,10 @@ Where are you studying Japanese?
 Shall we meet at the South gate of Shinjuku station?
 
 ]
+
+![:prev]
+
+![:next]
 
 ---
 
@@ -106,6 +128,10 @@ The victim was killed in the park.
 
 ]
 
+![:prev]
+
+![:next]
+
 ---
 
 私はいつも図書館で本を読みます。
@@ -119,6 +145,10 @@ The victim was killed in the park.
 I always read books in the library.
 
 ]
+
+![:prev]
+
+![:next]
 
 ---
 
@@ -134,6 +164,10 @@ Please don’t play soccer here.
 
 ]
 
+![:prev]
+
+![:next]
+
 ---
 
 その著作権論争は法廷で決着しました。
@@ -147,6 +181,10 @@ Please don’t play soccer here.
 The copyright dispute was settled in court.
 
 ]
+
+![:prev]
+
+![:next]
 
 ---
 
@@ -162,6 +200,10 @@ Hundreds of lucky fans lined up in London to see the first showing of Harry Pott
 
 ]
 
+![:prev]
+
+![:next]
+
 ---
 
 探検家たちは、ブラジルのジャングルで、失われた文明を発見した。
@@ -175,6 +217,10 @@ Hundreds of lucky fans lined up in London to see the first showing of Harry Pott
 Explorers discovered a lost civilization in the jungles of Brazil.
 
 ]
+
+![:prev]
+
+![:next]
 
 ---
 
@@ -190,6 +236,10 @@ I study butterfly species at the university.
 
 ]
 
+![:prev]
+
+![:next]
+
 ---
 
 道程のどこかで、別々の方向へ歩き出した。
@@ -203,6 +253,10 @@ I study butterfly species at the university.
 Somewhere along the road we took different turnings.
 
 ]
+
+![:prev]
+
+![:next]
 
 ---
 
@@ -218,6 +272,10 @@ Nakada’s checking the inside of the envelope in front of the house.
 
 ]
 
+![:prev]
+
+![:next]
+
 ---
 
 危険が多く、物騒で、不潔で、騒がしい環境で生活している人もいました。
@@ -231,3 +289,6 @@ Nakada’s checking the inside of the envelope in front of the house.
 Some of them lived in risky, dangerous, dirty and loud environments.
 
 ]
+
+![:prev]
+

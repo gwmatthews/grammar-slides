@@ -22,6 +22,8 @@ count: false
 
 .top[ だろう ]
 
+![:next]
+
 ---
 
 私はまだ夢を見ているのだろうか？
@@ -35,6 +37,10 @@ count: false
 Am I still dreaming?
 
 ]
+
+![:prev]
+
+![:next]
 
 ---
 
@@ -50,6 +56,10 @@ I wonder what sort of dreams they are having.
 
 ]
 
+![:prev]
+
+![:next]
+
 ---
 
 たぶんふたりともわたしを忘れないだろう。
@@ -63,6 +73,10 @@ I wonder what sort of dreams they are having.
 They probably won’t forget me.
 
 ]
+
+![:prev]
+
+![:next]
 
 ---
 
@@ -78,6 +92,10 @@ Better to believe than not to believe.
 
 ]
 
+![:prev]
+
+![:next]
+
 ---
 
 急がせて悪かった。いろいろと大変だっただろう。
@@ -91,6 +109,10 @@ Better to believe than not to believe.
 Sorry to hurry you. I’m sure it was tough.
 
 ]
+
+![:prev]
+
+![:next]
 
 ---
 
@@ -106,6 +128,10 @@ This is probably the greatest benefit of physical exercise.
 
 ]
 
+![:prev]
+
+![:next]
+
 ---
 
 そいつは君が持っていればいい。何かの役に立つだろう。
@@ -119,6 +145,10 @@ This is probably the greatest benefit of physical exercise.
 You can keep those. They might come in handy.
 
 ]
+
+![:prev]
+
+![:next]
 
 ---
 
@@ -134,6 +164,10 @@ Who could have brought those tools here?
 
 ]
 
+![:prev]
+
+![:next]
+
 ---
 
 美しいということはおそらく、危険な所持品なんだろうね。
@@ -147,6 +181,10 @@ Who could have brought those tools here?
 Beauty is perhaps a dangerous possession.
 
 ]
+
+![:prev]
+
+![:next]
 
 ---
 
@@ -162,6 +200,10 @@ You must be anxious at hearing nothing.
 
 ]
 
+![:prev]
+
+![:next]
+
 ---
 
 きみは、わたしに借金の申し込みをしようと言うんだろう。
@@ -175,6 +217,10 @@ You must be anxious at hearing nothing.
 You are getting ready to touch me for a loan.
 
 ]
+
+![:prev]
+
+![:next]
 
 ---
 
@@ -190,6 +236,10 @@ Exactly. Just what ninety-nine people out of a hundred would say!
 
 ]
 
+![:prev]
+
+![:next]
+
 ---
 
 どうしてクイズ番組が楽しいって、人は思うんだろう？
@@ -203,6 +253,10 @@ Exactly. Just what ninety-nine people out of a hundred would say!
 Why do people find TV game shows to be entertaining?
 
 ]
+
+![:prev]
+
+![:next]
 
 ---
 
@@ -218,6 +272,10 @@ Reducing the number of ads would probably cripple our sales.
 
 ]
 
+![:prev]
+
+![:next]
+
 ---
 
 たった２４時間で重病化するのはどんな病気だろうか？
@@ -231,6 +289,10 @@ Reducing the number of ads would probably cripple our sales.
 What kind of serious illness came on in a mere twenty-four hours?
 
 ]
+
+![:prev]
+
+![:next]
 
 ---
 
@@ -246,6 +308,10 @@ That marketing plan may not be easy to execute.
 
 ]
 
+![:prev]
+
+![:next]
+
 ---
 
 今まで運動しなかった人は、最初は身体が思うように動かないだろう。
@@ -259,6 +325,10 @@ That marketing plan may not be easy to execute.
 If you haven’t been exercising, your body will probably protest at first.
 
 ]
+
+![:prev]
+
+![:next]
 
 ---
 
@@ -274,6 +344,10 @@ If I die in the attempt, what will become of him?
 
 ]
 
+![:prev]
+
+![:next]
+
 ---
 
 どうしたら、われわれの製品設計に新鮮なアイデアを注入できるだろう？
@@ -288,6 +362,10 @@ How can we inject fresh ideas into our product designs?
 
 ]
 
+![:prev]
+
+![:next]
+
 ---
 
 たくさんの人がすごく動揺して、「わあ、大変、新年だ！」と思うだろう。
@@ -301,3 +379,6 @@ How can we inject fresh ideas into our product designs?
 I think a lot of people freak out and think, “Oh my god, another year!”
 
 ]
+
+![:prev]
+
