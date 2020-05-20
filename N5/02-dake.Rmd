@@ -1,5 +1,5 @@
 ---
-title: "です"
+title: "だけ"
 output:
   xaringan::moon_reader:
     seal: false
@@ -33,7 +33,7 @@ count: false
 
 ほかに一つだけ可能性がある。
 
-![:audio](01/dake-01.mp3)
+![:audio](02/dake-01.mp3)
 
 ![:button]
 
