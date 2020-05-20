@@ -6,11 +6,16 @@ output:
     css: ["default", "style.css"]
     lib_dir: libs
     includes: 
-      after_body: "header.html"
+      after_body: "includes/header.html"
     nature:
       countIncrementalSlides: false
       beforeInit: "js/macros.js"
       slideNumberFormat: '%current%'
+      navigation:
+        scroll: true
+        click: false
+        touch: false
+
 ---
 
 layout: true

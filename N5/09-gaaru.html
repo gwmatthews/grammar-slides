@@ -384,7 +384,12 @@ Do you have any questions?
 <script src="js/macros.js"></script>
 <script>var slideshow = remark.create({
 "countIncrementalSlides": false,
-"slideNumberFormat": "%current%"
+"slideNumberFormat": "%current%",
+"navigation": {
+"scroll": true,
+"click": false,
+"touch": false
+}
 });
 if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
   window.dispatchEvent(new Event('resize'));
