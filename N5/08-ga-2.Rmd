@@ -14,13 +14,14 @@ output:
 ---
 
 layout: true
-class: middle center
+class: center
 
 ---
-class: title-slide 
+class: title-slide
+class: middle
 count: false
 
-.top[ が　ニ ]
+# が　ニ 
 
 ![:next]
 

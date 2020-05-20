@@ -1,5 +1,5 @@
 ---
-title: "darou"
+title: "だろう"
 output:
   xaringan::moon_reader:
     seal: false
@@ -14,13 +14,13 @@ output:
 ---
 
 layout: true
-class: middle center
+class: center
 
 ---
-class: title-slide 
+class: title-slide middle
 count: false
 
-.top[ だろう ]
+# だろう 
 
 ![:next]
 

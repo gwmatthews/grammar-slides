@@ -19,13 +19,13 @@ output:
 ---
 
 layout: true
-class: middle center
+class: center
 
 ---
-class: title-slide 
+class: title-slide middle
 count: false
 
-.top[ です ]
+# です 
 
 ![:next]
 
@@ -194,11 +194,9 @@ The guests were not disappointed: they had a very pleasant feast.
 
 ---
 
-.smaller[
-
 お父様は、著名なジャーナリストですね。あなたにとってどのような存在で、どのような影響を受けてきましたか？
 
-]
+
 
 ![:audio](01/desu-10.mp3)
 

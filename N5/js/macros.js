@@ -38,7 +38,7 @@ remark.macros.video = function (color) {
 
 remark.macros.audio = function () {
   var url = this;
-  return '<br><audio controls preload="metadata" style=" width:200px; transform: translateY(-30px);"><source src=' + url + ' type="audio/mpeg"></audio>';
+  return '<audio controls preload="metadata" class="sound"><source src=' + url + ' type="audio/mpeg"></audio><br>';
 }
 
 
