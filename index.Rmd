@@ -9,26 +9,40 @@ pagetitle: "文法"
 
 ### レベル　五
 
-- [授業 一](N5/01-desu.html): です
+ [授業 一](N5/01-desu.html)　　です
 
-- [授業 ニ](N5/02-dake.html):　だけ
+ [授業 ニ](N5/02-dake.html)　　だけ
 
-- [授業 三](N5/03-darou.html):　だろう
+ [授業 三](N5/03-darou.html)　　だろう
 
-- [授業 四](N5/04-de-1.html):　で 一
+ [授業 四](N5/04-de-1.html)　　で 一
 
-- [授業 五](N5/05-de-2.html):　で ニ
+ [授業 五](N5/05-de-2.html)　　で ニ
 
-- [授業 六](N5/06-deshou.html):　でしょう
+ [授業 六](N5/06-deshou.html)　　でしょう
 
-- [授業 七](N5/07-ga-1.html):　が 一
+ [授業 七](N5/07-ga-1.html)　　が 一
 
-- [授業 八](N5/08-ga-2.html):　が ニ
+ [授業 八](N5/08-ga-2.html)　　が ニ
 
-- [授業 九](N5/09-gaaru.html): がある
+ [授業 九](N5/09-gaaru.html)　　がある
 
-- [授業 十](N5/10-gairu.html):　がいる
+ [授業 十](N5/10-gairu.html)　　がいる
 
-- [授業 十一](N5/11-hougaii-1.html):　ほうがいい　一
+ [授業 十一](N5/11-hougaii-1.html)　　ほうがいい　一
 
-- [授業 十ニ](N5/12-hougaii-2.html):　はうがいい　ニ
+ [授業 十ニ](N5/12-hougaii-2.html)　　はうがいい　ニ
+
+ [授業 十三](N5/13-ga-2.html)　　が ニ
+
+ [授業 十四](N5/14-ka-1.html)　 か　一
+
+ [授業 十五](N5/15-ka-2.html)　　か　ニ
+
+ [授業 十六](N5/16-kara-1.html)　　から　一
+
+ [授業 十七](N5/17-kara-2.html)　　から　ニ
+
+ [授業 十八](N5/18-kedo.html)　　けど
+ 
+ 
