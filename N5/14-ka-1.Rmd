@@ -16,19 +16,20 @@ output:
         click: false
         touch: false
 
----
 
-layout: true
-class: center
 
 ---
-class: title-slide
-class: middle
+class: title-slide middle center
 count: false
 
 #　か　一
 
 ![:next]
+
+---
+
+layout: true
+class: center
 
 ---
 

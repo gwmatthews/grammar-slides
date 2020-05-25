@@ -16,14 +16,10 @@ output:
         click: false
         touch: false
 
----
 
-layout: true
-class: center
 
 ---
-class: title-slide
-class: middle
+class: title-slide middle center
 count: false
 
 # title
@@ -32,7 +28,10 @@ count: false
 
 ---
 
+layout: true
+class: center
 
+---
 
 ![:audio](0/-01.mp3)
 

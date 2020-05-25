@@ -17,18 +17,17 @@ output:
         touch: false
 
 ---
-
-layout: true
-class: center
-
----
-class: title-slide
-class: middle
+class: title-slide middle center
 count: false
 
 #　か　ニ
 
 ![:next]
+
+---
+
+layout: true
+class: center
 
 ---
 

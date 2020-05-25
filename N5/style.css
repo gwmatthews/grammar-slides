@@ -11,6 +11,10 @@ body {
   font-family: 'Sawarabi Mincho';
 }
 
+.title-slide .remark-slide-number {
+  display: none;
+}
+
 .remark-slide-content h1 {
   font-size: 350%;
 }

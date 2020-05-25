@@ -18,18 +18,18 @@ output:
 
 ---
 
-layout: true
-class: center
-
----
-class: title-slide
-class: middle
+class: title-slide middle center
 count: false
 
 # でしょう
 
 
 ![:next]
+
+---
+
+layout: true
+class: center
 
 ---
 

@@ -16,14 +16,10 @@ output:
         click: false
         touch: false
 
----
 
-layout: true
-class: center
 
 ---
-class: title-slide
-class: middle
+class: title-slide middle center
 count: false
 
 # から　ニ
@@ -32,7 +28,10 @@ count: false
 
 ---
 
+layout: true
+class: center
 
+---
 
 ![:audio](17/kara-2-01.mp3)
 

@@ -17,13 +17,7 @@ output:
         touch: false
 
 ---
-
-layout: true
-class: center
-
----
-class: title-slide
-class: middle
+class: title-slide middle center
 count: false
 
 # けど
@@ -32,7 +26,10 @@ count: false
 
 ---
 
+layout: true
+class: center
 
+---
 
 ![:audio](18/kedo-01.mp3)
 
