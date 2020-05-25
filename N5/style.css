@@ -43,7 +43,8 @@ body {
 }
 
 .smaller {
-  font-size: 75%;
+  font-size: 73%;
+  line-height: 0.8;
 }
 
 .top {

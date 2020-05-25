@@ -1,0 +1,354 @@
+---
+title: "か　一"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default", "style.css"]
+    lib_dir: libs
+    includes: 
+      after_body: "includes/header.html"
+    nature:
+      countIncrementalSlides: false
+      beforeInit: "js/macros.js"
+      slideNumberFormat: '%current%'
+      navigation:
+        scroll: true
+        click: false
+        touch: false
+
+---
+
+layout: true
+class: center
+
+---
+class: title-slide
+class: middle
+count: false
+
+#　か　一
+
+![:next]
+
+---
+
+どうやってベッドを動かしたか教えてくれる？
+
+![:audio](14/ka-1-01.mp3)
+
+![:button]
+
+.english[
+
+Can you tell me how the bed was moved?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+広之は自分が夢を見ているのか目覚めているのかわからなかった。
+
+![:audio](14/ka-1-02.mp3)
+
+![:button]
+
+.english[
+
+Hiroyuki knew not if he was dreaming or awake.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+いったい僕がなにに腹をたてているか、君にはそれがわかるかい？
+
+![:audio](14/ka-1-03.mp3)
+
+![:button]
+
+.english[
+
+Do you know what makes me angry?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+感動したのか、または屈辱を感じたのか自分でわからなかった。
+
+![:audio](14/ka-1-04.mp3)
+
+![:button]
+
+.english[
+
+I could not tell whether I was touched or humiliated.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+あなたは、あの本まで読んだのか！驚いたねえ！何一つ安全じゃないというのか？
+
+![:audio](14/ka-1-05.mp3)
+
+![:button]
+
+.english[
+
+You have read that book! Good heavens above! Is nothing safe?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+あなたがだれなのか、どうやってここへ来たのか、誰にもわからない。
+
+![:audio](14/ka-1-06.mp3)
+
+![:button]
+
+.english[
+
+Nobody had any idea who you were or how you got here.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+人魚が、現代に現れたらどんなことが巻き起こるか。
+
+![:audio](14/ka-1-07.mp3)
+
+![:button]
+
+.english[
+
+What would happen if a mermaid appeared in modern times?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+.smaller[どうして手放さなきゃいけないのか、そのわけが私にはよくわからないですよ。なぜあなたは、わたしにこれを手放させようとなさるんです？]
+
+![:audio](14/ka-1-08.mp3)
+
+![:button]
+
+.english[
+
+I don’t really see why I should leave it behind. Why do you want me to?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+何が起こってるのか、自分には知る権利がある！
+
+![:audio](14/ka-1-09.mp3)
+
+![:button]
+
+.english[
+
+I have a right to know what’s going on!
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+彼は自分がどうしたいのかを伝える方法を知っています。
+
+![:audio](14/ka-1-10.mp3)
+
+![:button]
+
+.english[
+
+He knows how to communicate what he wants.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+どうしたら自分がこの役をうまくできるか、が大事だと思っています。
+
+![:audio](14/ka-1-11.mp3)
+
+![:button]
+
+.english[
+
+I think what’s important is how to play this role well.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+どう撮ろうかとても悩んだ場面でした。
+
+![:audio](14/ka-1-12.mp3)
+
+![:button]
+
+.english[
+
+It was a really hard scene to shoot.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+一瞬、犯人の味方をしてしまう人もいるかと思います。
+
+![:audio](14/ka-1-13.mp3)
+
+![:button]
+
+.english[
+
+For a moment, I thought some people might feel for the culprit.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+.smaller[あなたは、自分の求めるものを見いだせるか、自分の願うことが果たせるか、生きてふたたびこの地に戻れるか、危ぶんでいる。そういうことでしょう？]
+
+![:audio](14/ka-1-14.mp3)
+
+![:button]
+
+.english[
+
+You doubt that you will find what you seek, or accomplish what you intend, or that you will ever return. Is that not so?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+周囲を見てみると、この話題について話すのに、誰が本当に適任なのかはよくわかりません。
+
+![:audio](14/ka-1-15.mp3)
+
+![:button]
+
+.english[
+
+I look around and, I’m not sure who is really qualified to speak on this subject.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+５人の専門家から成る審査員団が、誰が受賞するのかを決定する。
+
+![:audio](14/ka-1-16.mp3)
+
+![:button]
+
+.english[
+
+A panel of five experts will decide who wins the award.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+一番最初どうやって私がそのことを見つけたか、知りたければ言ってあげますよ。
+
+![:audio](14/ka-1-17.mp3)
+
+![:button]
+
+.english[
+
+If you want to know how I first found out, I will tell you.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+あなた、自分がなにをしているのかわかっているのか？
+
+![:audio](14/ka-1-18.mp3)
+
+![:button]
+
+.english[
+
+Do you know what you’re doing?
+
+]
+
+![:prev]
+

@@ -1,5 +1,5 @@
 ---
-title: "か　一"
+title: "title"
 output:
   xaringan::moon_reader:
     seal: false
@@ -26,13 +26,13 @@ class: title-slide
 class: middle
 count: false
 
-#　か　一
+# title
 
 ![:next]
 
 ---
 
-What’s the most frightening thing in the world?
+
 
 ![:audio](0/-01.mp3)
 
@@ -40,7 +40,7 @@ What’s the most frightening thing in the world?
 
 .english[
 
-Can you tell me how the bed was moved?
+
 
 ]
 
@@ -50,7 +50,7 @@ Can you tell me how the bed was moved?
 
 ---
 
-広之は自分が夢を見ているのか目覚めているのかわからなかった。
+
 
 ![:audio](0/-02.mp3)
 
@@ -58,7 +58,7 @@ Can you tell me how the bed was moved?
 
 .english[
 
-Hiroyuki knew not if he was dreaming or awake.
+
 
 ]
 
@@ -68,7 +68,7 @@ Hiroyuki knew not if he was dreaming or awake.
 
 ---
 
-いったい僕がなにに腹をたてているか、君にはそれがわかるかい？
+
 
 ![:audio](0/-03.mp3)
 
@@ -76,7 +76,7 @@ Hiroyuki knew not if he was dreaming or awake.
 
 .english[
 
-Do you know what makes me angry?
+
 
 ]
 
