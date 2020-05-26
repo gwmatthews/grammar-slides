@@ -1,0 +1,370 @@
+---
+title: "ませんか"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default", "style.css"]
+    lib_dir: libs
+    includes: 
+      after_body: "includes/header.html"
+    nature:
+      countIncrementalSlides: false
+      beforeInit: "js/macros.js"
+      slideNumberFormat: '%current%'
+      navigation:
+        scroll: true
+        click: false
+        touch: false
+
+---
+class: title-slide middle center
+count: false
+
+# ませんか
+
+![:next]
+
+---
+
+layout: true
+class: center
+
+---
+
+明日東京ディズニーランドに行きませんか？
+
+![:audio](23/masenka-01.mp3)
+
+![:button]
+
+.english[
+
+Won’t you go to Tokyo Disneyland tomorrow?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+この問題について説明していただけませんか？
+
+![:audio](23/masenka-02.mp3)
+
+![:button]
+
+.english[
+
+Won’t you explain this problem to me?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+僕と踊りませんか？
+
+![:audio](23/masenka-03.mp3)
+
+![:button]
+
+.english[
+
+Won’t you dance with me?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+私と一緒に晩ごはんを食べませんか？
+
+![:audio](23/masenka-04.mp3)
+
+![:button]
+
+.english[
+
+Won’t you have dinner with me?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+池袋駅でお会いしませんか？
+
+![:audio](23/masenka-05.mp3)
+
+![:button]
+
+.english[
+
+Won’t you meet me at ikebukuro station?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+先生、医務室に行かせてもらえませんか？
+
+![:audio](23/masenka-06.mp3)
+
+![:button]
+
+.english[
+
+Teacher, may I go to the sickbay?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+私のパーティーに参加しませんか？
+
+![:audio](23/masenka-07.mp3)
+
+![:button]
+
+.english[
+
+Won’t you join my party?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+僕たちと一緒に座りませんか？
+
+![:audio](23/masenka-08.mp3)
+
+![:button]
+
+.english[
+
+Won’t you sit with us?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+私の話を聞いてくれませんか？
+
+![:audio](23/masenka-09.mp3)
+
+![:button]
+
+.english[
+
+Won’t you listen to my story?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+きれいな動物ですね！一匹わたしに下さいませんか？
+
+![:audio](23/masenka-10.mp3)
+
+![:button]
+
+.english[
+
+What a beautiful animal! Can you give me one?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+すみません、砂糖をとってくださいませんか？
+
+![:audio](23/masenka-11.mp3)
+
+![:button]
+
+.english[
+
+Excuse me, can you please pass me the sugar?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+さっきの件、わたしは大まじめなんだが、どうです、秘書になりませんか？
+
+![:audio](23/masenka-12.mp3)
+
+![:button]
+
+.english[
+
+I’m quite serious in my offer. Will you become my secretary?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+貧しい人たちを助けるための寄付をしませんか？
+
+![:audio](23/masenka-13.mp3)
+
+![:button]
+
+.english[
+
+Would you like to make a donation to help the poor?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+私の子供をあずかっていただけませんか？
+
+![:audio](23/masenka-14.mp3)
+
+![:button]
+
+.english[
+
+Will you keep my child for me?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+あなたどうです、鈴木さん？この仕事やってみませんか
+
+![:audio](23/masenka-15.mp3)
+
+![:button]
+
+.english[
+
+あなたどうです、鈴木さん？この仕事やってみませんか
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+一緒に晩ご飯を食べませんか？
+
+![:audio](23/masenka-16.mp3)
+
+![:button]
+
+.english[
+
+Won’t you have dinner with me?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+お箸の使い方を教えてくれませんか？
+
+![:audio](23/masenka-17.mp3)
+
+![:button]
+
+.english[
+
+Can you tell me how to use chopsticks?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+金曜日の夜、僕とデートをしませんか？
+
+![:audio](23/masenka-18.mp3)
+
+![:button]
+
+.english[
+
+Won’t you go on a date with me on Friday night?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+.smaller[もう二週間以上新たな犯罪者が裁かれていません。いい加減キラであることを自白してもらえませんか？]
+
+![:audio](23/masenka-19.mp3)
+![:button]
+
+.english[
+
+It’s been two weeks with no new criminals killed. Why don’t you confess to being Kira already?
+
+]
+
+![:prev]
+

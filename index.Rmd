@@ -51,3 +51,9 @@ pagetitle: "文法"
 
  [授業 二十一](N5/21-made.html)　　まで
  
+ [授業 二十二](N5/22-maeni.html)　　前に
+ 
+ [授業 二十三](N5/23-masenka.html)　　ませんか
+ 
+ [授業 二十四](N5/24-mashou.html)　　ましょう
+ 
