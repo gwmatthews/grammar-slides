@@ -16,8 +16,6 @@ output:
         click: false
         touch: false
 
-
-
 ---
 class: title-slide middle center
 count: false

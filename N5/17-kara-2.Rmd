@@ -33,13 +33,15 @@ class: center
 
 ---
 
+あなたは何時に都心からお帰りです？
+
 ![:audio](17/kara-2-01.mp3)
 
 ![:button]
 
 .english[
 
-
+What time do you get back from the city?
 
 ]
 
@@ -49,7 +51,7 @@ class: center
 
 ---
 
-
+はじめから、彼の振舞いは、変でしたよ。
 
 ![:audio](17/kara-2-02.mp3)
 
@@ -57,7 +59,7 @@ class: center
 
 .english[
 
-
+From the first, his behaviour has been peculiar.
 
 ]
 
@@ -67,7 +69,7 @@ class: center
 
 ---
 
-
+きょうは朝からずっと、きみのことを考えていた。
 
 ![:audio](17/kara-2-03.mp3)
 
@@ -75,7 +77,7 @@ class: center
 
 .english[
 
-
+I’ve been thinking about you all day.
 
 ]
 
@@ -85,7 +87,7 @@ class: center
 
 ---
 
-
+この現象はいつから日本で始まったのですか？
 
 ![:audio](17/kara-2-04.mp3)
 
@@ -93,7 +95,7 @@ class: center
 
 .english[
 
-
+When did this phenomenon start in Japan?
 
 ]
 
@@ -103,7 +105,7 @@ class: center
 
 ---
 
-
+私はにがい経験から一つの真理を学びました。
 
 ![:audio](17/kara-2-05.mp3)
 
@@ -111,7 +113,7 @@ class: center
 
 .english[
 
-
+I have learned one thing through bitter experience.
 
 ]
 
@@ -121,7 +123,7 @@ class: center
 
 ---
 
-
+それから、彼はポケットからタバコを一本とりだした。
 
 ![:audio](17/kara-2-06.mp3)
 
@@ -129,7 +131,7 @@ class: center
 
 .english[
 
-
+Then he extracted a cigarette from his pocket.
 
 ]
 
@@ -139,7 +141,7 @@ class: center
 
 ---
 
-
+僕は、君のうわさはしじゅう家内から聞いていた。
 
 ![:audio](17/kara-2-07.mp3)
 
@@ -147,7 +149,7 @@ class: center
 
 .english[
 
-
+I’ve always been hearing about you through my wife.
 
 ]
 
@@ -157,7 +159,7 @@ class: center
 
 ---
 
-
+墓地の外れから、はっきりしない声がきこえてきた。
 
 ![:audio](17/kara-2-08.mp3)
 
@@ -165,7 +167,7 @@ class: center
 
 .english[
 
-
+A muffled sound of voices floated up from the far end of the graveyard.
 
 ]
 
@@ -175,7 +177,7 @@ class: center
 
 ---
 
-
+先生は顔から顔へと罪のしるしをさぐっていった。
 
 ![:audio](17/kara-2-09.mp3)
 
@@ -183,7 +185,7 @@ class: center
 
 .english[
 
-
+The teacher searched face after face for signs of guilt.
 
 ]
 
@@ -193,7 +195,7 @@ class: center
 
 ---
 
-
+彼らは丘の頂上から、ワクワクする眺めを楽しんだ。
 
 ![:audio](17/kara-2-10.mp3)
 
@@ -201,7 +203,7 @@ class: center
 
 .english[
 
-
+They enjoyed an exhilarating view from the top of the hill.
 
 ]
 
@@ -211,7 +213,7 @@ class: center
 
 ---
 
-
+その二校の統合から、１００年が経過した。
 
 ![:audio](17/kara-2-11.mp3)
 
@@ -219,7 +221,7 @@ class: center
 
 .english[
 
-
+A hundred years have passed since the integration of those two schools.
 
 ]
 
@@ -229,7 +231,7 @@ class: center
 
 ---
 
-
+あなたは新しい絵の着想をどこから得たのですか？
 
 ![:audio](17/kara-2-12.mp3)
 
@@ -237,7 +239,7 @@ class: center
 
 .english[
 
-
+Where did you get the inspiration for your new painting?
 
 ]
 
@@ -247,7 +249,7 @@ class: center
 
 ---
 
-
+幸福は内部から生じる。外部のことがらではない。
 
 ![:audio](17/kara-2-13.mp3)
 
@@ -255,7 +257,7 @@ class: center
 
 .english[
 
-
+Happiness is from within; it is not a matter of externals.
 
 ]
 
@@ -265,7 +267,7 @@ class: center
 
 ---
 
-
+あなたの体重が増えてるのを見て、心から安心しました。
 
 ![:audio](17/kara-2-14.mp3)
 
@@ -273,7 +275,7 @@ class: center
 
 .english[
 
-
+It’s great to see you putting on weight.
 
 ]
 
@@ -283,7 +285,7 @@ class: center
 
 ---
 
-
+私たちが乗船した時から、私はあなたに注目していました。
 
 ![:audio](17/kara-2-15.mp3)
 
@@ -291,7 +293,7 @@ class: center
 
 .english[
 
-
+I’ve watched you since we all came on board.
 
 ]
 
@@ -301,7 +303,7 @@ class: center
 
 ---
 
-
+彼は小さな袋からいくつかの道具を出して、仕事にとりかかった。
 
 ![:audio](17/kara-2-16.mp3)
 
@@ -309,7 +311,7 @@ class: center
 
 .english[
 
-
+He extracted some tools from his little bag and began to work.
 
 ]
 
@@ -319,7 +321,7 @@ class: center
 
 ---
 
-
+彼が事件から手を引いたとあんたが考えたのはなぜ？
 
 ![:audio](17/kara-2-17.mp3)
 
@@ -327,7 +329,7 @@ class: center
 
 .english[
 
-
+What made you think he’d ceased to take any interest in the case?
 
 ]
 
@@ -337,7 +339,7 @@ class: center
 
 ---
 
-
+彼女はたいへんりっぱな女性で、村の人から尊敬されていた。
 
 ![:audio](17/kara-2-18.mp3)
 
@@ -345,7 +347,7 @@ class: center
 
 .english[
 
-
+She was a very superior woman and highly thought of in the village.
 
 ]
 
@@ -355,14 +357,14 @@ class: center
 
 ---
 
-
+その都市の摩天楼は、何マイルも離れたところからでも見える。
 
 ![:audio](17/kara-2-19.mp3)
 ![:button]
 
 .english[
 
-
+The city’s skyscrapers can be seen many miles away.
 
 ]
 
@@ -372,7 +374,7 @@ class: center
 
 ---
 
-
+私は彼から手紙をもらったのですよ、ひどく変った手紙でした。
 
 ![:audio](17/kara-2-20.mp3)
 
@@ -380,7 +382,7 @@ class: center
 
 .english[
 
-
+I have received a letter from him. It was an unusual letter.
 
 ]
 

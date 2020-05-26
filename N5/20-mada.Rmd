@@ -1,0 +1,389 @@
+---
+title: "まだ"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default", "style.css"]
+    lib_dir: libs
+    includes: 
+      after_body: "includes/header.html"
+    nature:
+      countIncrementalSlides: false
+      beforeInit: "js/macros.js"
+      slideNumberFormat: '%current%'
+      navigation:
+        scroll: true
+        click: false
+        touch: false
+
+---
+class: title-slide middle center
+count: false
+
+# まだ
+
+![:next]
+
+---
+
+layout: true
+class: center
+
+---
+
+私はまだ死んでないよ！
+
+![:audio](20/mada-01.mp3)
+
+![:button]
+
+.english[
+
+I’m not dead yet!
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+僕はまだあきらめてないんだぞ。
+
+![:audio](20/mada-02.mp3)
+
+![:button]
+
+.english[
+
+I have not given up yet.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+発車の予定時刻までにまだ十分はあった。
+
+![:audio](20/mada-03.mp3)
+
+![:button]
+
+.english[
+
+There was still ten minutes before the train was due to start.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+一番奇妙な部分を、まだ話していませんね。
+
+![:audio](20/mada-04.mp3)
+
+![:button]
+
+.english[
+
+I haven’t told you the most curious part yet.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+僕はまだその事業をいいことだと認めていませんよ。
+
+![:audio](20/mada-05.mp3)
+
+![:button]
+
+.english[
+
+I still do not admit this movement to be just.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+疑っていたあいだは、まだ希望がありました。
+
+![:audio](20/mada-06.mp3)
+
+![:button]
+
+.english[
+
+When I doubted, I still had hope.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+あなたの妹はまだ何ヵ月もしなければ生まれないわ。
+
+![:audio](20/mada-07.mp3)
+
+![:button]
+
+.english[
+
+Your sister won’t be born for many months yet.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+彼はじっと身動きもせず、まだ聞き耳を立てていた。
+
+![:audio](20/mada-08.mp3)
+
+![:button]
+
+.english[
+
+He lay motionless, still listening.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+お手紙はさしあげましたが、まだ着かないようですね。
+
+![:audio](20/mada-09.mp3)
+
+![:button]
+
+.english[
+
+I wrote to you. You must not have received my letter.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+日曜日の朝がすぎても、まだ、彼は、姿を見せなかった。
+
+![:audio](20/mada-10.mp3)
+
+![:button]
+
+.english[
+
+Sunday morning wore away, and still he did not reappear.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+奴をご存じなんですか？まだ生きてますか、釈放されましたか？
+
+![:audio](20/mada-11.mp3)
+
+![:button]
+
+.english[
+
+Do you know him? Is he alive and at liberty?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+ここらへんの生徒は、まだみんな行儀をわきまえてるんだ。
+
+![:audio](20/mada-12.mp3)
+
+![:button]
+
+.english[
+
+Out here kids still mind their manners.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+そんなにすたすた行くんじゃない。話はまだおわってないんだから！
+
+![:audio](20/mada-13.mp3)
+
+![:button]
+
+.english[
+
+Don’t walk so fast, I’m not done with you!
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+あなたのご存じないこと、まだ、あなたに話してないことがありますわ。
+
+![:audio](20/mada-14.mp3)
+
+![:button]
+
+.english[
+
+There’s something you don’t know—that I haven’t told you.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+また腕時計をこっそり見たわたしは、まだ多少の時間の余裕があると判断した。
+
+![:audio](20/mada-15.mp3)
+
+![:button]
+
+.english[
+
+I took another peek at my watch and saw I still had some time to spare.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+まだ、なんの情報もありません。出動できる人間はすべて、警戒についています。
+
+![:audio](20/mada-16.mp3)
+
+![:button]
+
+.english[
+
+No news as yet. All men available are on the lookout.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+自分がこんなみじめな通りにある、こんなみじめなあばら家に住むことがまだ信じられなかった。
+
+![:audio](20/mada-17.mp3)
+
+![:button]
+
+.english[
+
+I couldn’t believe I was going to live in this desperate shack and on this desperate street.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+子供はまだ３歳です。
+
+![:audio](20/mada-18.mp3)
+
+![:button]
+
+.english[
+
+My child’s only three years old.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+私はまだ結婚していません。
+
+![:audio](20/mada-19.mp3)
+![:button]
+
+.english[
+
+I’m still single. (I’m not married yet.)
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+まだ一時間もあるわよ。
+
+![:audio](20/mada-20.mp3)
+
+![:button]
+
+.english[
+
+We still have one hour.
+
+]
+
+![:prev]
+
+

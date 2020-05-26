@@ -1,0 +1,262 @@
+---
+title: "くらい"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default", "style.css"]
+    lib_dir: libs
+    includes: 
+      after_body: "includes/header.html"
+    nature:
+      countIncrementalSlides: false
+      beforeInit: "js/macros.js"
+      slideNumberFormat: '%current%'
+      navigation:
+        scroll: true
+        click: false
+        touch: false
+
+---
+class: title-slide middle center
+count: false
+
+# くらい
+
+![:next]
+
+---
+
+layout: true
+class: center
+
+---
+
+子供じゃないんだから、自分のことぐらい自分で決めなさい。
+
+![:audio](19/kurai-01.mp3)
+
+![:button]
+
+.english[
+
+You’re not a kid anymore. Decide things by yourself.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+自分の服ぐらい自分で洗ってよ。
+
+![:audio](19/kurai-02.mp3)
+
+![:button]
+
+.english[
+
+Wash your own clothes.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+せめてネクタイぐらいちゃんと締めてよね！
+
+![:audio](19/kurai-03.mp3)
+
+![:button]
+
+.english[
+
+At least do your necktie properly!
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+街の人々がどんな噂をしているかぐらいは百も承知だ。
+
+![:audio](19/kurai-04.mp3)
+
+![:button]
+
+.english[
+
+I know all the things the town is saying about me.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+宿屋には必ず馬の一頭ぐらいはいる。
+
+![:audio](19/kurai-05.mp3)
+
+![:button]
+
+.english[
+
+An inn always has a horse.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+本当に必要ならいくらでも名前くらい返しますよ。
+
+![:audio](19/kurai-06.mp3)
+
+![:button]
+
+.english[
+
+If it will help you, you can use my name as many times as you want.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+ごめんなさい。何か連絡くらいするべきだったのね。
+
+![:audio](19/kurai-07.mp3)
+
+![:button]
+
+.english[
+
+I ‘m sorry. I should have got in touch with you.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+この子の望んだことをせめて最後ぐらいかなえてあげたいのよ。
+
+![:audio](19/kurai-08.mp3)
+
+![:button]
+
+.english[
+
+I want to grant this child his final wish.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+だけどこれだけは言ってくれるでしょ、彼の推測が正しいか、違うかぐらいは？
+
+![:audio](19/kurai-09.mp3)
+
+![:button]
+
+.english[
+
+But you can at least tell us whether you think his guess good or bad.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+金太郎を起こしなさい！あいつにもせめて朝起きて私たちを見送るぐらいのことはさせなくちゃ。
+
+![:audio](19/kurai-10.mp3)
+
+![:button]
+
+.english[
+
+Wake Kintaro up! At least he must get up and see us off.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+写真を見るかぎり、せいぜい五歳くらいの幼い女の子で、金髪をポニーテールにしている。
+
+![:audio](19/kurai-11.mp3)
+
+![:button]
+
+.english[
+
+The photo shows a young girl who could not have been more than five, her blond hair in a ponytail.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+遅いからずっと心配してたのよ。電話くらいしてくれてもいいでしょう。
+
+![:audio](19/kurai-12.mp3)
+
+![:button]
+
+.english[
+
+You had me worried. At least you could have called.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+５０メートルぐらいならわたしも泳げるよ。
+
+![:audio](19/kurai-13.mp3)
+
+![:button]
+
+.english[
+
+If it’s only 50 meters than I can also swim that far.
+
+]
+
+![:prev]
