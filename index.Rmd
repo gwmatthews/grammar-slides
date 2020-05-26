@@ -45,4 +45,9 @@ pagetitle: "文法"
 
  [授業 十八](N5/18-kedo.html)　　けど
  
+ [授業 十九](N5/19-kurai.html)　 くらい
+ 
+ [授業 二十](N5/20-mada.html)　　まだ
+
+ [授業 二十一](N5/21-made.html)　　まで
  
