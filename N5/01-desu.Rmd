@@ -215,9 +215,9 @@ Your father is a well-known journalist. What does he mean to you, and how have y
 
 ---
 
-わたしたちは間違いなく似合いのカップルだった。
+私たちは間違いなく似合いのカップルだった。
 
-![:audio](01/desu-1.mp3)
+![:audio](01/desu-11.mp3)
 
 ![:button]
 
@@ -269,11 +269,7 @@ This is a character whose heart is filled with the desire to avenge his father.
 
 ---
 
-.smaller[
-
-きみたちは危険を口にしているが、それがわかっていないのだ。今度のことは宝探しではない。行って戻って来る旅ではない。
-
-]
+.smaller[きみたちは危険を口にしているが、それがわかっていないのだ。今度のことは宝探しではない。行って戻って来る旅ではない。]
 
 ![:audio](01/desu-14.mp3)
 
