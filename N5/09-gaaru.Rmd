@@ -23,6 +23,16 @@ count: false
 
 # がある 
 
+![:note]
+
+.grammar[
+
+*Meaning:* to be, to exist. ある is used to indicate the existence of inanimate objects.
+
+*Formation:* Person/Place + (に)は + thing + がある
+
+]
+
 ![:next]
 
 ---

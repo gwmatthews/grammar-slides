@@ -15,6 +15,29 @@ count: false
 
 # です 
 
+![:note]
+
+.grammar[
+
+*Meaning:* to be (copula)
+
+*Formation:* 
+
+.smaller[
+Present affirmative: だ (plain); です (polite)
+
+Present negative: じゃない/ではない (plain); じゃありません/ではありません (polite)
+
+Past affirmative: だった (plain); でした (polite)
+
+Past negative: じゃなかった/ではなかった (plain);
+
+ではありませんでした/じゃありませんでした/じゃなかった
+です/ではなかったです (polite)
+]
+
+]
+
 ![:next]
 
 ---
@@ -470,6 +493,17 @@ $(document).ready(function(){
         $(this).next('div.english').css('visibility','visible');
       else
     $(this).next('div.english').css('visibility','hidden');
+    });
+});
+</script>
+
+<script>
+$(document).ready(function(){
+    $("button.grammar-note").click(function(){
+      if ( $(this).next('div.grammar').css('visibility') == 'hidden' )
+        $(this).next('div.grammar').css('visibility','visible');
+      else
+    $(this).next('div.grammar').css('visibility','hidden');
     });
 });
 </script>

@@ -23,6 +23,20 @@ count: false
 
 # ほうがいい　一 
 
+![:note]
+
+.grammar[
+
+*Meaning:* had better, should, it’d be better to
+
+*Formation:* 
+
+Verb-casual past + ほうがいい
+
+Verb-casual, non-past + ほうがいい
+
+]
+
 ![:next]
 
 ---

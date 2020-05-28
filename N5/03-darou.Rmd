@@ -23,6 +23,24 @@ count: false
 
 # だろう 
 
+![:note]
+
+.grammar[
+
+*Meaning:* probably; seems; I think; I guess; I wonder; I hope; don’t you agree? Sometimes う is omitted so you’ll only hear だろ.
+
+*Formation:* 
+
+Verb-casual + だろう
+
+い-adjective + だろう
+
+な-adjective + だろう
+
+Noun + だろう
+
+]
+
 ![:next]
 
 ---

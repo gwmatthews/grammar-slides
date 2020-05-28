@@ -15,6 +15,16 @@ count: false
 
 # で　ニ 
 
+![:note]
+
+.grammar[
+
+*Meaning:* by; with; using; for
+
+*Formation:* Noun + で
+
+]
+
 ![:next]
 
 ---
@@ -467,6 +477,17 @@ $(document).ready(function(){
         $(this).next('div.english').css('visibility','visible');
       else
     $(this).next('div.english').css('visibility','hidden');
+    });
+});
+</script>
+
+<script>
+$(document).ready(function(){
+    $("button.grammar-note").click(function(){
+      if ( $(this).next('div.grammar').css('visibility') == 'hidden' )
+        $(this).next('div.grammar').css('visibility','visible');
+      else
+    $(this).next('div.grammar').css('visibility','hidden');
     });
 });
 </script>

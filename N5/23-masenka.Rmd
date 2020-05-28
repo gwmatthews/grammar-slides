@@ -22,6 +22,16 @@ count: false
 
 # ませんか
 
+![:note]
+
+.grammar[
+
+*Meaning:* let’s, won’t you, wouldn’t you
+
+*Formation:* Verb-polite negative form + ませんか
+
+]
+
 ![:next]
 
 ---

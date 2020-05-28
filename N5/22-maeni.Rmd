@@ -22,6 +22,20 @@ count: false
 
 # 前に
 
+![:note]
+
+.grammar[
+
+*Meaning:* before, in front of
+
+*Formation:* 
+
+Verb-dictionary form + 前に
+
+Noun + の前に
+
+]
+
 ![:next]
 
 ---

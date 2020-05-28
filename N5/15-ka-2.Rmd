@@ -22,6 +22,22 @@ count: false
 
 #　か　ニ
 
+![:note]
+
+.grammar[
+
+*Meaning:* or
+
+*Formation:* 
+
+Verb + か
+
+Noun + か
+
+Adjective + か
+
+]
+
 ![:next]
 
 ---

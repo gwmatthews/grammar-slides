@@ -15,6 +15,16 @@ count: false
 
 # がある 
 
+![:note]
+
+.grammar[
+
+*Meaning:* to be, to exist. ある is used to indicate the existence of inanimate objects.
+
+*Formation:* Person/Place + (に)は + thing + がある
+
+]
+
 ![:next]
 
 ---
@@ -465,6 +475,17 @@ $(document).ready(function(){
         $(this).next('div.english').css('visibility','visible');
       else
     $(this).next('div.english').css('visibility','hidden');
+    });
+});
+</script>
+
+<script>
+$(document).ready(function(){
+    $("button.grammar-note").click(function(){
+      if ( $(this).next('div.grammar').css('visibility') == 'hidden' )
+        $(this).next('div.grammar').css('visibility','visible');
+      else
+    $(this).next('div.grammar').css('visibility','hidden');
     });
 });
 </script>

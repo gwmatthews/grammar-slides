@@ -22,6 +22,16 @@ count: false
 
 # ましょう
 
+![:note]
+
+.grammar[
+
+*Meaning:* let’s, shall we
+
+*Formation:* Verb-ますstem + ましょう / ましょうか
+
+]
+
 ![:next]
 
 ---

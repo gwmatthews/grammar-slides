@@ -15,6 +15,24 @@ count: false
 
 # だろう 
 
+![:note]
+
+.grammar[
+
+*Meaning:* probably; seems; I think; I guess; I wonder; I hope; don’t you agree? Sometimes う is omitted so you’ll only hear だろ.
+
+*Formation:* 
+
+Verb-casual + だろう
+
+い-adjective + だろう
+
+な-adjective + だろう
+
+Noun + だろう
+
+]
+
 ![:next]
 
 ---
@@ -466,6 +484,17 @@ $(document).ready(function(){
         $(this).next('div.english').css('visibility','visible');
       else
     $(this).next('div.english').css('visibility','hidden');
+    });
+});
+</script>
+
+<script>
+$(document).ready(function(){
+    $("button.grammar-note").click(function(){
+      if ( $(this).next('div.grammar').css('visibility') == 'hidden' )
+        $(this).next('div.grammar').css('visibility','visible');
+      else
+    $(this).next('div.grammar').css('visibility','hidden');
     });
 });
 </script>

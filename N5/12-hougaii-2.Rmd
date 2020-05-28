@@ -23,6 +23,16 @@ count: false
 
 # ほうがいい　ニ 
 
+![:note]
+
+.grammar[
+
+*Meaning:*It’d be better to not do something
+
+*Formation:* Verb ない form + ほうがいい
+
+]
+
 ![:next]
 
 ---

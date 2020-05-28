@@ -22,6 +22,16 @@ count: false
 
 # まで
 
+![:note]
+
+.grammar[
+
+*Meaning:* until; till; to; as far as; to (an extent); even
+
+*Formation:* Noun + まで
+
+]
+
 ![:next]
 
 ---

@@ -15,6 +15,20 @@ count: false
 
 #　いちばん
 
+![:note]
+
+.grammar[
+
+*Meaning:* the most, the best
+
+*Formation:* 
+
+Noun + は/が一番 + adjective + だ
+
+Verb-dictionary form + のは/のが一番 + adjective + だ
+
+]
+
 ![:next]
 
 ---
@@ -466,6 +480,17 @@ $(document).ready(function(){
         $(this).next('div.english').css('visibility','visible');
       else
     $(this).next('div.english').css('visibility','hidden');
+    });
+});
+</script>
+
+<script>
+$(document).ready(function(){
+    $("button.grammar-note").click(function(){
+      if ( $(this).next('div.grammar').css('visibility') == 'hidden' )
+        $(this).next('div.grammar').css('visibility','visible');
+      else
+    $(this).next('div.grammar').css('visibility','hidden');
     });
 });
 </script>

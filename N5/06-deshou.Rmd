@@ -23,6 +23,22 @@ count: false
 
 # でしょう
 
+![:note]
+
+.grammar[
+
+*Meaning:* I think, probably
+
+*Formation:* 
+
+Noun + でしょう
+
+Verb + でしょう
+
+Adjective + でしょう
+
+]
+
 
 ![:next]
 

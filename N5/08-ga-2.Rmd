@@ -23,6 +23,16 @@ count: false
 
 # が　ニ 
 
+![:note]
+
+.grammar[
+
+*Meaning:* but, however, still
+
+*Formation:* Sentence 1 + が + Sentence 2
+
+]
+
 ![:next]
 
 ---

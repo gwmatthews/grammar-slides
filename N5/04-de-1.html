@@ -15,6 +15,16 @@ count: false
 
 # で　一 
 
+![:note]
+
+.grammar[
+
+*Meaning:* in, at, on. で is used to indicate the location of an action.
+
+*Formation:* Location + で
+
+]
+
 ![:next]
 
 ---
@@ -376,6 +386,17 @@ $(document).ready(function(){
         $(this).next('div.english').css('visibility','visible');
       else
     $(this).next('div.english').css('visibility','hidden');
+    });
+});
+</script>
+
+<script>
+$(document).ready(function(){
+    $("button.grammar-note").click(function(){
+      if ( $(this).next('div.grammar').css('visibility') == 'hidden' )
+        $(this).next('div.grammar').css('visibility','visible');
+      else
+    $(this).next('div.grammar').css('visibility','hidden');
     });
 });
 </script>

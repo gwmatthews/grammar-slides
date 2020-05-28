@@ -39,4 +39,6 @@ p, h1, h2, h3, h4 {
   font-family: 'Sawarabi Mincho';
 }
 
-
+.container {
+        column-width: 400px;
+    }

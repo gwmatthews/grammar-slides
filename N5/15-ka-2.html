@@ -14,6 +14,22 @@ count: false
 
 #　か　ニ
 
+![:note]
+
+.grammar[
+
+*Meaning:* or
+
+*Formation:* 
+
+Verb + か
+
+Noun + か
+
+Adjective + か
+
+]
+
 ![:next]
 
 ---
@@ -267,6 +283,17 @@ $(document).ready(function(){
         $(this).next('div.english').css('visibility','visible');
       else
     $(this).next('div.english').css('visibility','hidden');
+    });
+});
+</script>
+
+<script>
+$(document).ready(function(){
+    $("button.grammar-note").click(function(){
+      if ( $(this).next('div.grammar').css('visibility') == 'hidden' )
+        $(this).next('div.grammar').css('visibility','visible');
+      else
+    $(this).next('div.grammar').css('visibility','hidden');
     });
 });
 </script>

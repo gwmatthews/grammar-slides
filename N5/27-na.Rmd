@@ -1,0 +1,399 @@
+---
+title: "な"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default", "style.css"]
+    lib_dir: libs
+    includes: 
+      after_body: "includes/header.html"
+    nature:
+      countIncrementalSlides: false
+      beforeInit: "js/macros.js"
+      slideNumberFormat: '%current%'
+      navigation:
+        scroll: true
+        click: false
+        touch: false
+
+---
+class: title-slide middle center
+count: false
+
+# な
+
+![:note]
+
+.grammar[
+
+*Meaning:* don’t ~ (order somebody not to do something)
+
+*Formation:* Verb-dictionary form + な
+
+]
+
+![:next]
+
+---
+
+layout: true
+class: center
+
+---
+
+大きな声を出すな。
+
+![:audio](27/na-01.mp3)
+
+![:button]
+
+.english[
+
+Keep your voice down.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+たずねるな。話すな。
+
+![:audio](27/na-02.mp3)
+
+![:button]
+
+.english[
+
+Don’t ask, don’t tell.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+顔は出すな。声も出すな。
+
+![:audio](27/na-03.mp3)
+
+![:button]
+
+.english[
+
+Don’t show your face, or speak.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+そいつを決してなくすな。
+
+![:audio](27/na-04.mp3)
+
+![:button]
+
+.english[
+
+Do not lose it.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+彼女をこれに引き込むな。
+
+![:audio](27/na-05.mp3)
+
+![:button]
+
+.english[
+
+Leave her out of this.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+二度とそんなことをいうな。
+
+![:audio](27/na-06.mp3)
+
+![:button]
+
+.english[
+
+Don’t you ever say that.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+運転手には話しかけるな。
+
+![:audio](27/na-07.mp3)
+
+![:button]
+
+.english[
+
+Don’t talk to the driver.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+いまは黴菌のことは気にするな。
+
+![:audio](27/na-08.mp3)
+
+![:button]
+
+.english[
+
+Never mind the bacteria just now.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+チャンスは一回だけだ。逃がすなよ。
+
+![:audio](27/na-09.mp3)
+
+![:button]
+
+.english[
+
+You have one chance. Take it.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+どのドアにも背をむけて坐るなよ。
+
+![:audio](27/na-10.mp3)
+
+![:button]
+
+.english[
+
+Don’t sit with your back to any doors.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+したくないことは決してするな。
+
+![:audio](27/na-11.mp3)
+
+![:button]
+
+.english[
+
+Never do anything you don’t like.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+敵に対して、弱さやもろさを決して見せるな。
+
+![:audio](27/na-12.mp3)
+
+![:button]
+
+.english[
+
+Never show weakness or fragility to the enemy.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+気にかけてはダメだ。ふりかえるな。
+
+![:audio](27/na-13.mp3)
+
+![:button]
+
+.english[
+
+Pay no attention. Don’t look back.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+私たちの学校では酒を飲むな。
+
+![:audio](27/na-14.mp3)
+
+![:button]
+
+.english[
+
+Don’t drink at our school.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+池袋駅に着くまで足をとめるなよ！
+
+![:audio](27/na-15.mp3)
+
+![:button]
+
+.english[
+
+Don’t stop till you get to Ikebukuro station!
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+相手の白目が見えるまで発砲するな。
+
+![:audio](27/na-16.mp3)
+
+![:button]
+
+.english[
+
+Don’t fire until you see the whites of their eyes.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+だから僕は頼んだのだ。行くなって頼んだのだ。
+
+![:audio](27/na-17.mp3)
+
+![:button]
+
+.english[
+
+That’s why I begged, I implored you not to go.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+急げ。踏みつぶされる前に。ぜったいにぼくから手を離すな。
+
+![:audio](27/na-18.mp3)
+
+![:button]
+
+.english[
+
+Quick. Before we get trampled. Don’t let go of me.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+けちなことをいうなよ。金ならずいぶん稼いでるじゃないか。
+
+![:audio](27/na-19.mp3)
+![:button]
+
+.english[
+
+Don’t be mean. You know you’re coining money.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+もう気に悩むな。きみにはやるべきことがあるんだぞ。
+
+![:audio](27/na-20.mp3)
+
+![:button]
+
+.english[
+
+Just let it go. You’ve got a lot to do.
+
+]
+
+![:prev]
+
+

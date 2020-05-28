@@ -23,6 +23,16 @@ count: false
 
 # で　一 
 
+![:note]
+
+.grammar[
+
+*Meaning:* in, at, on. で is used to indicate the location of an action.
+
+*Formation:* Location + で
+
+]
+
 ![:next]
 
 ---

@@ -23,6 +23,16 @@ count: false
 
 # で　ニ 
 
+![:note]
+
+.grammar[
+
+*Meaning:* by; with; using; for
+
+*Formation:* Noun + で
+
+]
+
 ![:next]
 
 ---

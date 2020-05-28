@@ -23,6 +23,20 @@ count: false
 
 #　いちばん
 
+![:note]
+
+.grammar[
+
+*Meaning:* the most, the best
+
+*Formation:* 
+
+Noun + は/が一番 + adjective + だ
+
+Verb-dictionary form + のは/のが一番 + adjective + だ
+
+]
+
 ![:next]
 
 ---

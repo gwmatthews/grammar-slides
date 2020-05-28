@@ -14,6 +14,16 @@ count: false
 
 # ませんか
 
+![:note]
+
+.grammar[
+
+*Meaning:* let’s, won’t you, wouldn’t you
+
+*Formation:* Verb-polite negative form + ませんか
+
+]
+
 ![:next]
 
 ---
@@ -446,6 +456,17 @@ $(document).ready(function(){
         $(this).next('div.english').css('visibility','visible');
       else
     $(this).next('div.english').css('visibility','hidden');
+    });
+});
+</script>
+
+<script>
+$(document).ready(function(){
+    $("button.grammar-note").click(function(){
+      if ( $(this).next('div.grammar').css('visibility') == 'hidden' )
+        $(this).next('div.grammar').css('visibility','visible');
+      else
+    $(this).next('div.grammar').css('visibility','hidden');
     });
 });
 </script>

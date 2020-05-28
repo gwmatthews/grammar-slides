@@ -1,0 +1,399 @@
+---
+title: "もう"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default", "style.css"]
+    lib_dir: libs
+    includes: 
+      after_body: "includes/header.html"
+    nature:
+      countIncrementalSlides: false
+      beforeInit: "js/macros.js"
+      slideNumberFormat: '%current%'
+      navigation:
+        scroll: true
+        click: false
+        touch: false
+
+---
+class: title-slide middle center
+count: false
+
+# もう
+
+![:note]
+
+.grammar[
+
+*Meaning 1.:*  already; (not) anymore
+
+*Meaning 2:* other; again
+
+]
+
+![:next]
+
+---
+
+layout: true
+class: center
+
+---
+
+もう彼の話はしないわ。
+
+![:audio](26/mou-01.mp3)
+
+![:button]
+
+.english[
+
+I will say no more about him.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+私、もう恐ろしくないわ。
+
+![:audio](26/mou-02.mp3)
+
+![:button]
+
+.english[
+
+I’m no longer afraid.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+トシヒコはもう十六歳だったね。
+
+![:audio](26/mou-03.mp3)
+
+![:button]
+
+.english[
+
+Toshihiko’s already sixteen.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+父さん、学校なんてもういやだよ。
+
+![:audio](26/mou-04.mp3)
+
+![:button]
+
+.english[
+
+Dad, I don’t wanna go to school anymore.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+もうもとのような顔にはなれないの。
+
+![:audio](26/mou-05.mp3)
+
+![:button]
+
+.english[
+
+My face will never be the way it was.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+ぼくは今のところ、冒険はもうたくさん。
+
+![:audio](26/mou-06.mp3)
+
+![:button]
+
+.english[
+
+I’ve had quite enough adventures for the present.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+健康がある。もう一度出直すのだ。
+
+![:audio](26/mou-07.mp3)
+
+![:button]
+
+.english[
+
+I still have my health. I will start again.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+もう事件の話はしたくない。おわったことだ。
+
+![:audio](26/mou-08.mp3)
+
+![:button]
+
+.english[
+
+I don’t want to talk about it, it’s over.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+今はもう二十世紀も終わりに近いんだ。
+
+![:audio](26/mou-09.mp3)
+
+![:button]
+
+.english[
+
+We’re drawing close to the end of the twentieth century.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+もう一生、君とは口をきかないぞ！
+
+![:audio](26/mou-10.mp3)
+
+![:button]
+
+.english[
+
+I’ll never speak to you again as long as I live.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+ふたたび顔をあげたとき、ハルカの姿はもうなかった。
+
+![:audio](26/mou-11.mp3)
+
+![:button]
+
+.english[
+
+When I looked up again, Haruka was gone.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+食事までにはもう何を話す時間もなかった。
+
+![:audio](26/mou-12.mp3)
+
+![:button]
+
+.english[
+
+There was no time to talk about anything before dinner.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+私はもうだめです。私の力は尽き果てました。
+
+![:audio](26/mou-13.mp3)
+
+![:button]
+
+.english[
+
+I am done for. I have reached the end of my resources.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+怒りはもうすっかり消えていたが、衝撃はなおもあとを引いていた。
+
+![:audio](26/mou-14.mp3)
+
+![:button]
+
+.english[
+
+I was no longer angry, but I was still stunned.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+ふりかえればこの瞬間だったと思う、もう二度と帰らないと心に決めたのは。
+
+![:audio](26/mou-15.mp3)
+
+![:button]
+
+.english[
+
+I think that’s when I decided I was never going back.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+私は卵をもう一つに、ベーコンをもう一、二枚、食べられそうな気がしますね。
+
+![:audio](26/mou-16.mp3)
+
+![:button]
+
+.english[
+
+I believe I could manage another egg, and perhaps a rasher or two of bacon.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+僕はもう彼女のことなんかどうでもいい。僕にとっては、彼女はもう存在しないものなのだ。
+
+![:audio](26/mou-17.mp3)
+
+![:button]
+
+.english[
+
+I have nothing to do with her. She does not exist for me.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+私、そんなことはもう、わたしの生活になんの影響ももたないだろうと決めたのよ。
+
+![:audio](26/mou-18.mp3)
+
+![:button]
+
+.english[
+
+I have made up my mind it shall not have any more influence on my life.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+もうすでに、両方の棟をつなぐ回廊に、足音が響いているじゃありませんか。
+
+![:audio](26/mou-19.mp3)
+![:button]
+
+.english[
+
+Already footsteps are echoing along the gallery which connects the two wings.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+.smaller[もうほとんど言うことはありません。僕は、昼間眠り、夜になると起きて見張りをしていました。]
+
+![:audio](26/mou-20.mp3)
+
+![:button]
+
+.english[
+
+There’s very little to tell. I got my sleep in the daytime and stayed awake on the watch at night.
+
+]
+
+![:prev]
+
+

@@ -24,6 +24,16 @@ count: false
 
 #　か　一
 
+![:note]
+
+.grammar[
+
+*Meaning:* question particle. You put か at the end of a sentence to turn it into a question.
+
+*Formation:* Sentence + か
+
+]
+
 ![:next]
 
 ---

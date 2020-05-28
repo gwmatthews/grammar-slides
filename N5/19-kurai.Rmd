@@ -22,6 +22,18 @@ count: false
 
 # くらい
 
+![:note]
+
+.grammar[
+
+*Meaning 1:* about, approximately
+
+*Meaning 2:* at least, at the very least
+
+*Formation:* Noun + くらい/ぐらい
+
+]
+
 ![:next]
 
 ---

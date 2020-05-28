@@ -1,0 +1,399 @@
+---
+title: "に"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default", "style.css"]
+    lib_dir: libs
+    includes: 
+      after_body: "includes/header.html"
+    nature:
+      countIncrementalSlides: false
+      beforeInit: "js/macros.js"
+      slideNumberFormat: '%current%'
+      navigation:
+        scroll: true
+        click: false
+        touch: false
+
+---
+class: title-slide middle center
+count: false
+
+# に
+
+![:note]
+
+.grammar[
+
+*Meaning:* in, at, on, to 
+
+*Formation:* Noun + に
+
+]
+
+![:next]
+
+---
+
+layout: true
+class: center
+
+---
+
+大学院に入ろうと思っています。
+
+![:audio](30/ni-01.mp3)
+
+![:button]
+
+.english[
+
+I’m thinking of going to graduate school.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+どうやって学校に通っていますか？
+
+![:audio](30/ni-02.mp3)
+
+![:button]
+
+.english[
+
+How do you go to school?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+ここに名前を書いてください。
+
+![:audio](30/ni-03.mp3)
+
+![:button]
+
+.english[
+
+Please write your name here.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+家族と一緒に東京に住んでいます。
+
+![:audio](30/ni-04.mp3)
+
+![:button]
+
+.english[
+
+I’m living in Tokyo with my family.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+もっと勉強してくださいと先生に言われた。
+
+![:audio](30/ni-05.mp3)
+
+![:button]
+
+.english[
+
+My teacher told me to study harder.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+明日の朝、九時に待っているぜ。
+
+![:audio](30/ni-06.mp3)
+
+![:button]
+
+.english[
+
+I expect you tomorrow morning at nine o’clock.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+彼がちょうどよいときに現れた。
+
+![:audio](30/ni-07.mp3)
+
+![:button]
+
+.english[
+
+He appeared at the best moment.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+中田は三十分ほど前に出かけた。
+
+![:audio](30/ni-08.mp3)
+
+![:button]
+
+.english[
+
+Nakada went out about half an hour ago.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+日本での物を捨てる過程には、とても驚いたよ。
+
+![:audio](30/ni-09.mp3)
+
+![:button]
+
+.english[
+
+The process of throwing away garbage in Japan was quite surprising for me.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+チームプレイの必要なスポーツがどうしても好きになれなかった。
+
+![:audio](30/ni-10.mp3)
+
+![:button]
+
+.english[
+
+I disliked team sports of any kind.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+どうしてこんな場所、デートに選んだのよ！
+
+![:audio](30/ni-11.mp3)
+
+![:button]
+
+.english[
+
+Why did you choose this place for a date!
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+彼は人間と自然、文化の関係を私たちに示しています。
+
+![:audio](30/ni-12.mp3)
+
+![:button]
+
+.english[
+
+He’s showing us the relationship between human beings, nature and culture.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+ボートが細かい砂の上に乗り上げた。
+
+![:audio](30/ni-13.mp3)
+
+![:button]
+
+.english[
+
+The boat grounded on the fine sand.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+国民投票を受けて、国の重大な転換期に直面しています。
+
+![:audio](30/ni-14.mp3)
+
+![:button]
+
+.english[
+
+Following the referendum, we face a time of great national change.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+たったいま北島は、ここまで話したことがかならずしも正しくないことに気づいた。
+
+![:audio](30/ni-15.mp3)
+
+![:button]
+
+.english[
+
+Kitajima realized that what he was saying might not be entirely true.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+数学のノートを学校に忘れた。
+
+![:audio](30/ni-16.mp3)
+
+![:button]
+
+.english[
+
+I left my Math notes at school.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+みんなほんとに何も知っちゃいないんだ。少しわかって来たころにはもう間に合わない。
+
+![:audio](30/ni-17.mp3)
+
+![:button]
+
+.english[
+
+One knows so little. When one knows more, it is too late.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+その秘密は私たちから敵に伝わることはない。
+
+![:audio](30/ni-18.mp3)
+
+![:button]
+
+.english[
+
+The secret will not reach the enemy from us.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+じっと火をみつめて立っている彼女の唇には、満足そうな意地の悪い微笑が浮かんでいた。
+
+![:audio](30/ni-19.mp3)
+![:button]
+
+.english[
+
+She was gazing at the fire, and on her lips was a smile of satisfied malice.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+イギリス人がインドに、立派な教育制度を構築しました。
+
+![:audio](30/ni-20.mp3)
+
+![:button]
+
+.english[
+
+The British built a fantastic educational system in India.
+
+]
+
+![:prev]
+
+

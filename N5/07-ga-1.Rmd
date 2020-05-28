@@ -23,6 +23,14 @@ count: false
 
 # が　一 
 
+![:note]
+
+.grammar[
+
+*Meaning:* subject marker
+
+]
+
 ![:next]
 
 ---

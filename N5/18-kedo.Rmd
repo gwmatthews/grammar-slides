@@ -22,6 +22,16 @@ count: false
 
 # けど
 
+![:note]
+
+.grammar[
+
+*Meaning:* still; not yet
+
+*Formation:* まだ + Verb
+
+]
+
 ![:next]
 
 ---

@@ -15,6 +15,16 @@ count: false
 
 # がいる 
 
+![:note]
+
+.grammar[
+
+*Meaning:* to exist, there is/are. The verb いる is used to indicate the existence of living objects.
+
+*Formation:* Person/Place + (に)は + thing + がいる
+
+]
+
 ![:next]
 
 ---
@@ -286,6 +296,17 @@ $(document).ready(function(){
         $(this).next('div.english').css('visibility','visible');
       else
     $(this).next('div.english').css('visibility','hidden');
+    });
+});
+</script>
+
+<script>
+$(document).ready(function(){
+    $("button.grammar-note").click(function(){
+      if ( $(this).next('div.grammar').css('visibility') == 'hidden' )
+        $(this).next('div.grammar').css('visibility','visible');
+      else
+    $(this).next('div.grammar').css('visibility','hidden');
     });
 });
 </script>

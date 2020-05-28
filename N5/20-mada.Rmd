@@ -22,6 +22,16 @@ count: false
 
 # まだ
 
+![:note]
+
+.grammar[
+
+*Meaning:* from, ever since
+
+*Formation:* Noun + から
+
+]
+
 ![:next]
 
 ---

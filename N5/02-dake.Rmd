@@ -23,6 +23,24 @@ count: false
 
 # だけ 
 
+![:note]
+
+.grammar[
+
+*Meaning:* only, just
+
+*Formation:* 
+
+Verb-casual + だけ
+
+いadj + だけ
+
+なadj + だけ
+
+Noun + だけ
+
+]
+
 ![:next]
 
 ---

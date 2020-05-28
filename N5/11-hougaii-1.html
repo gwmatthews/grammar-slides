@@ -15,6 +15,20 @@ count: false
 
 # ほうがいい　一 
 
+![:note]
+
+.grammar[
+
+*Meaning:* had better, should, it’d be better to
+
+*Formation:* 
+
+Verb-casual past + ほうがいい
+
+Verb-casual, non-past + ほうがいい
+
+]
+
 ![:next]
 
 ---
@@ -465,6 +479,17 @@ $(document).ready(function(){
         $(this).next('div.english').css('visibility','visible');
       else
     $(this).next('div.english').css('visibility','hidden');
+    });
+});
+</script>
+
+<script>
+$(document).ready(function(){
+    $("button.grammar-note").click(function(){
+      if ( $(this).next('div.grammar').css('visibility') == 'hidden' )
+        $(this).next('div.grammar').css('visibility','visible');
+      else
+    $(this).next('div.grammar').css('visibility','hidden');
     });
 });
 </script>

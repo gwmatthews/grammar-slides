@@ -1,0 +1,274 @@
+---
+title: "も"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default", "style.css"]
+    lib_dir: libs
+    includes: 
+      after_body: "includes/header.html"
+    nature:
+      countIncrementalSlides: false
+      beforeInit: "js/macros.js"
+      slideNumberFormat: '%current%'
+      navigation:
+        scroll: true
+        click: false
+        touch: false
+
+---
+class: title-slide middle center
+count: false
+
+# も
+
+![:note]
+
+.grammar[
+
+*Meaning:* also, too, as well
+
+*Formation:* Noun + も
+
+]
+
+![:next]
+
+---
+
+layout: true
+class: center
+
+---
+
+あいつも結構かわいいところがある…
+
+![:audio](25/mo-01.mp3)
+
+![:button]
+
+.english[
+
+He can be kind of cute sometimes…
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+僕も昨日徹夜で勉強しました。
+
+![:audio](25/mo-02.mp3)
+
+![:button]
+
+.english[
+
+I was also up all night studying.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+約２０００万人いるタイの高齢者たちには、貯金も個人年金もないのです。
+
+![:audio](25/mo-03.mp3)
+
+![:button]
+
+.english[
+
+Around 20 million elderly Thais do not have savings or private pensions.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+どちらの候補者も、さまざまな感情を掻き立てるのです。
+
+![:audio](25/mo-04.mp3)
+
+![:button]
+
+.english[
+
+Both candidates stir up a lot of emotion.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+カーターはやがて、素晴らしい人権擁護者となり、またノーベル平和賞も受賞しました。
+
+![:audio](25/mo-05.mp3)
+
+![:button]
+
+.english[
+
+Carter turned out to be a great advocate for human rights as well as a Nobel Peace Prize winner.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+収蔵品についてのトークもしますし、重要作品について、毎日１０分のトークもしています。
+
+![:audio](25/mo-06.mp3)
+
+![:button]
+
+.english[
+
+I also do collection talks and the daily 10-minute talks on key works in the actual gallery.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+私は接客マネジャーですが、屋敷内のガイドもします。
+
+![:audio](25/mo-07.mp3)
+
+![:button]
+
+.english[
+
+I’m the visitor engagement manager, but I also do guiding in the house.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+彼の名前も知らないし、どの部屋に住んでいるのかもわからない。
+
+![:audio](25/mo-09.mp3)
+
+![:button]
+
+.english[
+
+I don’t know his name or where his room is.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+日本は空気がきれいで空も高く、気持ちいい場所でした。ファンの皆さんも優しかったし。
+
+![:audio](25/mo-10.mp3)
+
+![:button]
+
+.english[
+
+The air in Japan is clean, the sky is tall, it felt like a really good place. The fans were also kind.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+会社というところは僕には向いていない。きっと君にも向いていない。
+
+![:audio](25/mo-11.mp3)
+
+![:button]
+
+.english[
+
+Me and companies just don’t get along. I don’t think you’d find it any different.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+他人を愛することも大事だけれど、自分も愛せなくてはいけないんです。
+
+![:audio](25/mo-12.mp3)
+
+![:button]
+
+.english[
+
+You need to be able to love other people, but you need to be able to love yourself, too.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+スタッフは男性も女性もいる状態で、肌色のパンツだけははいて撮影をしました。
+
+![:audio](25/mo-13.mp3)
+
+![:button]
+
+.english[
+
+I wore only skin-colored pants and acted in front of both male and female staff.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+愛しているだなんて露骨に打ち明けようとは夢にも思わない。
+
+![:audio](25/mo-14.mp3)
+
+![:button]
+
+.english[
+
+I can’t even dream of saying to him boldly that I love him.
+
+]
+
+![:prev]
+
+

@@ -22,6 +22,18 @@ count: false
 
 # title
 
+![:note]
+
+.grammar[
+
+*Meaning:* 
+
+*Formation:* 
+
+]
+
+
+
 ![:next]
 
 ---

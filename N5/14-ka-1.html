@@ -14,6 +14,16 @@ count: false
 
 #　か　一
 
+![:note]
+
+.grammar[
+
+*Meaning:* question particle. You put か at the end of a sentence to turn it into a question.
+
+*Formation:* Sentence + か
+
+]
+
 ![:next]
 
 ---
@@ -429,6 +439,17 @@ $(document).ready(function(){
         $(this).next('div.english').css('visibility','visible');
       else
     $(this).next('div.english').css('visibility','hidden');
+    });
+});
+</script>
+
+<script>
+$(document).ready(function(){
+    $("button.grammar-note").click(function(){
+      if ( $(this).next('div.grammar').css('visibility') == 'hidden' )
+        $(this).next('div.grammar').css('visibility','visible');
+      else
+    $(this).next('div.grammar').css('visibility','hidden');
     });
 });
 </script>
