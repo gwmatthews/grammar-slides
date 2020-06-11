@@ -1,0 +1,382 @@
+---
+title: "に/へ"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default", "style.css"]
+    lib_dir: libs
+    includes: 
+      after_body: "includes/header.html"
+    nature:
+      countIncrementalSlides: false
+      beforeInit: "js/macros.js"
+      slideNumberFormat: '%current%'
+      navigation:
+        scroll: true
+        click: false
+        touch: false
+
+---
+class: title-slide middle center
+count: false
+
+# に/へ
+
+![:note]
+
+.grammar[
+
+*Meaning:* to (indicates direction / destination)
+
+*Formation:* Noun + に/へ
+
+]
+
+
+
+![:next]
+
+---
+
+layout: true
+class: center
+
+---
+
+アフリカに行ったことがありますか？
+
+![:audio](31/ni-e-01.mp3)
+
+![:button]
+
+.english[
+
+Have you ever been to Africa?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+家へ向かっているところです。
+
+![:audio](31/ni-e-02.mp3)
+
+![:button]
+
+.english[
+
+I’m heading home.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+ベッドに戻りたい。
+
+![:audio](31/ni-e-03.mp3)
+
+![:button]
+
+.english[
+
+I want to go back to bed.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+一時にここに来てください。
+
+![:audio](31/ni-e-04.mp3)
+
+![:button]
+
+.english[
+
+Please come here at one o’clock.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+あの喫茶店に入りましょう。
+
+![:audio](31/ni-e-05.mp3)
+
+![:button]
+
+.english[
+
+Let’s go to that coffee shop.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+靴を履いたまま部屋に入ってしまった。
+
+![:audio](31/ni-e-06.mp3)
+
+![:button]
+
+.english[
+
+I went into the room with my shoes on.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+毎週友達と一緒にカラオケに行く。
+
+![:audio](31/ni-e-07.mp3)
+
+![:button]
+
+.english[
+
+I go to the karaoke bar with my friends every week.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+駅を出て、右に曲がってください。
+
+![:audio](31/ni-e-08.mp3)
+
+![:button]
+
+.english[
+
+Please exit the station and turn right.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+危ないので、池に近づかないでください。
+
+![:audio](31/ni-e-09.mp3)
+
+![:button]
+
+.english[
+
+Please don’t come near the pond. It’s dangerous.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+アキラの住まいへ行く階段は門のすぐ右手にあった。
+
+![:audio](31/ni-e-10.mp3)
+
+![:button]
+
+.english[
+
+The staircase leading to Akira’s room was near the entrance.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+多くの人が彼の所へ来て握手をした。
+
+![:audio](31/ni-e-11.mp3)
+
+![:button]
+
+.english[
+
+Many people came forward to shake hands with him.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+二人は裏庭からはいって、四階へのぼっていった。
+
+![:audio](31/ni-e-12.mp3)
+
+![:button]
+
+.english[
+
+They went in from the yard and up to the fourth story.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+彼らはどこへ行ったんです？集会の場所はあるんですか？
+
+![:audio](31/ni-e-13.mp3)
+
+![:button]
+
+.english[
+
+Where did they go? Have they a meeting place?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+今朝朝ごはんを食べずに学校に行きました。
+
+![:audio](31/ni-e-14.mp3)
+
+![:button]
+
+.english[
+
+I went to school without having breakfast this morning.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+彼が車で街に入ると、住民は彼の車を花で覆った。
+
+![:audio](31/ni-e-15.mp3)
+
+![:button]
+
+.english[
+
+As he drove into the city, residents covered his car with flowers.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+私のレシピ箱は、私が日本に暮らしていたときには一緒に日本へ渡り、そしてテキサスへ一緒に戻ってきました。
+
+![:audio](31/ni-e-16.mp3)
+
+![:button]
+
+.english[
+
+My recipe box even travelled with me to Japan when I lived there and back to Texas.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+残された道はただ一つ、だれもがまったく予期しないほうに向けて出かけるのだ。
+
+![:audio](31/ni-e-17.mp3)
+
+![:button]
+
+.english[
+
+The only thing to do is to go off in a quite unexpected direction.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+角を曲がって短い通路に出たところですぐ、彼はくるりとこっちに振り向いた。
+
+![:audio](31/ni-e-18.mp3)
+
+![:button]
+
+.english[
+
+As soon as we turned the corner into a short hallway, he spun around to face me.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+ホテルに近づいたとき、ジェイソンは通りの真中に立っている一人の男を見た。
+
+![:audio](31/ni-e-19.mp3)
+![:button]
+
+.english[
+
+As he came near the hotel, Jason saw a man in the middle of the street.
+
+]
+
+![:prev]
+

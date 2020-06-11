@@ -1,0 +1,399 @@
+---
+title: "にいく"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default", "style.css"]
+    lib_dir: libs
+    includes: 
+      after_body: "includes/header.html"
+    nature:
+      countIncrementalSlides: false
+      beforeInit: "js/macros.js"
+      slideNumberFormat: '%current%'
+      navigation:
+        scroll: true
+        click: false
+        touch: false
+
+---
+class: title-slide middle center
+count: false
+
+# にいく
+
+![:note]
+
+.grammar[
+
+*Meaning:* to go in order to do something
+
+*Formation:* Verb-ますstem + にいく
+
+]
+
+![:next]
+
+---
+
+layout: true
+class: center
+
+---
+
+橋本が試合を見に行った。
+
+![:audio](32/ni-iku-01.mp3)
+
+![:button]
+
+.english[
+
+Hashimoto went to see the fight.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+映画はよく見に行くの？
+
+![:audio](32/ni-iku-02.mp3)
+
+![:button]
+
+.english[
+
+Do you go to the movies very often?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+アユミの部屋へあやまりに行った。
+
+![:audio](32/ni-iku-03.mp3)
+
+![:button]
+
+.english[
+
+I went to Ayumi’s room to apologize.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+彼女は、外の空気を吸いに行ったみたいだ。
+
+![:audio](32/ni-iku-04.mp3)
+
+![:button]
+
+.english[
+
+I think she went out for some air.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+彼女はキッチンへコーヒーをいれにいった。
+
+![:audio](32/ni-iku-05.mp3)
+
+![:button]
+
+.english[
+
+She went into the kitchen to make coffee.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+ここへ自分で様子を探りに行ったのですね？
+
+![:audio](32/ni-iku-06.mp3)
+
+![:button]
+
+.english[
+
+You came here to study the situation for yourself?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+あなたはまた後で彼に会いに行く機会もあるだろう。
+
+![:audio](32/ni-iku-07.mp3)
+
+![:button]
+
+.english[
+
+There may be a time later for you to go and see him.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+今はわたし、着替えに行かなくちゃなりませんの。
+
+![:audio](32/ni-iku-08.mp3)
+
+![:button]
+
+.english[
+
+Now I must go and dress.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+彼は夏休みによくわたしたちと一緒に釣りに行った。
+
+![:audio](32/ni-iku-09.mp3)
+
+![:button]
+
+.english[
+
+He used to go fishing with us during the summer.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+悪夢を見ました。それで外の新鮮な空気を吸いに行きました。
+
+![:audio](32/ni-iku-10.mp3)
+
+![:button]
+
+.english[
+
+I had a bad dream and went out for some air.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+映画に行きたいなら行けばいい、遊びに行きたいなら行けばいいさ。
+
+![:audio](32/ni-iku-11.mp3)
+
+![:button]
+
+.english[
+
+If you want to go to the theatre or to out to play, do it.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+私は、よその家に泊りにいくのが、あまり好きじゃありません。
+
+![:audio](32/ni-iku-12.mp3)
+
+![:button]
+
+.english[
+
+I am not very fond of staying in other people’s houses.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+今度の金曜にぼくとフットボールの試合を見に行ってくれるかい？
+
+![:audio](32/ni-iku-13.mp3)
+
+![:button]
+
+.english[
+
+Do you want to go to the football game with me on Friday?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+その前に僕につきあってハンバーガーとフライドポテトでも食べに行かないか？
+
+![:audio](32/ni-iku-14.mp3)
+
+![:button]
+
+.english[
+
+Would you like to have a burger and some fries with me first?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+井出さんはちょっと困惑したようでしたが、すぐに客に会いに行きました。
+
+![:audio](32/ni-iku-15.mp3)
+
+![:button]
+
+.english[
+
+Ide seemed rather annoyed, but went off to see the guest at once.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+それ以上は取りに行く時間がなかったからです。これはギャングの抗争ですからね。
+
+![:audio](32/ni-iku-16.mp3)
+
+![:button]
+
+.english[
+
+I didn’t have time to go get the rest of them. This is a gang fight.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+あの人たちはもう発つ支度をしてるから、私、荷造りなんかの手伝いにいく約束がしてあるのよ。
+
+![:audio](32/ni-iku-17.mp3)
+
+![:button]
+
+.english[
+
+They’re getting ready to go away, so I promised to help them pack.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+軍のために革を買い付けに行くと彼女は偽り、帰りにブランデーを買ってくると約束した。
+
+![:audio](32/ni-iku-18.mp3)
+
+![:button]
+
+.english[
+
+She said she was buying leather for the army and promised a bottle of brandy on her return.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+彼らは、夏には魚釣りやきのこ狩りに出かけ、秋には町はずれまで馬車を駆って野ウサギを撃ちに行った。
+
+![:audio](32/ni-iku-19.mp3)
+![:button]
+
+.english[
+
+In summer they went fishing and gathering mushrooms, and in the autumn they drove out to the edge of town to shoot hares.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+私はホーラー映画をぜったい見に行かない。なぜなら１９９８年のハロウィンの夜、私はホーラー映画をじっさいに体験したからだ。
+
+![:audio](32/ni-iku-20.mp3)
+
+![:button]
+
+.english[
+
+I never go see horror movies because on Halloween night in 1998 I lived through one.
+
+]
+
+![:prev]
+
+

@@ -5,6 +5,10 @@ remark.macros.audio = function () {
   return '<audio controls preload="metadata" class="sound"><source src=' + url + ' type="audio/mpeg"></audio><br>';
 }
 
+remark.macros.naudio = function () {
+  var url = this;
+  return '<audio><source src=' + url + ' type="audio/mpeg"></audio><br>';
+}
 
 remark.macros.button = function () {
   

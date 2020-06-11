@@ -67,4 +67,10 @@ pagetitle: "文法"
  
  [授業 三十](N5/30-ni.html)　に
  
+ [授業 三十一](N5/31-ni-e.html)　に・へ
+ 
+ [授業 三十二](N5/32-ni-iku.html)　にいく
+ 
+ [授業 三十三](N5/33-nisuru.html)　にする
+ 
 </div>
