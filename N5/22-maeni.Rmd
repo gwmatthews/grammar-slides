@@ -47,7 +47,7 @@ class: center
 
 警察が来る前にここを離れなくちゃ。
 
-![:audio](22/maeni-01.mp3)
+![:audioPlay]![:audio](22/maeni-01.mp3)
 
 ![:button]
 
@@ -65,7 +65,7 @@ We must get out of here before the police come.
 
 判断を下す前に両者の言い分をきこう。
 
-![:audio](22/maeni-02.mp3)
+![:audioPlay]![:audio](22/maeni-02.mp3)
 
 ![:button]
 
@@ -83,7 +83,7 @@ Let’s hear both sides before judging.
 
 おうちに帰ってください。ここで凍える前に。
 
-![:audio](22/maeni-03.mp3)
+![:audioPlay]![:audio](22/maeni-03.mp3)
 
 ![:button]
 
@@ -101,7 +101,7 @@ Please go inside. Before you freeze.
 
 よい生徒は、応用する前に理解する。
 
-![:audio](22/maeni-04.mp3)
+![:audioPlay]![:audio](22/maeni-04.mp3)
 
 ![:button]
 
@@ -119,7 +119,7 @@ A good student will understand before he applies.
 
 早く私を見つけ出して。誰かが私を見つけ出す前に。
 
-![:audio](22/maeni-05.mp3)
+![:audioPlay]![:audio](22/maeni-05.mp3)
 
 ![:button]
 
@@ -137,7 +137,7 @@ Find me now. Before someone else does.
 
 競走の前には、気をしずめておくことが第一ですよ。
 
-![:audio](22/maeni-06.mp3)
+![:audioPlay]![:audio](22/maeni-06.mp3)
 
 ![:button]
 
@@ -155,7 +155,7 @@ The great thing’s to keep quiet before a race.
 
 私が呼び鈴を鳴らす前に、ドアがあいた。
 
-![:audio](22/maeni-07.mp3)
+![:audioPlay]![:audio](22/maeni-07.mp3)
 
 ![:button]
 
@@ -173,7 +173,7 @@ The door opened before I could ring the bell.
 
 きみを帰す前に、あとひとことだけいっておく。
 
-![:audio](22/maeni-08.mp3)
+![:audioPlay]![:audio](22/maeni-08.mp3)
 
 ![:button]
 
@@ -191,7 +191,7 @@ One more thing before you go.
 
 出ていく前に、あなたへの贈り物があります。
 
-![:audio](22/maeni-09.mp3)
+![:audioPlay]![:audio](22/maeni-09.mp3)
 
 ![:button]
 
@@ -209,7 +209,7 @@ Before I go, I have a gift for you.
 
 この書類を送る前に、上司に見せるべきだ。
 
-![:audio](22/maeni-10.mp3)
+![:audioPlay]![:audio](22/maeni-10.mp3)
 
 ![:button]
 
@@ -227,7 +227,7 @@ You should show this paper to a superior co-worker before sending it.
 
 彼はドアを閉める前に、ちょっと手を休めた。
 
-![:audio](22/maeni-11.mp3)
+![:audioPlay]![:audio](22/maeni-11.mp3)
 
 ![:button]
 
@@ -245,7 +245,7 @@ He did pause, with a moment’s irresolution, before he shut the door.
 
 その飛行機はＬＡに行く前にある場所に寄る。
 
-![:audio](22/maeni-12.mp3)
+![:audioPlay]![:audio](22/maeni-12.mp3)
 
 ![:button]
 
@@ -263,7 +263,7 @@ Before that plane reaches L.A., it’s going to make a pit stop.
 
 話を進める前に、ここでひとつの経験をしていただきたい。
 
-![:audio](22/maeni-13.mp3)
+![:audioPlay]![:audio](22/maeni-13.mp3)
 
 ![:button]
 
@@ -281,7 +281,7 @@ Before going any further, I invite you to have an experience.
 
 私は顧客に会う前に、いつも精神的な準備をする。
 
-![:audio](22/maeni-14.mp3)
+![:audioPlay]![:audio](22/maeni-14.mp3)
 
 ![:button]
 
@@ -299,7 +299,7 @@ Before I meet my customers, I always prepare myself mentally.
 
 私は、彼がそれ以上の質問を口にする前に電話を切った。
 
-![:audio](22/maeni-15.mp3)
+![:audioPlay]![:audio](22/maeni-15.mp3)
 
 ![:button]
 
@@ -317,7 +317,7 @@ I hung up before he could ask any more questions.
 
 読み続ける前に、あなたの感じたことを書きとめてみてほしい。
 
-![:audio](22/maeni-16.mp3)
+![:audioPlay]![:audio](22/maeni-16.mp3)
 
 ![:button]
 
@@ -335,7 +335,7 @@ Before you read further, take a few minutes to jot down your impressions.
 
 おいおい全部話す。でもその前に家へ帰って、ひと眠りさせてもらうよ。
 
-![:audio](22/maeni-17.mp3)
+![:audioPlay]![:audio](22/maeni-17.mp3)
 
 ![:button]
 
@@ -353,7 +353,7 @@ I’ll tell you everything, but first I’m going home to bed.
 
 どうして子供は言われる前に自分から進んで手伝おうとしないのか。
 
-![:audio](22/maeni-18.mp3)
+![:audioPlay]![:audio](22/maeni-18.mp3)
 
 ![:button]
 
@@ -371,7 +371,7 @@ Why can’t children do their work cheerfully and without being reminded?
 
 スパイとして処刑される前に何か話したいことはないか？
 
-![:audio](22/maeni-19.mp3)
+![:audioPlay]![:audio](22/maeni-19.mp3)
 ![:button]
 
 .english[
@@ -388,7 +388,7 @@ Have you anything to say before you are put to death as a spy?
 
 彼は毎朝出かける前に鏡をのぞいて、自分にハッパをかけた。
 
-![:audio](22/maeni-20.mp3)
+![:audioPlay]![:audio](22/maeni-20.mp3)
 
 ![:button]
 

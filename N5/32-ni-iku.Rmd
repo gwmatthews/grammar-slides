@@ -43,7 +43,7 @@ class: center
 
 橋本が試合を見に行った。
 
-![:audio](32/ni-iku-01.mp3)
+![:audioPlay]![:audio](32/ni-iku-01.mp3)
 
 ![:button]
 
@@ -61,7 +61,7 @@ Hashimoto went to see the fight.
 
 映画はよく見に行くの？
 
-![:audio](32/ni-iku-02.mp3)
+![:audioPlay]![:audio](32/ni-iku-02.mp3)
 
 ![:button]
 
@@ -79,7 +79,7 @@ Do you go to the movies very often?
 
 アユミの部屋へあやまりに行った。
 
-![:audio](32/ni-iku-03.mp3)
+![:audioPlay]![:audio](32/ni-iku-03.mp3)
 
 ![:button]
 
@@ -97,7 +97,7 @@ I went to Ayumi’s room to apologize.
 
 彼女は、外の空気を吸いに行ったみたいだ。
 
-![:audio](32/ni-iku-04.mp3)
+![:audioPlay]![:audio](32/ni-iku-04.mp3)
 
 ![:button]
 
@@ -115,7 +115,7 @@ I think she went out for some air.
 
 彼女はキッチンへコーヒーをいれにいった。
 
-![:audio](32/ni-iku-05.mp3)
+![:audioPlay]![:audio](32/ni-iku-05.mp3)
 
 ![:button]
 
@@ -133,7 +133,7 @@ She went into the kitchen to make coffee.
 
 ここへ自分で様子を探りに行ったのですね？
 
-![:audio](32/ni-iku-06.mp3)
+![:audioPlay]![:audio](32/ni-iku-06.mp3)
 
 ![:button]
 
@@ -151,7 +151,7 @@ You came here to study the situation for yourself?
 
 あなたはまた後で彼に会いに行く機会もあるだろう。
 
-![:audio](32/ni-iku-07.mp3)
+![:audioPlay]![:audio](32/ni-iku-07.mp3)
 
 ![:button]
 
@@ -169,7 +169,7 @@ There may be a time later for you to go and see him.
 
 今はわたし、着替えに行かなくちゃなりませんの。
 
-![:audio](32/ni-iku-08.mp3)
+![:audioPlay]![:audio](32/ni-iku-08.mp3)
 
 ![:button]
 
@@ -187,7 +187,7 @@ Now I must go and dress.
 
 彼は夏休みによくわたしたちと一緒に釣りに行った。
 
-![:audio](32/ni-iku-09.mp3)
+![:audioPlay]![:audio](32/ni-iku-09.mp3)
 
 ![:button]
 
@@ -205,7 +205,7 @@ He used to go fishing with us during the summer.
 
 悪夢を見ました。それで外の新鮮な空気を吸いに行きました。
 
-![:audio](32/ni-iku-10.mp3)
+![:audioPlay]![:audio](32/ni-iku-10.mp3)
 
 ![:button]
 
@@ -223,7 +223,7 @@ I had a bad dream and went out for some air.
 
 映画に行きたいなら行けばいい、遊びに行きたいなら行けばいいさ。
 
-![:audio](32/ni-iku-11.mp3)
+![:audioPlay]![:audio](32/ni-iku-11.mp3)
 
 ![:button]
 
@@ -241,7 +241,7 @@ If you want to go to the theatre or to out to play, do it.
 
 私は、よその家に泊りにいくのが、あまり好きじゃありません。
 
-![:audio](32/ni-iku-12.mp3)
+![:audioPlay]![:audio](32/ni-iku-12.mp3)
 
 ![:button]
 
@@ -259,7 +259,7 @@ I am not very fond of staying in other people’s houses.
 
 今度の金曜にぼくとフットボールの試合を見に行ってくれるかい？
 
-![:audio](32/ni-iku-13.mp3)
+![:audioPlay]![:audio](32/ni-iku-13.mp3)
 
 ![:button]
 
@@ -277,7 +277,7 @@ Do you want to go to the football game with me on Friday?
 
 その前に僕につきあってハンバーガーとフライドポテトでも食べに行かないか？
 
-![:audio](32/ni-iku-14.mp3)
+![:audioPlay]![:audio](32/ni-iku-14.mp3)
 
 ![:button]
 
@@ -295,7 +295,7 @@ Would you like to have a burger and some fries with me first?
 
 井出さんはちょっと困惑したようでしたが、すぐに客に会いに行きました。
 
-![:audio](32/ni-iku-15.mp3)
+![:audioPlay]![:audio](32/ni-iku-15.mp3)
 
 ![:button]
 
@@ -313,7 +313,7 @@ Ide seemed rather annoyed, but went off to see the guest at once.
 
 それ以上は取りに行く時間がなかったからです。これはギャングの抗争ですからね。
 
-![:audio](32/ni-iku-16.mp3)
+![:audioPlay]![:audio](32/ni-iku-16.mp3)
 
 ![:button]
 
@@ -331,7 +331,7 @@ I didn’t have time to go get the rest of them. This is a gang fight.
 
 あの人たちはもう発つ支度をしてるから、私、荷造りなんかの手伝いにいく約束がしてあるのよ。
 
-![:audio](32/ni-iku-17.mp3)
+![:audioPlay]![:audio](32/ni-iku-17.mp3)
 
 ![:button]
 
@@ -349,7 +349,7 @@ They’re getting ready to go away, so I promised to help them pack.
 
 軍のために革を買い付けに行くと彼女は偽り、帰りにブランデーを買ってくると約束した。
 
-![:audio](32/ni-iku-18.mp3)
+![:audioPlay]![:audio](32/ni-iku-18.mp3)
 
 ![:button]
 
@@ -367,7 +367,7 @@ She said she was buying leather for the army and promised a bottle of brandy on 
 
 彼らは、夏には魚釣りやきのこ狩りに出かけ、秋には町はずれまで馬車を駆って野ウサギを撃ちに行った。
 
-![:audio](32/ni-iku-19.mp3)
+![:audioPlay]![:audio](32/ni-iku-19.mp3)
 ![:button]
 
 .english[
@@ -384,7 +384,7 @@ In summer they went fishing and gathering mushrooms, and in the autumn they drov
 
 私はホーラー映画をぜったい見に行かない。なぜなら１９９８年のハロウィンの夜、私はホーラー映画をじっさいに体験したからだ。
 
-![:audio](32/ni-iku-20.mp3)
+![:audioPlay]![:audio](32/ni-iku-20.mp3)
 
 ![:button]
 

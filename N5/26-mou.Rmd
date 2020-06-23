@@ -43,7 +43,7 @@ class: center
 
 もう彼の話はしないわ。
 
-![:audio](26/mou-01.mp3)
+![:audioPlay]![:audio](26/mou-01.mp3)
 
 ![:button]
 
@@ -61,7 +61,7 @@ I will say no more about him.
 
 私、もう恐ろしくないわ。
 
-![:audio](26/mou-02.mp3)
+![:audioPlay]![:audio](26/mou-02.mp3)
 
 ![:button]
 
@@ -79,7 +79,7 @@ I’m no longer afraid.
 
 トシヒコはもう十六歳だったね。
 
-![:audio](26/mou-03.mp3)
+![:audioPlay]![:audio](26/mou-03.mp3)
 
 ![:button]
 
@@ -97,7 +97,7 @@ Toshihiko’s already sixteen.
 
 父さん、学校なんてもういやだよ。
 
-![:audio](26/mou-04.mp3)
+![:audioPlay]![:audio](26/mou-04.mp3)
 
 ![:button]
 
@@ -115,7 +115,7 @@ Dad, I don’t wanna go to school anymore.
 
 もうもとのような顔にはなれないの。
 
-![:audio](26/mou-05.mp3)
+![:audioPlay]![:audio](26/mou-05.mp3)
 
 ![:button]
 
@@ -133,7 +133,7 @@ My face will never be the way it was.
 
 ぼくは今のところ、冒険はもうたくさん。
 
-![:audio](26/mou-06.mp3)
+![:audioPlay]![:audio](26/mou-06.mp3)
 
 ![:button]
 
@@ -151,7 +151,7 @@ I’ve had quite enough adventures for the present.
 
 健康がある。もう一度出直すのだ。
 
-![:audio](26/mou-07.mp3)
+![:audioPlay]![:audio](26/mou-07.mp3)
 
 ![:button]
 
@@ -169,7 +169,7 @@ I still have my health. I will start again.
 
 もう事件の話はしたくない。おわったことだ。
 
-![:audio](26/mou-08.mp3)
+![:audioPlay]![:audio](26/mou-08.mp3)
 
 ![:button]
 
@@ -187,7 +187,7 @@ I don’t want to talk about it, it’s over.
 
 今はもう二十世紀も終わりに近いんだ。
 
-![:audio](26/mou-09.mp3)
+![:audioPlay]![:audio](26/mou-09.mp3)
 
 ![:button]
 
@@ -205,7 +205,7 @@ We’re drawing close to the end of the twentieth century.
 
 もう一生、君とは口をきかないぞ！
 
-![:audio](26/mou-10.mp3)
+![:audioPlay]![:audio](26/mou-10.mp3)
 
 ![:button]
 
@@ -223,7 +223,7 @@ I’ll never speak to you again as long as I live.
 
 ふたたび顔をあげたとき、ハルカの姿はもうなかった。
 
-![:audio](26/mou-11.mp3)
+![:audioPlay]![:audio](26/mou-11.mp3)
 
 ![:button]
 
@@ -241,7 +241,7 @@ When I looked up again, Haruka was gone.
 
 食事までにはもう何を話す時間もなかった。
 
-![:audio](26/mou-12.mp3)
+![:audioPlay]![:audio](26/mou-12.mp3)
 
 ![:button]
 
@@ -259,7 +259,7 @@ There was no time to talk about anything before dinner.
 
 私はもうだめです。私の力は尽き果てました。
 
-![:audio](26/mou-13.mp3)
+![:audioPlay]![:audio](26/mou-13.mp3)
 
 ![:button]
 
@@ -277,7 +277,7 @@ I am done for. I have reached the end of my resources.
 
 怒りはもうすっかり消えていたが、衝撃はなおもあとを引いていた。
 
-![:audio](26/mou-14.mp3)
+![:audioPlay]![:audio](26/mou-14.mp3)
 
 ![:button]
 
@@ -295,7 +295,7 @@ I was no longer angry, but I was still stunned.
 
 ふりかえればこの瞬間だったと思う、もう二度と帰らないと心に決めたのは。
 
-![:audio](26/mou-15.mp3)
+![:audioPlay]![:audio](26/mou-15.mp3)
 
 ![:button]
 
@@ -313,7 +313,7 @@ I think that’s when I decided I was never going back.
 
 私は卵をもう一つに、ベーコンをもう一、二枚、食べられそうな気がしますね。
 
-![:audio](26/mou-16.mp3)
+![:audioPlay]![:audio](26/mou-16.mp3)
 
 ![:button]
 
@@ -331,7 +331,7 @@ I believe I could manage another egg, and perhaps a rasher or two of bacon.
 
 僕はもう彼女のことなんかどうでもいい。僕にとっては、彼女はもう存在しないものなのだ。
 
-![:audio](26/mou-17.mp3)
+![:audioPlay]![:audio](26/mou-17.mp3)
 
 ![:button]
 
@@ -349,7 +349,7 @@ I have nothing to do with her. She does not exist for me.
 
 私、そんなことはもう、わたしの生活になんの影響ももたないだろうと決めたのよ。
 
-![:audio](26/mou-18.mp3)
+![:audioPlay]![:audio](26/mou-18.mp3)
 
 ![:button]
 
@@ -367,7 +367,7 @@ I have made up my mind it shall not have any more influence on my life.
 
 もうすでに、両方の棟をつなぐ回廊に、足音が響いているじゃありませんか。
 
-![:audio](26/mou-19.mp3)
+![:audioPlay]![:audio](26/mou-19.mp3)
 ![:button]
 
 .english[
@@ -384,7 +384,7 @@ Already footsteps are echoing along the gallery which connects the two wings.
 
 .smaller[もうほとんど言うことはありません。僕は、昼間眠り、夜になると起きて見張りをしていました。]
 
-![:audio](26/mou-20.mp3)
+![:audioPlay]![:audio](26/mou-20.mp3)
 
 ![:button]
 

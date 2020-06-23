@@ -44,7 +44,7 @@ class: center
 
 教室には生徒がいる。
 
-![:audio](10/gairu-01.mp3)
+![:audioPlay]![:audio](10/gairu-01.mp3)
 
 ![:button]
 
@@ -62,7 +62,7 @@ There are students in the classroom.
 
 図書館に人がいっぱいいる。
 
-![:audio](10/gairu-02.mp3)
+![:audioPlay]![:audio](10/gairu-02.mp3)
 
 ![:button]
 
@@ -80,7 +80,7 @@ There are many people at the library.
 
 台所には母がいます。
 
-![:audio](10/gairu-03.mp3)
+![:audioPlay]![:audio](10/gairu-03.mp3)
 
 ![:button]
 
@@ -98,7 +98,7 @@ Mom’s in the kitchen.
 
 私には兄弟というものがただの一人もいません。
 
-![:audio](10/gairu-04.mp3)
+![:audioPlay]![:audio](10/gairu-04.mp3)
 
 ![:button]
 
@@ -116,7 +116,7 @@ I don’t have any siblings.
 
 北海道には私の知り合いは一人もいなかった。
 
-![:audio](10/gairu-05.mp3)
+![:audioPlay]![:audio](10/gairu-05.mp3)
 
 ![:button]
 
@@ -134,7 +134,7 @@ I didn’t know a soul in Hokkaido.
 
 俺には三人子どもがいる。それで、俺は三人の子どもたちみんなのことを公平に好きだと思うか？
 
-![:audio](10/gairu-06.mp3)
+![:audioPlay]![:audio](10/gairu-06.mp3)
 
 ![:button]
 
@@ -152,7 +152,7 @@ I have three children. Do you think I love all three of my children equally?
 
 私たちには、お互い３歳の子どもがいるという共通点があります。
 
-![:audio](10/gairu-07.mp3)
+![:audioPlay]![:audio](10/gairu-07.mp3)
 
 ![:button]
 
@@ -170,7 +170,7 @@ What you and I have in common is that we have a three-year-old.
 
 さて、これでどうやら、私たちがどこにいるか見当だけはついたぞ！私たちがめざしたのとほとんど反対の方角に来てしまった。
 
-![:audio](10/gairu-08.mp3)
+![:audioPlay]![:audio](10/gairu-08.mp3)
 
 ![:button]
 
@@ -188,7 +188,7 @@ Well, now I have at least some notion of where we are! We have come almost in th
 
 日本の主流メディアにも、いい仕事をしようとしているジャーナリストたちがいる。
 
-![:audio](10/gairu-09.mp3)
+![:audioPlay]![:audio](10/gairu-09.mp3)
 
 ![:button]
 
@@ -206,7 +206,7 @@ There are journalists in Japan trying to do good work in mainstream media.
 
 中山を批判する人もいるが、彼の実績は認めるべきだ。
 
-![:audio](10/gairu-10.mp3)
+![:audioPlay]![:audio](10/gairu-10.mp3)
 
 ![:button]
 

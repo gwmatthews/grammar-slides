@@ -9,6 +9,9 @@ $(document).ready(function(){
     $(this).next('div.english').css('visibility','hidden');
     });
 });
+
+
+
 </script>
 
 <script>
@@ -21,4 +24,15 @@ $(document).ready(function(){
     });
 });
 </script>
+
+<script>
+$(document).ready(function(){
+    $("button.audio").click(function(){
+      $(this).next('audio.sound')[0].play();
+    });
+});
+</script>
+
+
+
 

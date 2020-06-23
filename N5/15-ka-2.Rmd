@@ -49,7 +49,7 @@ class: center
 
 大抵の家には二人か三人の子どもがいました。
 
-![:audio](15/ka-2-01.mp3)
+![:audioPlay]![:audio](15/ka-2-01.mp3)
 
 ![:button]
 
@@ -67,7 +67,7 @@ A typical family had two or three children.
 
 あの男たちは、佐々木か私を探しているのだ。
 
-![:audio](15/ka-2-02.mp3)
+![:audioPlay]![:audio](15/ka-2-02.mp3)
 
 ![:button]
 
@@ -85,7 +85,7 @@ Those men are looking for Sasaki or for me.
 
 私は暗くなってからここに来たことは、一度か二度しかない。
 
-![:audio](15/ka-2-03.mp3)
+![:audioPlay]![:audio](15/ka-2-03.mp3)
 
 ![:button]
 
@@ -103,7 +103,7 @@ I have only once or twice been in here after dark.
 
 次の水曜か木曜に大阪に行くから、その時に電話で日時を決めよう。
 
-![:audio](15/ka-2-04.mp3)
+![:audioPlay]![:audio](15/ka-2-04.mp3)
 
 ![:button]
 
@@ -121,7 +121,7 @@ I’ll be in Osaka next Wednesday or Thursday, so I’ll call you to set a date.
 
 .smaller[ブライアンは過半数に近い自社株を息子に譲るか、少なくとも家族の何人かに分け与えるだろうというのがおおかたの予想だった。]
 
-![:audio](15/ka-2-05.mp3)
+![:audioPlay]![:audio](15/ka-2-05.mp3)
 
 ![:button]
 
@@ -139,7 +139,7 @@ The assumption had been that Brian would pass on his near-controlling interest i
 
 一時間か二時間後には、二人ともすっかり方向感覚を失っていました。
 
-![:audio](15/ka-2-06.mp3)
+![:audioPlay]![:audio](15/ka-2-06.mp3)
 
 ![:button]
 
@@ -157,7 +157,7 @@ After an hour or two they had lost all clear sense of direction.
 
 .smaller[退職者に対して国からは月々２０ドルしか支給されないため、ほとんどの人は若い家族に頼って生きているか、一人きりで苦労しています。]
 
-![:audio](15/ka-2-07.mp3)
+![:audioPlay]![:audio](15/ka-2-07.mp3)
 
 ![:button]
 
@@ -175,7 +175,7 @@ The state provides just $20 a month to retirees, meaning most rely on younger fa
 
 .smaller[一階ぶんくだったころには、近づいてくる靴音がすぐそこまで迫り、ほんのひとつかふたつ下の階から響いてきた。]
 
-![:audio](15/ka-2-08.mp3)
+![:audioPlay]![:audio](15/ka-2-08.mp3)
 
 ![:button]
 
@@ -193,7 +193,7 @@ We descended one floor, and the sounds of approaching boots grew very close now,
 
 何千という地元建設業者は失業しているか、失業寸前の状態だ。
 
-![:audio](15/ka-2-09.mp3)
+![:audioPlay]![:audio](15/ka-2-09.mp3)
 
 ![:button]
 

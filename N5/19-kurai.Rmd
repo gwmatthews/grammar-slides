@@ -45,7 +45,7 @@ class: center
 
 子供じゃないんだから、自分のことぐらい自分で決めなさい。
 
-![:audio](19/kurai-01.mp3)
+![:audioPlay]![:audio](19/kurai-01.mp3)
 
 ![:button]
 
@@ -63,7 +63,7 @@ You’re not a kid anymore. Decide things by yourself.
 
 自分の服ぐらい自分で洗ってよ。
 
-![:audio](19/kurai-02.mp3)
+![:audioPlay]![:audio](19/kurai-02.mp3)
 
 ![:button]
 
@@ -81,7 +81,7 @@ Wash your own clothes.
 
 せめてネクタイぐらいちゃんと締めてよね！
 
-![:audio](19/kurai-03.mp3)
+![:audioPlay]![:audio](19/kurai-03.mp3)
 
 ![:button]
 
@@ -99,7 +99,7 @@ At least do your necktie properly!
 
 街の人々がどんな噂をしているかぐらいは百も承知だ。
 
-![:audio](19/kurai-04.mp3)
+![:audioPlay]![:audio](19/kurai-04.mp3)
 
 ![:button]
 
@@ -117,7 +117,7 @@ I know all the things the town is saying about me.
 
 宿屋には必ず馬の一頭ぐらいはいる。
 
-![:audio](19/kurai-05.mp3)
+![:audioPlay]![:audio](19/kurai-05.mp3)
 
 ![:button]
 
@@ -135,7 +135,7 @@ An inn always has a horse.
 
 本当に必要ならいくらでも名前くらい返しますよ。
 
-![:audio](19/kurai-06.mp3)
+![:audioPlay]![:audio](19/kurai-06.mp3)
 
 ![:button]
 
@@ -153,7 +153,7 @@ If it will help you, you can use my name as many times as you want.
 
 ごめんなさい。何か連絡くらいするべきだったのね。
 
-![:audio](19/kurai-07.mp3)
+![:audioPlay]![:audio](19/kurai-07.mp3)
 
 ![:button]
 
@@ -171,7 +171,7 @@ I ‘m sorry. I should have got in touch with you.
 
 この子の望んだことをせめて最後ぐらいかなえてあげたいのよ。
 
-![:audio](19/kurai-08.mp3)
+![:audioPlay]![:audio](19/kurai-08.mp3)
 
 ![:button]
 
@@ -189,7 +189,7 @@ I want to grant this child his final wish.
 
 だけどこれだけは言ってくれるでしょ、彼の推測が正しいか、違うかぐらいは？
 
-![:audio](19/kurai-09.mp3)
+![:audioPlay]![:audio](19/kurai-09.mp3)
 
 ![:button]
 
@@ -207,7 +207,7 @@ But you can at least tell us whether you think his guess good or bad.
 
 金太郎を起こしなさい！あいつにもせめて朝起きて私たちを見送るぐらいのことはさせなくちゃ。
 
-![:audio](19/kurai-10.mp3)
+![:audioPlay]![:audio](19/kurai-10.mp3)
 
 ![:button]
 
@@ -225,7 +225,7 @@ Wake Kintaro up! At least he must get up and see us off.
 
 写真を見るかぎり、せいぜい五歳くらいの幼い女の子で、金髪をポニーテールにしている。
 
-![:audio](19/kurai-11.mp3)
+![:audioPlay]![:audio](19/kurai-11.mp3)
 
 ![:button]
 
@@ -243,7 +243,7 @@ The photo shows a young girl who could not have been more than five, her blond h
 
 遅いからずっと心配してたのよ。電話くらいしてくれてもいいでしょう。
 
-![:audio](19/kurai-12.mp3)
+![:audioPlay]![:audio](19/kurai-12.mp3)
 
 ![:button]
 
@@ -261,7 +261,7 @@ You had me worried. At least you could have called.
 
 ５０メートルぐらいならわたしも泳げるよ。
 
-![:audio](19/kurai-13.mp3)
+![:audioPlay]![:audio](19/kurai-13.mp3)
 
 ![:button]
 

@@ -52,7 +52,7 @@ class: center
 
 ほかに一つだけ可能性がある。
 
-![:audio](02/dake-01.mp3)
+![:audioPlay]![:audio](02/dake-01.mp3)
 
 ![:button]
 
@@ -71,7 +71,7 @@ There’s only one other possibility.
 
 そこから二、三歩だけ先に進め。
 
-![:audio](02/dake-02.mp3)
+![:audioPlay]![:audio](02/dake-02.mp3)
 
 ![:button]
 
@@ -89,7 +89,7 @@ Take just two or three steps forward.
 
 この話をしたのは君にだけだ。
 
-![:audio](02/dake-03.mp3)
+![:audioPlay]![:audio](02/dake-03.mp3)
 
 ![:button]
 
@@ -107,7 +107,7 @@ Only to you have I told the story.
 
 問題はそれだけだと思うかい？
 
-![:audio](02/dake-04.mp3)
+![:audioPlay]![:audio](02/dake-04.mp3)
 
 ![:button]
 
@@ -125,7 +125,7 @@ You think that is all there is to it?
 
 精神的作業だけでは人間は疲れない。
 
-![:audio](02/dake-05.mp3)
+![:audioPlay]![:audio](02/dake-05.mp3)
 
 ![:button]
 
@@ -143,7 +143,7 @@ Mental work alone can’t make you tired.
 
 欠けているものはひとつだけ、客だった。
 
-![:audio](02/dake-06.mp3)
+![:audioPlay]![:audio](02/dake-06.mp3)
 
 ![:button]
 
@@ -161,7 +161,7 @@ The only thing missing was the customers.
 
 残された道は一つだけだと思いました。
 
-![:audio](02/dake-07.mp3)
+![:audioPlay]![:audio](02/dake-07.mp3)
 
 ![:button]
 
@@ -179,7 +179,7 @@ I decided that there was only one thing to be done.
 
 私の目的は、病気を治療することだけですよ。
 
-![:audio](02/dake-08.mp3)
+![:audioPlay]![:audio](02/dake-08.mp3)
 
 ![:button]
 
@@ -197,7 +197,7 @@ My only intention is to cure the disease.
 
 私が受けた報告を申し上げただけです。
 
-![:audio](02/dake-09.mp3)
+![:audioPlay]![:audio](02/dake-09.mp3)
 
 ![:button]
 
@@ -215,7 +215,7 @@ I repeat only what was reported to me.
 
 彼だけがわたしたちの頼みの綱ではないのよ。
 
-![:audio](02/dake-10.mp3)
+![:audioPlay]![:audio](02/dake-10.mp3)
 
 ![:button]
 
@@ -233,7 +233,7 @@ He’s not our only hope.
 
 彼が左利きであることを知っているのは彼女だけだ。
 
-![:audio](02/dake-11.mp3)
+![:audioPlay]![:audio](02/dake-11.mp3)
 
 ![:button]
 
@@ -251,7 +251,7 @@ She alone knows that he’s left-handed.
 
 不当な非難だけを無視せよと言っているのだ。
 
-![:audio](02/dake-12.mp3)
+![:audioPlay]![:audio](02/dake-12.mp3)
 
 ![:button]
 
@@ -269,7 +269,7 @@ I am talking about ignoring only unjust criticism.
 
 油断をしないように一言言っておきたかっただけだ。
 
-![:audio](02/dake-13.mp3)
+![:audioPlay]![:audio](02/dake-13.mp3)
 
 ![:button]
 
@@ -287,7 +287,7 @@ I only want to put you on your guard.
 
 頭がちょっと痛いだけ。そのほかは、とってもいい気分です。
 
-![:audio](02/dake-14.mp3)
+![:audioPlay]![:audio](02/dake-14.mp3)
 
 ![:button]
 
@@ -305,7 +305,7 @@ My head aches a little, but otherwise I feel fine.
 
 ここでは時間に意味はない。時はただ流れ去るだけ。
 
-![:audio](02/dake-15.mp3)
+![:audioPlay]![:audio](02/dake-15.mp3)
 
 ![:button]
 
@@ -323,7 +323,7 @@ Time doesn’t matter in here; in here, time just floats away.
 
 落ち着けよ。子供たちが花火で遊んでいるだけさ。
 
-![:audio](02/dake-16.mp3)
+![:audioPlay]![:audio](02/dake-16.mp3)
 
 ![:button]
 
@@ -341,7 +341,7 @@ Relax. It’s just kids shooting off firecrackers.
 
 いまのわたしの願いは、あなたがよくなることだけ。
 
-![:audio](02/dake-17.mp3)
+![:audioPlay]![:audio](02/dake-17.mp3)
 
 ![:button]
 
@@ -359,7 +359,7 @@ I only want you to get better.
 
 私は黙っていた。残っていた水を飲んだだけだ。
 
-![:audio](02/dake-18.mp3)
+![:audioPlay]![:audio](02/dake-18.mp3)
 
 ![:button]
 
@@ -377,7 +377,7 @@ I kept silence. I just drank the rest of my water.
 
 かごに棄てるのは、全くつまらないものだけでしょうね。
 
-![:audio](02/dake-19.mp3)
+![:audioPlay]![:audio](02/dake-19.mp3)
 
 ![:button]
 
@@ -395,7 +395,7 @@ Only something quite unimportant would be thrown away like that.
 
 自分だけの利益を追求するならば、仕事の質は低下する。
 
-![:audio](02/dake-20.mp3)
+![:audioPlay]![:audio](02/dake-20.mp3)
 
 ![:button]
 

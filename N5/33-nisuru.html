@@ -36,7 +36,7 @@ class: center
 ---
 今日は何にする？
 
-![:audio](33/nisuru-01.mp3)
+![:audioPlay]![:audio](33/nisuru-01.mp3)
 
 ![:button]
 
@@ -54,7 +54,7 @@ What do you want to eat today?
 
 僕はウドンにします。
 
-![:audio](33/nisuru-02.mp3)
+![:audioPlay]![:audio](33/nisuru-02.mp3)
 
 ![:button]
 
@@ -72,7 +72,7 @@ I’ll eat udon.
 
 田舎へは行かないことにしましょうよ。
 
-![:audio](33/nisuru-03.mp3)
+![:audioPlay]![:audio](33/nisuru-03.mp3)
 
 ![:button]
 
@@ -90,7 +90,7 @@ Let’s not go to the countryside.
 
 しかしまあ、こんな話はあとのことにしましょう。
 
-![:audio](33/nisuru-04.mp3)
+![:audioPlay]![:audio](33/nisuru-04.mp3)
 
 ![:button]
 
@@ -109,7 +109,7 @@ But we’ll talk later on.
 Ａ：きみ自分で選びたまえ、何か飲むものを。
 Ｂ：ワインにしましょう。
 
-![:audio](33/nisuru-05.mp3)
+![:audioPlay]![:audio](33/nisuru-05.mp3)
 
 ![:button]
 
@@ -128,7 +128,7 @@ B: Wine, please.
 
 あなたがそんなに望まれるなら、あがることにしましょう。
 
-![:audio](33/nisuru-06.mp3)
+![:audioPlay]![:audio](33/nisuru-06.mp3)
 
 ![:button]
 
@@ -146,7 +146,7 @@ If you so much wish it, I will come.
 
 さっそく急いで家へ帰って手紙を書くことにしますわ。
 
-![:audio](33/nisuru-07.mp3)
+![:audioPlay]![:audio](33/nisuru-07.mp3)
 
 ![:button]
 
@@ -164,7 +164,7 @@ I will go home at once to write the letter.
 
 わたくしの決心は、書面でお知らせすることにしましょう。
 
-![:audio](33/nisuru-08.mp3)
+![:audioPlay]![:audio](33/nisuru-08.mp3)
 
 ![:button]
 
@@ -182,7 +182,7 @@ I will communicate my decision to you by letter.
 
 ただの風邪ですもの。お茶でも作って飲むことにしますわ。
 
-![:audio](33/nisuru-09.mp3)
+![:audioPlay]![:audio](33/nisuru-09.mp3)
 
 ![:button]
 
@@ -200,7 +200,7 @@ It is the cold only. I make now myself a cup of tea.
 
 帰ります、お言葉に従って帰ることにします。
 
-![:audio](33/nisuru-10.mp3)
+![:audioPlay]![:audio](33/nisuru-10.mp3)
 
 ![:button]
 
@@ -218,7 +218,7 @@ I will go, at your word.
 
 ねえ、私、接吻はしないことにしますわ。
 
-![:audio](33/nisuru-11.mp3)
+![:audioPlay]![:audio](33/nisuru-11.mp3)
 
 ![:button]
 
@@ -236,7 +236,7 @@ Do you know, I think I won’t kiss you?
 
 いつにしましょうね？明日はまにあいませんわ。明後日にしましょうか。
 
-![:audio](33/nisuru-12.mp3)
+![:audioPlay]![:audio](33/nisuru-12.mp3)
 
 ![:button]
 
@@ -254,7 +254,7 @@ When? By tomorrow we shan’t be ready. How about the day after tomorrow?
 
 服のことなど僕はまだ考えていなかったけどね。あなたの好きな服を着ることにしますよ。
 
-![:audio](33/nisuru-13.mp3)
+![:audioPlay]![:audio](33/nisuru-13.mp3)
 
 ![:button]
 
@@ -272,7 +272,7 @@ I haven’t thought about the suit, but I’ll wear whatever you like.
 
 山田さんが不可能だと言うんでしたら、私も不可能です。私も帰ることにしましょう。
 
-![:audio](33/nisuru-14.mp3)
+![:audioPlay]![:audio](33/nisuru-14.mp3)
 
 ![:button]
 
@@ -290,7 +290,7 @@ Well, if it is impossible for Yamada, it is impossible for me, and I will leave.
 
 これは私には不思議な、説明のつかない事実に思われました。で、これは保留して、後で考えることにしました。
 
-![:audio](33/nisuru-15.mp3)
+![:audioPlay]![:audio](33/nisuru-15.mp3)
 
 ![:button]
 
@@ -308,7 +308,7 @@ That seemed to me a rather curious and inexplicable fact, and I put it aside to 
 
 では、別の角度から近付いてみることにしましょう。犯罪の現場で見つけたハンカチーフに話を戻しましょう。
 
-![:audio](33/nisuru-16.mp3)
+![:audioPlay]![:audio](33/nisuru-16.mp3)
 
 ![:button]
 
@@ -326,7 +326,7 @@ I am going to approach it from another angle. Let us go back to the handkerchief
 
 .smaller[神さまのおきめになるとおりにお任せして、おたがいに取り決めとか約束とかいったようなことは抜きということにしましょうよ。]
 
-![:audio](33/nisuru-17.mp3)
+![:audioPlay]![:audio](33/nisuru-17.mp3)
 
 ![:button]
 
@@ -426,6 +426,9 @@ $(document).ready(function(){
     $(this).next('div.english').css('visibility','hidden');
     });
 });
+
+
+
 </script>
 
 <script>
@@ -435,6 +438,14 @@ $(document).ready(function(){
         $(this).next('div.grammar').css('visibility','visible');
       else
     $(this).next('div.grammar').css('visibility','hidden');
+    });
+});
+</script>
+
+<script>
+$(document).ready(function(){
+    $("button.audio").click(function(){
+      $(this).next('audio.sound')[0].play();
     });
 });
 </script>

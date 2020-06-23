@@ -44,7 +44,7 @@ class: center
 
 おれは自分の目で見たことを信じる男なんだ。
 
-![:audio](05/de-2-01.mp3)
+![:audioPlay]![:audio](05/de-2-01.mp3)
 
 ![:button]
 
@@ -62,7 +62,7 @@ I believe what I see with my own eyes.
 
 私は頭痛がすると言って一人で帰って来ました。
 
-![:audio](05/de-2-02.mp3)
+![:audioPlay]![:audio](05/de-2-02.mp3)
 
 ![:button]
 
@@ -80,7 +80,7 @@ I said I had a headache and came back alone.
 
 何かの理由で彼はもどってきませんでした。
 
-![:audio](05/de-2-03.mp3)
+![:audioPlay]![:audio](05/de-2-03.mp3)
 
 ![:button]
 
@@ -98,7 +98,7 @@ For some reason or other he had not returned.
 
 二人はふるえる指でそれを拡げた。紙は白紙だった！
 
-![:audio](05/de-2-04.mp3)
+![:audioPlay]![:audio](05/de-2-04.mp3)
 
 ![:button]
 
@@ -116,7 +116,7 @@ With trembling fingers they unfolded it. The sheet was blank!
 
 あたりの雰囲気は、棺のにおいでよごされている感じだった。
 
-![:audio](05/de-2-05.mp3)
+![:audioPlay]![:audio](05/de-2-05.mp3)
 
 ![:button]
 
@@ -134,7 +134,7 @@ The atmosphere seemed tainted with the smell of coffins.
 
 だれがこの遺言書を燃やしたのだ？何の目的で？
 
-![:audio](05/de-2-06.mp3)
+![:audioPlay]![:audio](05/de-2-06.mp3)
 
 ![:button]
 
@@ -152,7 +152,7 @@ Who destroyed this will? And what was their object?
 
 あなたのことでなにか妙な噂が流されているのですね。
 
-![:audio](05/de-2-07.mp3)
+![:audioPlay]![:audio](05/de-2-07.mp3)
 
 ![:button]
 
@@ -170,7 +170,7 @@ There is evidently some story being circulated about you.
 
 そうはいっても、わたし、あることで、ひどく悩んでいます。
 
-![:audio](05/de-2-08.mp3)
+![:audioPlay]![:audio](05/de-2-08.mp3)
 
 ![:button]
 
@@ -188,7 +188,7 @@ But all the same, I’m sorely troubled about something.
 
 インターネットで花を注文して、確認メールを受け取った。
 
-![:audio](05/de-2-09.mp3)
+![:audioPlay]![:audio](05/de-2-09.mp3)
 
 ![:button]
 
@@ -206,7 +206,7 @@ I ordered flowers online and received a confirmation by email.
 
 だから僕は、先祖伝来のものおよび、労力で得たものを尊重するのだ。
 
-![:audio](05/de-2-10.mp3)
+![:audioPlay]![:audio](05/de-2-10.mp3)
 
 ![:button]
 
@@ -224,7 +224,7 @@ That’s why I prize what’s come to me from my ancestors or been won by hard w
 
 震える指で、彼女は封筒を開けた。
 
-![:audio](05/de-2-11.mp3)
+![:audioPlay]![:audio](05/de-2-11.mp3)
 
 ![:button]
 
@@ -242,7 +242,7 @@ She opened the envelope with her trembling fingers.
 
 今の雷でどこかの電線が切れた。
 
-![:audio](05/de-2-12.mp3)
+![:audioPlay]![:audio](05/de-2-12.mp3)
 
 ![:button]
 
@@ -260,7 +260,7 @@ That lightning just now cut one of the power lines.
 
 彼は人気のない海岸に一人で立っている。
 
-![:audio](05/de-2-13.mp3)
+![:audioPlay]![:audio](05/de-2-13.mp3)
 
 ![:button]
 
@@ -278,7 +278,7 @@ He stood alone on the quiet beach.
 
 なんであの人あんな格好で車内うろついてんの？
 
-![:audio](05/de-2-14.mp3)
+![:audioPlay]![:audio](05/de-2-14.mp3)
 
 ![:button]
 
@@ -297,7 +297,7 @@ Why is he wandering around the train looking like that?
 青年は乾いた砂の上で足のしずくを払った。
 
 
-![:audio](05/de-2-15.mp3)
+![:audioPlay]![:audio](05/de-2-15.mp3)
 
 ![:button]
 
@@ -315,7 +315,7 @@ The young man stamped on the dry sand to shake off the wet.
 
 何がきっかけでそんな恐ろしい光景を見たのか、心当たりはありますか？
 
-![:audio](05/de-2-16.mp3)
+![:audioPlay]![:audio](05/de-2-16.mp3)
 
 ![:button]
 
@@ -333,7 +333,7 @@ Any idea what might have sparked such a frightening vision?
 
 こんな重い物を一人で動かすには相当骨が折れます。
 
-![:audio](05/de-2-17.mp3)
+![:audioPlay]![:audio](05/de-2-17.mp3)
 
 ![:button]
 
@@ -351,7 +351,7 @@ It’d be hard for one person to move something this heavy around.
 
 部屋はたちまち火と煙で埋まりました。
 
-![:audio](05/de-2-18.mp3)
+![:audioPlay]![:audio](05/de-2-18.mp3)
 
 ![:button]
 
@@ -369,7 +369,7 @@ The room was filled with fire and smoke.
 
 あなたの危険な冒険旅行には、連れは一人では足りませんよ。
 
-![:audio](05/de-2-19.mp3)
+![:audioPlay]![:audio](05/de-2-19.mp3)
 
 ![:button]
 
@@ -387,7 +387,7 @@ You will need more than one companion in your dangerous adventure.
 
 地元のコミュニティが設立したこのセンターは、寄付金で運営されています。
 
-![:audio](05/de-2-20.mp3)
+![:audioPlay]![:audio](05/de-2-20.mp3)
 
 ![:button]
 

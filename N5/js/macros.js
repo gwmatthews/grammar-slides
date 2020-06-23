@@ -1,14 +1,27 @@
 
+/*
+ remark.macros.audio = function () {
+  var url = this;
+  return '<button class="slow">slow</button><br><audio controls class="sound"><source src=' + url + ' type="audio/mpeg"></audio><br> ';
+
+}
 
 remark.macros.audio = function () {
   var url = this;
   return '<audio controls preload="metadata" class="sound"><source src=' + url + ' type="audio/mpeg"></audio><br>';
 }
+*/
 
-remark.macros.naudio = function () {
-  var url = this;
-  return '<audio><source src=' + url + ' type="audio/mpeg"></audio><br>';
+remark.macros.audioPlay = function () {
+  return '<button class="audio">音</button>';
 }
+
+remark.macros.audio = function () {
+  var url = this;
+  return '<audio class="sound"><source src=' + url + ' type="audio/mpeg"></audio><br>';
+}
+
+
 
 remark.macros.button = function () {
   

@@ -43,7 +43,7 @@ class: center
 
 もっとよく調べてみましょう。
 
-![:audio](24/mashou-01.mp3)
+![:audioPlay]![:audio](24/mashou-01.mp3)
 
 ![:button]
 
@@ -61,7 +61,7 @@ Let's look at it deeper.
 
 もっとデータを収集しましょう。
 
-![:audio](24/mashou-02.mp3)
+![:audioPlay]![:audio](24/mashou-02.mp3)
 
 ![:button]
 
@@ -79,7 +79,7 @@ Let's get some more data.
 
 あなたの病気を診断しましょうか？
 
-![:audio](24/mashou-03.mp3)
+![:audioPlay]![:audio](24/mashou-03.mp3)
 
 ![:button]
 
@@ -97,7 +97,7 @@ Shall we diagnose your case?
 
 成功を祈って乾杯しましょうよ！
 
-![:audio](24/mashou-04.mp3)
+![:audioPlay]![:audio](24/mashou-04.mp3)
 
 ![:button]
 
@@ -115,7 +115,7 @@ Let's drink to success!
 
 この前の話の続きをしましょう。
 
-![:audio](24/mashou-05.mp3)
+![:audioPlay]![:audio](24/mashou-05.mp3)
 
 ![:button]
 
@@ -133,7 +133,7 @@ Let's pick up where we left off last time.
 
 いまはもう考えるのはやめましょう。
 
-![:audio](24/mashou-06.mp3)
+![:audioPlay]![:audio](24/mashou-06.mp3)
 
 ![:button]
 
@@ -151,7 +151,7 @@ Stop thinking about it now!
 
 いまはもう考えるのはやめましょう。
 
-![:audio](24/mashou-07.mp3)
+![:audioPlay]![:audio](24/mashou-07.mp3)
 
 ![:button]
 
@@ -169,7 +169,7 @@ We'll discuss this another time.
 
 この恐ろしい場所から逃げましょうよ。
 
-![:audio](24/mashou-08.mp3)
+![:audioPlay]![:audio](24/mashou-08.mp3)
 
 ![:button]
 
@@ -187,7 +187,7 @@ Let's get away from this dreadful place.
 
 今のあなたの話を繰り返してみましょう。
 
-![:audio](24/mashou-09.mp3)
+![:audioPlay]![:audio](24/mashou-09.mp3)
 
 ![:button]
 
@@ -205,7 +205,7 @@ Let's go over what you just told me again.
 
 もう一つ、題名を提案しましょう。
 
-![:audio](24/mashou-10.mp3)
+![:audioPlay]![:audio](24/mashou-10.mp3)
 
 ![:button]
 
@@ -223,7 +223,7 @@ I will give you yet another suggestion for a title.
 
 みんなで五分間考えて、それから話すことにしましょうよ。
 
-![:audio](24/mashou-11.mp3)
+![:audioPlay]![:audio](24/mashou-11.mp3)
 
 ![:button]
 
@@ -241,7 +241,7 @@ Let's all think for five minutes and then speak.
 
 本当にお気の毒だけど、このへんで誤解を解きましょう。
 
-![:audio](24/mashou-12.mp3)
+![:audioPlay]![:audio](24/mashou-12.mp3)
 
 ![:button]
 
@@ -259,7 +259,7 @@ I am exceedingly sorry, but it is well that the mistake ends where it does.
 
 なるべくかんたんに、前後のもようを話してみましょう。
 
-![:audio](24/mashou-13.mp3)
+![:audioPlay]![:audio](24/mashou-13.mp3)
 
 ![:button]
 
@@ -277,7 +277,7 @@ I will give you the facts as breifly as possible.
 
 この男の言いたいことを、ふたりで聞いてやりましょう。
 
-![:audio](24/mashou-14.mp3)
+![:audioPlay]![:audio](24/mashou-14.mp3)
 
 ![:button]
 
@@ -295,7 +295,7 @@ I think we'll isten to what he has to say.
 
 夫にも打ち明けていないことをお話しましょう。
 
-![:audio](24/mashou-15.mp3)
+![:audioPlay]![:audio](24/mashou-15.mp3)
 
 ![:button]
 
@@ -313,7 +313,7 @@ I am going to tell you something that I have never confessed to anyone before, n
 
 今日はもう遅いけど、あしたはふたりでドライブにいきましょう。
 
-![:audio](24/mashou-16.mp3)
+![:audioPlay]![:audio](24/mashou-16.mp3)
 
 ![:button]
 
@@ -331,7 +331,7 @@ It's too late today, but tomorrow we’re going for a drive.
 
 これは最後のお別れではなく、「ではまた会いましょう」というものだ。
 
-![:audio](24/mashou-17.mp3)
+![:audioPlay]![:audio](24/mashou-17.mp3)
 
 ![:button]
 
@@ -349,7 +349,7 @@ This isn't a final farewell, but rather a "Goodbye for now."
 
 このことは秘密ですよ。あなただけに打ち明けましょう。じつは私立探偵なのです。
 
-![:audio](24/mashou-18.mp3)
+![:audioPlay]![:audio](24/mashou-18.mp3)
 
 ![:button]
 
@@ -367,7 +367,7 @@ It is a secret, but I will tell you, I am a private detective.
 
 私もますますやる気が出てきました。どんなことをしてもキラを捕まえましょう！
 
-![:audio](24/mashou-19.mp3)
+![:audioPlay]![:audio](24/mashou-19.mp3)
 ![:button]
 
 .english[
@@ -384,7 +384,7 @@ I’m really motivated too. Let’s catch Kira no matter what!
 
 その点は、私どもがよく判断します。とにかく事実をうかがいましょう、橋本さん。
 
-![:audio](24/mashou-20.mp3)
+![:audioPlay]![:audio](24/mashou-20.mp3)
 
 ![:button]
 

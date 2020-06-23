@@ -42,7 +42,7 @@ class: center
 
 非常階段があるな。これは便利だ。
 
-![:audio](07/ga-1-01.mp3)
+![:audioPlay]![:audio](07/ga-1-01.mp3)
 
 ![:button]
 
@@ -60,7 +60,7 @@ Here is an emergency staircase. That is convenient.
 
 あなたがピアノを弾けるとは知りませんでした。
 
-![:audio](07/ga-1-02.mp3)
+![:audioPlay]![:audio](07/ga-1-02.mp3)
 
 ![:button]
 
@@ -78,7 +78,7 @@ I didn’t know you could play the piano.
 
 次から次へと恐ろしい危険が待っていて、逃げてまわる旅なのだ。
 
-![:audio](07/ga-1-03.mp3)
+![:audioPlay]![:audio](07/ga-1-03.mp3)
 
 ![:button]
 
@@ -96,7 +96,7 @@ During this trip I will fly from deadly peril into deadly peril.
 
 イギリスの経済的安定、私の子どもたちの将来が心配なんです。
 
-![:audio](07/ga-1-04.mp3)
+![:audioPlay]![:audio](07/ga-1-04.mp3)
 
 ![:button]
 
@@ -114,7 +114,7 @@ I’m worried for the economic stability of the UK, and I’m worried for my chi
 
 ドアが開いて小百合が姿を現わした。
 
-![:audio](07/ga-1-05.mp3)
+![:audioPlay]![:audio](07/ga-1-05.mp3)
 
 ![:button]
 
@@ -132,7 +132,7 @@ The door opened and Sayuri appeared.
 
 推定で１０％のイギリス人が、アイルランド人の血筋を引いています。
 
-![:audio](07/ga-1-06.mp3)
+![:audioPlay]![:audio](07/ga-1-06.mp3)
 
 ![:button]
 
@@ -150,7 +150,7 @@ An estimated 10 percent of Brits have Irish heritage.
 
 夏が過ぎ、冬がふたたびやって来た。
 
-![:audio](07/ga-1-07.mp3)
+![:audioPlay]![:audio](07/ga-1-07.mp3)
 
 ![:button]
 
@@ -168,7 +168,7 @@ The summer passed, and winter came again.
 
 星々が窓に光り、夜空の静けさが私を取り巻くように思えた。
 
-![:audio](07/ga-1-08.mp3)
+![:audioPlay]![:audio](07/ga-1-08.mp3)
 
 ![:button]
 
@@ -186,7 +186,7 @@ The stars shone through the window and the silence of the heavens seemed to be r
 
 紙を走るペンの音がやんだ。
 
-![:audio](07/ga-1-09.mp3)
+![:audioPlay]![:audio](07/ga-1-09.mp3)
 
 ![:button]
 
@@ -204,7 +204,7 @@ The pen ceased to move over the paper.
 
 よし、その金はわたしが貸そう。
 
-![:audio](07/ga-1-10.mp3)
+![:audioPlay]![:audio](07/ga-1-10.mp3)
 
 ![:button]
 
@@ -222,7 +222,7 @@ Okay, I will lend you the money.
 
 私が私のものをどう処分しようと、それはあなたにどんな関係があるんです？
 
-![:audio](07/ga-1-11.mp3)
+![:audioPlay]![:audio](07/ga-1-11.mp3)
 
 ![:button]
 
@@ -240,7 +240,7 @@ What business is it of yours to know what I do with my own things?
 
 日本の英語レベルが、外国人が日本でビジネスをすることをいっそう難しくしています。
 
-![:audio](07/ga-1-12.mp3)
+![:audioPlay]![:audio](07/ga-1-12.mp3)
 
 ![:button]
 
@@ -258,7 +258,7 @@ The level of English in Japan makes it more difficult for the foreigner to do bu
 
 自分の彼女が料理が下手だとガッカリする男性は多いようです。
 
-![:audio](07/ga-1-13.mp3)
+![:audioPlay]![:audio](07/ga-1-13.mp3)
 
 ![:button]
 
@@ -276,7 +276,7 @@ It seems that a lot of men feel disappointed when their girlfriends can’t cook
 
 見たことのない時代を作り上げる面白さがありますね。
 
-![:audio](07/ga-1-14.mp3)
+![:audioPlay]![:audio](07/ga-1-14.mp3)
 
 ![:button]
 
@@ -294,7 +294,7 @@ It’s interesting to create an era that we’ve never seen.
 
 足が急に重くなり、猛烈な眠気がさしてきた。
 
-![:audio](07/ga-1-15.mp3)
+![:audioPlay]![:audio](07/ga-1-15.mp3)
 
 ![:button]
 
@@ -312,7 +312,7 @@ My legs felt suddenly heavy and a great drowsiness came upon me.
 
 努力に努力を重ねて作り上げたキャラクターが素晴らしく、この作品を見れば誰もが彼のファンになってしまうのではないでしょうか。
 
-![:audio](07/ga-1-16.mp3)
+![:audioPlay]![:audio](07/ga-1-16.mp3)
 
 ![:button]
 
@@ -330,7 +330,7 @@ He kept on trying his hardest to create an amazing character. I think anyone who
 
 Ｂｒｅｘｉｔの投票後、皆が大変なことになると話しています。
 
-![:audio](07/ga-1-17.mp3)
+![:audioPlay]![:audio](07/ga-1-17.mp3)
 
 ![:button]
 
@@ -348,7 +348,7 @@ Everybody speaks of calamity after the Brexit vote.
 
 庭の方からは、スバルが芝を刈る音が聞こえてきた。
 
-![:audio](07/ga-1-18.mp3)
+![:audioPlay]![:audio](07/ga-1-18.mp3)
 
 ![:button]
 
@@ -366,7 +366,7 @@ The sound of Subaru cutting the lawn came in from the garden.
 
 女の子が落としたのは小さな指輪だった。
 
-![:audio](07/ga-1-19.mp3)
+![:audioPlay]![:audio](07/ga-1-19.mp3)
 
 ![:button]
 
@@ -384,7 +384,7 @@ What the little girl dropped was a small ring.
 
 戦う理由が僕にはないよ。
 
-![:audio](07/ga-1-20.mp3)
+![:audioPlay]![:audio](07/ga-1-20.mp3)
 
 ![:button]
 

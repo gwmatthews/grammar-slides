@@ -43,7 +43,7 @@ class: center
 
 私はまだ死んでないよ！
 
-![:audio](20/mada-01.mp3)
+![:audioPlay]![:audio](20/mada-01.mp3)
 
 ![:button]
 
@@ -61,7 +61,7 @@ I’m not dead yet!
 
 僕はまだあきらめてないんだぞ。
 
-![:audio](20/mada-02.mp3)
+![:audioPlay]![:audio](20/mada-02.mp3)
 
 ![:button]
 
@@ -79,7 +79,7 @@ I have not given up yet.
 
 発車の予定時刻までにまだ十分はあった。
 
-![:audio](20/mada-03.mp3)
+![:audioPlay]![:audio](20/mada-03.mp3)
 
 ![:button]
 
@@ -97,7 +97,7 @@ There was still ten minutes before the train was due to start.
 
 一番奇妙な部分を、まだ話していませんね。
 
-![:audio](20/mada-04.mp3)
+![:audioPlay]![:audio](20/mada-04.mp3)
 
 ![:button]
 
@@ -115,7 +115,7 @@ I haven’t told you the most curious part yet.
 
 僕はまだその事業をいいことだと認めていませんよ。
 
-![:audio](20/mada-05.mp3)
+![:audioPlay]![:audio](20/mada-05.mp3)
 
 ![:button]
 
@@ -133,7 +133,7 @@ I still do not admit this movement to be just.
 
 疑っていたあいだは、まだ希望がありました。
 
-![:audio](20/mada-06.mp3)
+![:audioPlay]![:audio](20/mada-06.mp3)
 
 ![:button]
 
@@ -151,7 +151,7 @@ When I doubted, I still had hope.
 
 あなたの妹はまだ何ヵ月もしなければ生まれないわ。
 
-![:audio](20/mada-07.mp3)
+![:audioPlay]![:audio](20/mada-07.mp3)
 
 ![:button]
 
@@ -169,7 +169,7 @@ Your sister won’t be born for many months yet.
 
 彼はじっと身動きもせず、まだ聞き耳を立てていた。
 
-![:audio](20/mada-08.mp3)
+![:audioPlay]![:audio](20/mada-08.mp3)
 
 ![:button]
 
@@ -187,7 +187,7 @@ He lay motionless, still listening.
 
 お手紙はさしあげましたが、まだ着かないようですね。
 
-![:audio](20/mada-09.mp3)
+![:audioPlay]![:audio](20/mada-09.mp3)
 
 ![:button]
 
@@ -205,7 +205,7 @@ I wrote to you. You must not have received my letter.
 
 日曜日の朝がすぎても、まだ、彼は、姿を見せなかった。
 
-![:audio](20/mada-10.mp3)
+![:audioPlay]![:audio](20/mada-10.mp3)
 
 ![:button]
 
@@ -223,7 +223,7 @@ Sunday morning wore away, and still he did not reappear.
 
 奴をご存じなんですか？まだ生きてますか、釈放されましたか？
 
-![:audio](20/mada-11.mp3)
+![:audioPlay]![:audio](20/mada-11.mp3)
 
 ![:button]
 
@@ -241,7 +241,7 @@ Do you know him? Is he alive and at liberty?
 
 ここらへんの生徒は、まだみんな行儀をわきまえてるんだ。
 
-![:audio](20/mada-12.mp3)
+![:audioPlay]![:audio](20/mada-12.mp3)
 
 ![:button]
 
@@ -259,7 +259,7 @@ Out here kids still mind their manners.
 
 そんなにすたすた行くんじゃない。話はまだおわってないんだから！
 
-![:audio](20/mada-13.mp3)
+![:audioPlay]![:audio](20/mada-13.mp3)
 
 ![:button]
 
@@ -277,7 +277,7 @@ Don’t walk so fast, I’m not done with you!
 
 あなたのご存じないこと、まだ、あなたに話してないことがありますわ。
 
-![:audio](20/mada-14.mp3)
+![:audioPlay]![:audio](20/mada-14.mp3)
 
 ![:button]
 
@@ -295,7 +295,7 @@ There’s something you don’t know—that I haven’t told you.
 
 また腕時計をこっそり見たわたしは、まだ多少の時間の余裕があると判断した。
 
-![:audio](20/mada-15.mp3)
+![:audioPlay]![:audio](20/mada-15.mp3)
 
 ![:button]
 
@@ -313,7 +313,7 @@ I took another peek at my watch and saw I still had some time to spare.
 
 まだ、なんの情報もありません。出動できる人間はすべて、警戒についています。
 
-![:audio](20/mada-16.mp3)
+![:audioPlay]![:audio](20/mada-16.mp3)
 
 ![:button]
 
@@ -331,7 +331,7 @@ No news as yet. All men available are on the lookout.
 
 自分がこんなみじめな通りにある、こんなみじめなあばら家に住むことがまだ信じられなかった。
 
-![:audio](20/mada-17.mp3)
+![:audioPlay]![:audio](20/mada-17.mp3)
 
 ![:button]
 
@@ -349,7 +349,7 @@ I couldn’t believe I was going to live in this desperate shack and on this des
 
 子供はまだ３歳です。
 
-![:audio](20/mada-18.mp3)
+![:audioPlay]![:audio](20/mada-18.mp3)
 
 ![:button]
 
@@ -367,7 +367,7 @@ My child’s only three years old.
 
 私はまだ結婚していません。
 
-![:audio](20/mada-19.mp3)
+![:audioPlay]![:audio](20/mada-19.mp3)
 ![:button]
 
 .english[
@@ -384,7 +384,7 @@ I’m still single. (I’m not married yet.)
 
 まだ一時間もあるわよ。
 
-![:audio](20/mada-20.mp3)
+![:audioPlay]![:audio](20/mada-20.mp3)
 
 ![:button]
 

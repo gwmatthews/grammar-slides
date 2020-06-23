@@ -45,7 +45,7 @@ class: center
 
 どうやってベッドを動かしたか教えてくれる？
 
-![:audio](14/ka-1-01.mp3)
+![:audioPlay]![:audio](14/ka-1-01.mp3)
 
 ![:button]
 
@@ -63,7 +63,7 @@ Can you tell me how the bed was moved?
 
 広之は自分が夢を見ているのか目覚めているのかわからなかった。
 
-![:audio](14/ka-1-02.mp3)
+![:audioPlay]![:audio](14/ka-1-02.mp3)
 
 ![:button]
 
@@ -81,7 +81,7 @@ Hiroyuki knew not if he was dreaming or awake.
 
 いったい僕がなにに腹をたてているか、君にはそれがわかるかい？
 
-![:audio](14/ka-1-03.mp3)
+![:audioPlay]![:audio](14/ka-1-03.mp3)
 
 ![:button]
 
@@ -99,7 +99,7 @@ Do you know what makes me angry?
 
 感動したのか、または屈辱を感じたのか自分でわからなかった。
 
-![:audio](14/ka-1-04.mp3)
+![:audioPlay]![:audio](14/ka-1-04.mp3)
 
 ![:button]
 
@@ -117,7 +117,7 @@ I could not tell whether I was touched or humiliated.
 
 あなたは、あの本まで読んだのか！驚いたねえ！何一つ安全じゃないというのか？
 
-![:audio](14/ka-1-05.mp3)
+![:audioPlay]![:audio](14/ka-1-05.mp3)
 
 ![:button]
 
@@ -135,7 +135,7 @@ You have read that book! Good heavens above! Is nothing safe?
 
 あなたがだれなのか、どうやってここへ来たのか、誰にもわからない。
 
-![:audio](14/ka-1-06.mp3)
+![:audioPlay]![:audio](14/ka-1-06.mp3)
 
 ![:button]
 
@@ -153,7 +153,7 @@ Nobody had any idea who you were or how you got here.
 
 人魚が、現代に現れたらどんなことが巻き起こるか。
 
-![:audio](14/ka-1-07.mp3)
+![:audioPlay]![:audio](14/ka-1-07.mp3)
 
 ![:button]
 
@@ -171,7 +171,7 @@ What would happen if a mermaid appeared in modern times?
 
 .smaller[どうして手放さなきゃいけないのか、そのわけが私にはよくわからないですよ。なぜあなたは、わたしにこれを手放させようとなさるんです？]
 
-![:audio](14/ka-1-08.mp3)
+![:audioPlay]![:audio](14/ka-1-08.mp3)
 
 ![:button]
 
@@ -189,7 +189,7 @@ I don’t really see why I should leave it behind. Why do you want me to?
 
 何が起こってるのか、自分には知る権利がある！
 
-![:audio](14/ka-1-09.mp3)
+![:audioPlay]![:audio](14/ka-1-09.mp3)
 
 ![:button]
 
@@ -207,7 +207,7 @@ I have a right to know what’s going on!
 
 彼は自分がどうしたいのかを伝える方法を知っています。
 
-![:audio](14/ka-1-10.mp3)
+![:audioPlay]![:audio](14/ka-1-10.mp3)
 
 ![:button]
 
@@ -225,7 +225,7 @@ He knows how to communicate what he wants.
 
 どうしたら自分がこの役をうまくできるか、が大事だと思っています。
 
-![:audio](14/ka-1-11.mp3)
+![:audioPlay]![:audio](14/ka-1-11.mp3)
 
 ![:button]
 
@@ -243,7 +243,7 @@ I think what’s important is how to play this role well.
 
 どう撮ろうかとても悩んだ場面でした。
 
-![:audio](14/ka-1-12.mp3)
+![:audioPlay]![:audio](14/ka-1-12.mp3)
 
 ![:button]
 
@@ -261,7 +261,7 @@ It was a really hard scene to shoot.
 
 一瞬、犯人の味方をしてしまう人もいるかと思います。
 
-![:audio](14/ka-1-13.mp3)
+![:audioPlay]![:audio](14/ka-1-13.mp3)
 
 ![:button]
 
@@ -279,7 +279,7 @@ For a moment, I thought some people might feel for the culprit.
 
 .smaller[あなたは、自分の求めるものを見いだせるか、自分の願うことが果たせるか、生きてふたたびこの地に戻れるか、危ぶんでいる。そういうことでしょう？]
 
-![:audio](14/ka-1-14.mp3)
+![:audioPlay]![:audio](14/ka-1-14.mp3)
 
 ![:button]
 
@@ -297,7 +297,7 @@ You doubt that you will find what you seek, or accomplish what you intend, or th
 
 周囲を見てみると、この話題について話すのに、誰が本当に適任なのかはよくわかりません。
 
-![:audio](14/ka-1-15.mp3)
+![:audioPlay]![:audio](14/ka-1-15.mp3)
 
 ![:button]
 
@@ -315,7 +315,7 @@ I look around and, I’m not sure who is really qualified to speak on this subje
 
 ５人の専門家から成る審査員団が、誰が受賞するのかを決定する。
 
-![:audio](14/ka-1-16.mp3)
+![:audioPlay]![:audio](14/ka-1-16.mp3)
 
 ![:button]
 
@@ -333,7 +333,7 @@ A panel of five experts will decide who wins the award.
 
 一番最初どうやって私がそのことを見つけたか、知りたければ言ってあげますよ。
 
-![:audio](14/ka-1-17.mp3)
+![:audioPlay]![:audio](14/ka-1-17.mp3)
 
 ![:button]
 
@@ -351,7 +351,7 @@ If you want to know how I first found out, I will tell you.
 
 あなた、自分がなにをしているのかわかっているのか？
 
-![:audio](14/ka-1-18.mp3)
+![:audioPlay]![:audio](14/ka-1-18.mp3)
 
 ![:button]
 

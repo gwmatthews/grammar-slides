@@ -44,7 +44,7 @@ class: center
 
 奉仕する方法はたくさんある。
 
-![:audio](09/gaaru-01.mp3)
+![:audioPlay]![:audio](09/gaaru-01.mp3)
 
 ![:button]
 
@@ -62,7 +62,7 @@ There are so many ways to serve.
 
 私は抗議したいことがあります。
 
-![:audio](09/gaaru-02.mp3)
+![:audioPlay]![:audio](09/gaaru-02.mp3)
 
 ![:button]
 
@@ -80,7 +80,7 @@ I have a complaint to make.
 
 死よりも恐ろしいことがある。
 
-![:audio](09/gaaru-03.mp3)
+![:audioPlay]![:audio](09/gaaru-03.mp3)
 
 ![:button]
 
@@ -98,7 +98,7 @@ There are worse things than dying.
 
 私には一つの確信があります。
 
-![:audio](09/gaaru-04.mp3)
+![:audioPlay]![:audio](09/gaaru-04.mp3)
 
 ![:button]
 
@@ -116,7 +116,7 @@ I know one thing for certain.
 
 言うべきことがないときもある。
 
-![:audio](09/gaaru-05.mp3)
+![:audioPlay]![:audio](09/gaaru-05.mp3)
 
 ![:button]
 
@@ -134,7 +134,7 @@ Sometimes there’s nothing to say.
 
 まだまだ学ぶことはたくさんあるよ。
 
-![:audio](09/gaaru-06.mp3)
+![:audioPlay]![:audio](09/gaaru-06.mp3)
 
 ![:button]
 
@@ -152,7 +152,7 @@ You’ve got a lot to learn.
 
 わからないことが、もう一つあるよ。
 
-![:audio](09/gaaru-07.mp3)
+![:audioPlay]![:audio](09/gaaru-07.mp3)
 
 ![:button]
 
@@ -170,7 +170,7 @@ There’s one thing I don’t understand.
 
 われわれにはもっと大切な仕事がある。
 
-![:audio](09/gaaru-08.mp3)
+![:audioPlay]![:audio](09/gaaru-08.mp3)
 
 ![:button]
 
@@ -188,7 +188,7 @@ We have more pressing business.
 
 ちょっと妙なことがひとつだけあります。
 
-![:audio](09/gaaru-09.mp3)
+![:audioPlay]![:audio](09/gaaru-09.mp3)
 
 ![:button]
 
@@ -206,7 +206,7 @@ You might call one thing a little odd.
 
 人間はだれにもこんな盲点があるのか？
 
-![:audio](09/gaaru-10.mp3)
+![:audioPlay]![:audio](09/gaaru-10.mp3)
 
 ![:button]
 
@@ -224,7 +224,7 @@ Does every human have this blind spot?
 
 きみに聞きたいことがたくさんあるんだ。
 
-![:audio](09/gaaru-11.mp3)
+![:audioPlay]![:audio](09/gaaru-11.mp3)
 
 ![:button]
 
@@ -242,7 +242,7 @@ There are lots of things I want to ask you.
 
 たぶん壁のどこかに、のぞき穴があるだろう。
 
-![:audio](09/gaaru-12.mp3)
+![:audioPlay]![:audio](09/gaaru-12.mp3)
 
 ![:button]
 
@@ -260,7 +260,7 @@ There must be a peephole somewhere in the walls.
 
 世の中には、大層悲しいことが一ぱいありますわ。
 
-![:audio](09/gaaru-13.mp3)
+![:audioPlay]![:audio](09/gaaru-13.mp3)
 
 ![:button]
 
@@ -278,7 +278,7 @@ There are very sad things in the world.
 
 あなたにはなんとなくわたしの気に入らない点があるわ。
 
-![:audio](09/gaaru-14.mp3)
+![:audioPlay]![:audio](09/gaaru-14.mp3)
 
 ![:button]
 
@@ -296,7 +296,7 @@ There’s something about you that I don’t like.
 
 私が決断をくだすまでには、どのくらいの時間がある？
 
-![:audio](09/gaaru-15.mp3)
+![:audioPlay]![:audio](09/gaaru-15.mp3)
 
 ![:button]
 
@@ -314,7 +314,7 @@ How long have I got to decide?
 
 まちがいなくわたしたちには、おたがいに教えることがたくさんありますね。
 
-![:audio](09/gaaru-16.mp3)
+![:audioPlay]![:audio](09/gaaru-16.mp3)
 
 ![:button]
 
@@ -332,7 +332,7 @@ No doubt we have much to teach each other.
 
 彼はわたしの息子です。わたしが命をあたえた。わたしには責任があります。
 
-![:audio](09/gaaru-17.mp3)
+![:audioPlay]![:audio](09/gaaru-17.mp3)
 
 ![:button]
 
@@ -350,7 +350,7 @@ He’s my son. I have given him life. I am responsible for him.
 
 お金がありません。
 
-![:audio](09/gaaru-18.mp3)
+![:audioPlay]![:audio](09/gaaru-18.mp3)
 
 ![:button]
 
@@ -368,7 +368,7 @@ I have no money.
 
 あなたの鞄はテーブルの上にある。
 
-![:audio](09/gaaru-19.mp3)
+![:audioPlay]![:audio](09/gaaru-19.mp3)
 ![:button]
 
 .english[
@@ -385,7 +385,7 @@ Your bag is on the table.
 
 質問がありますか？
 
-![:audio](09/gaaru-20.mp3)
+![:audioPlay]![:audio](09/gaaru-20.mp3)
 
 ![:button]
 

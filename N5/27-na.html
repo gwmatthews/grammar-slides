@@ -35,7 +35,7 @@ class: center
 
 大きな声を出すな。
 
-![:audio](27/na-01.mp3)
+![:audioPlay]![:audio](27/na-01.mp3)
 
 ![:button]
 
@@ -53,7 +53,7 @@ Keep your voice down.
 
 たずねるな。話すな。
 
-![:audio](27/na-02.mp3)
+![:audioPlay]![:audio](27/na-02.mp3)
 
 ![:button]
 
@@ -71,7 +71,7 @@ Don’t ask, don’t tell.
 
 顔は出すな。声も出すな。
 
-![:audio](27/na-03.mp3)
+![:audioPlay]![:audio](27/na-03.mp3)
 
 ![:button]
 
@@ -89,7 +89,7 @@ Don’t show your face, or speak.
 
 そいつを決してなくすな。
 
-![:audio](27/na-04.mp3)
+![:audioPlay]![:audio](27/na-04.mp3)
 
 ![:button]
 
@@ -107,7 +107,7 @@ Do not lose it.
 
 彼女をこれに引き込むな。
 
-![:audio](27/na-05.mp3)
+![:audioPlay]![:audio](27/na-05.mp3)
 
 ![:button]
 
@@ -125,7 +125,7 @@ Leave her out of this.
 
 二度とそんなことをいうな。
 
-![:audio](27/na-06.mp3)
+![:audioPlay]![:audio](27/na-06.mp3)
 
 ![:button]
 
@@ -143,7 +143,7 @@ Don’t you ever say that.
 
 運転手には話しかけるな。
 
-![:audio](27/na-07.mp3)
+![:audioPlay]![:audio](27/na-07.mp3)
 
 ![:button]
 
@@ -161,7 +161,7 @@ Don’t talk to the driver.
 
 いまは黴菌のことは気にするな。
 
-![:audio](27/na-08.mp3)
+![:audioPlay]![:audio](27/na-08.mp3)
 
 ![:button]
 
@@ -179,7 +179,7 @@ Never mind the bacteria just now.
 
 チャンスは一回だけだ。逃がすなよ。
 
-![:audio](27/na-09.mp3)
+![:audioPlay]![:audio](27/na-09.mp3)
 
 ![:button]
 
@@ -197,7 +197,7 @@ You have one chance. Take it.
 
 どのドアにも背をむけて坐るなよ。
 
-![:audio](27/na-10.mp3)
+![:audioPlay]![:audio](27/na-10.mp3)
 
 ![:button]
 
@@ -215,7 +215,7 @@ Don’t sit with your back to any doors.
 
 したくないことは決してするな。
 
-![:audio](27/na-11.mp3)
+![:audioPlay]![:audio](27/na-11.mp3)
 
 ![:button]
 
@@ -233,7 +233,7 @@ Never do anything you don’t like.
 
 敵に対して、弱さやもろさを決して見せるな。
 
-![:audio](27/na-12.mp3)
+![:audioPlay]![:audio](27/na-12.mp3)
 
 ![:button]
 
@@ -251,7 +251,7 @@ Never show weakness or fragility to the enemy.
 
 気にかけてはダメだ。ふりかえるな。
 
-![:audio](27/na-13.mp3)
+![:audioPlay]![:audio](27/na-13.mp3)
 
 ![:button]
 
@@ -269,7 +269,7 @@ Pay no attention. Don’t look back.
 
 私たちの学校では酒を飲むな。
 
-![:audio](27/na-14.mp3)
+![:audioPlay]![:audio](27/na-14.mp3)
 
 ![:button]
 
@@ -287,7 +287,7 @@ Don’t drink at our school.
 
 池袋駅に着くまで足をとめるなよ！
 
-![:audio](27/na-15.mp3)
+![:audioPlay]![:audio](27/na-15.mp3)
 
 ![:button]
 
@@ -305,7 +305,7 @@ Don’t stop till you get to Ikebukuro station!
 
 相手の白目が見えるまで発砲するな。
 
-![:audio](27/na-16.mp3)
+![:audioPlay]![:audio](27/na-16.mp3)
 
 ![:button]
 
@@ -323,7 +323,7 @@ Don’t fire until you see the whites of their eyes.
 
 だから僕は頼んだのだ。行くなって頼んだのだ。
 
-![:audio](27/na-17.mp3)
+![:audioPlay]![:audio](27/na-17.mp3)
 
 ![:button]
 
@@ -341,7 +341,7 @@ That’s why I begged, I implored you not to go.
 
 急げ。踏みつぶされる前に。ぜったいにぼくから手を離すな。
 
-![:audio](27/na-18.mp3)
+![:audioPlay]![:audio](27/na-18.mp3)
 
 ![:button]
 
@@ -359,7 +359,7 @@ Quick. Before we get trampled. Don’t let go of me.
 
 けちなことをいうなよ。金ならずいぶん稼いでるじゃないか。
 
-![:audio](27/na-19.mp3)
+![:audioPlay]![:audio](27/na-19.mp3)
 ![:button]
 
 .english[
@@ -376,7 +376,7 @@ Don’t be mean. You know you’re coining money.
 
 もう気に悩むな。きみにはやるべきことがあるんだぞ。
 
-![:audio](27/na-20.mp3)
+![:audioPlay]![:audio](27/na-20.mp3)
 
 ![:button]
 
@@ -476,6 +476,9 @@ $(document).ready(function(){
     $(this).next('div.english').css('visibility','hidden');
     });
 });
+
+
+
 </script>
 
 <script>
@@ -485,6 +488,14 @@ $(document).ready(function(){
         $(this).next('div.grammar').css('visibility','visible');
       else
     $(this).next('div.grammar').css('visibility','hidden');
+    });
+});
+</script>
+
+<script>
+$(document).ready(function(){
+    $("button.audio").click(function(){
+      $(this).next('audio.sound')[0].play();
     });
 });
 </script>

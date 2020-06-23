@@ -1,0 +1,401 @@
+---
+title: "の"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default", "style.css"]
+    lib_dir: libs
+    includes: 
+      after_body: "includes/header.html"
+    nature:
+      countIncrementalSlides: false
+      beforeInit: "js/macros.js"
+      slideNumberFormat: '%current%'
+      navigation:
+        scroll: true
+        click: false
+        touch: false
+
+---
+class: title-slide middle center
+count: false
+
+# の 一
+
+![:note]
+
+.grammar[
+
+*Meaning:* of (indicates possession)
+
+*Formation:* Noun 1 + の + Noun 2
+
+]
+
+
+
+![:next]
+
+---
+
+layout: true
+class: center
+
+---
+
+私は、ここ３年のインドの台頭をとても意識していました。
+
+![:audioPlay]![:audio](34/no-1-01.mp3)
+
+![:button]
+
+.english[
+
+I have been very conscious of the emergence of India the last three years.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+きみの誕生日になにもあげなかった。ごめんね。
+
+![:audioPlay]![:audio](34/no-1-02.mp3)
+
+![:button]
+
+.english[
+
+I’m sorry for not giving you anything for your birthday.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+僕は昼の雨、夜の雪にかなりよく耐えた。
+
+![:audioPlay]![:audio](34/no-1-03.mp3)
+
+![:button]
+
+.english[
+
+I endured the rain during the day, and the snow during the night.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+彼はただ一人さ迷い歩き、この世の無常に涙を流した。
+
+![:audioPlay]![:audio](34/no-1-04.mp3)
+
+![:button]
+
+.english[
+
+He wandered in loneliness, weeping for the hardness of the world.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+イギリスの輸出全体の４５％が対EUである。
+
+![:audioPlay]![:audio](34/no-1-05.mp3)
+
+![:button]
+
+.english[
+
+45 percent of all British exports go to the EU.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+彼女の表情には、何かしら人の心を引くものがあった。
+
+![:audioPlay]![:audio](34/no-1-06.mp3)
+
+![:button]
+
+.english[
+
+Something about her expression pulled people in.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+幾つかの大型船は、動く都市のようなものだ。
+
+![:audioPlay]![:audio](34/no-1-07.mp3)
+
+![:button]
+
+.english[
+
+Some large ships are like movable cities.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+今この瞬間、ある現地隊員からの連絡を待っている。
+
+![:audioPlay]![:audio](34/no-1-08.mp3)
+
+![:button]
+
+.english[
+
+At the moment I’m waiting to hear from one field agent in particular.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+新しい職場環境の目玉はこんな感じです。
+
+![:audioPlay]![:audio](34/no-1-09.mp3)
+
+![:button]
+
+.english[
+
+Here are some highlights of the new work environment.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+昨年１１月、このスラム街に新しい学校が開かれ、４７人の生徒が入学しました。
+
+![:audioPlay]![:audio](34/no-1-10.mp3)
+
+![:button]
+
+.english[
+
+Last November, a new school opened in the slum and enrolled 47 students.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+彼は私の過去の本を読んだことがあるとは思えなかった。
+
+![:audioPlay]![:audio](34/no-1-11.mp3)
+
+![:button]
+
+.english[
+
+I had no reason to believe he’d ever read any of my books.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+その女優は、メディアの注目を避けるため、離婚したことを数ヶ月間、公表しなかった。
+
+![:audioPlay]![:audio](34/no-1-12.mp3)
+
+![:button]
+
+.english[
+
+The actress kept her divorce under wraps for months to avoid media attention.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+今回は、警察と犯罪組織、または犯罪者との関係を描いたサスペンス映画をご紹介します。
+
+![:audioPlay]![:audio](34/no-1-13.mp3)
+
+![:button]
+
+.english[
+
+This time, I’d like to introduce to you a suspense movie about the relationship between the police and criminal organizations or criminals.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+多くのビジネス環境と異なり、図書館は、変化を前向きに受け入れます。
+
+![:audioPlay]![:audio](34/no-1-14.mp3)
+
+![:button]
+
+.english[
+
+Libraries, unlike many business environments, embrace change.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+トンネルの一番底には、日の目を見ることのない冷たい湖がある。
+
+![:audioPlay]![:audio](34/no-1-15.mp3)
+
+![:button]
+
+.english[
+
+At the bottom of the tunnel lay a cold lake far from the light.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+その緑色のバッグはわたしの部屋に持ってって！
+
+![:audioPlay]![:audio](34/no-1-16.mp3)
+
+![:button]
+
+.english[
+
+Take that green bag to my room!
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+うちの息子は、いつも謙虚なんだ。
+
+![:audioPlay]![:audio](34/no-1-17.mp3)
+
+![:button]
+
+.english[
+
+My son is always modest.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+通常、事件が起きたあとに犯人を検挙するのが刑事の仕事ですよね。
+
+![:audioPlay]![:audio](34/no-1-18.mp3)
+
+![:button]
+
+.english[
+
+Normally, a police detective’s job is to arrest the culprit after a case occurs, right?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+予定の計画にはなんら変更はありません。
+
+![:audioPlay]![:audio](34/no-1-19.mp3)
+![:button]
+
+.english[
+
+There is no change in our original plans.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+新経営陣は、会社の立て直しをうまくやってのけた。
+
+![:audioPlay]![:audio](34/no-1-20.mp3)
+
+![:button]
+
+.english[
+
+The new management team has done a good job of turning the business around.
+
+]
+
+![:prev]
+
+

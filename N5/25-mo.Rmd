@@ -43,7 +43,7 @@ class: center
 
 あいつも結構かわいいところがある…
 
-![:audio](25/mo-01.mp3)
+![:audioPlay]![:audio](25/mo-01.mp3)
 
 ![:button]
 
@@ -61,7 +61,7 @@ He can be kind of cute sometimes…
 
 僕も昨日徹夜で勉強しました。
 
-![:audio](25/mo-02.mp3)
+![:audioPlay]![:audio](25/mo-02.mp3)
 
 ![:button]
 
@@ -79,7 +79,7 @@ I was also up all night studying.
 
 約２０００万人いるタイの高齢者たちには、貯金も個人年金もないのです。
 
-![:audio](25/mo-03.mp3)
+![:audioPlay]![:audio](25/mo-03.mp3)
 
 ![:button]
 
@@ -97,7 +97,7 @@ Around 20 million elderly Thais do not have savings or private pensions.
 
 どちらの候補者も、さまざまな感情を掻き立てるのです。
 
-![:audio](25/mo-04.mp3)
+![:audioPlay]![:audio](25/mo-04.mp3)
 
 ![:button]
 
@@ -115,7 +115,7 @@ Both candidates stir up a lot of emotion.
 
 カーターはやがて、素晴らしい人権擁護者となり、またノーベル平和賞も受賞しました。
 
-![:audio](25/mo-05.mp3)
+![:audioPlay]![:audio](25/mo-05.mp3)
 
 ![:button]
 
@@ -133,7 +133,7 @@ Carter turned out to be a great advocate for human rights as well as a Nobel Pea
 
 収蔵品についてのトークもしますし、重要作品について、毎日１０分のトークもしています。
 
-![:audio](25/mo-06.mp3)
+![:audioPlay]![:audio](25/mo-06.mp3)
 
 ![:button]
 
@@ -151,7 +151,7 @@ I also do collection talks and the daily 10-minute talks on key works in the act
 
 私は接客マネジャーですが、屋敷内のガイドもします。
 
-![:audio](25/mo-07.mp3)
+![:audioPlay]![:audio](25/mo-07.mp3)
 
 ![:button]
 
@@ -169,7 +169,7 @@ I’m the visitor engagement manager, but I also do guiding in the house.
 
 彼の名前も知らないし、どの部屋に住んでいるのかもわからない。
 
-![:audio](25/mo-09.mp3)
+![:audioPlay]![:audio](25/mo-09.mp3)
 
 ![:button]
 
@@ -187,7 +187,7 @@ I don’t know his name or where his room is.
 
 日本は空気がきれいで空も高く、気持ちいい場所でした。ファンの皆さんも優しかったし。
 
-![:audio](25/mo-10.mp3)
+![:audioPlay]![:audio](25/mo-10.mp3)
 
 ![:button]
 
@@ -205,7 +205,7 @@ The air in Japan is clean, the sky is tall, it felt like a really good place. Th
 
 会社というところは僕には向いていない。きっと君にも向いていない。
 
-![:audio](25/mo-11.mp3)
+![:audioPlay]![:audio](25/mo-11.mp3)
 
 ![:button]
 
@@ -223,7 +223,7 @@ Me and companies just don’t get along. I don’t think you’d find it any dif
 
 他人を愛することも大事だけれど、自分も愛せなくてはいけないんです。
 
-![:audio](25/mo-12.mp3)
+![:audioPlay]![:audio](25/mo-12.mp3)
 
 ![:button]
 
@@ -241,7 +241,7 @@ You need to be able to love other people, but you need to be able to love yourse
 
 スタッフは男性も女性もいる状態で、肌色のパンツだけははいて撮影をしました。
 
-![:audio](25/mo-13.mp3)
+![:audioPlay]![:audio](25/mo-13.mp3)
 
 ![:button]
 
@@ -259,7 +259,7 @@ I wore only skin-colored pants and acted in front of both male and female staff.
 
 愛しているだなんて露骨に打ち明けようとは夢にも思わない。
 
-![:audio](25/mo-14.mp3)
+![:audioPlay]![:audio](25/mo-14.mp3)
 
 ![:button]
 
