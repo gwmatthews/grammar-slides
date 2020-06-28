@@ -77,4 +77,34 @@ pagetitle: "文法"
  
  [授業 三十五](N5/35-no-2.html)　の一
  
+ [授業 三十六](N5/36-node.html)　ので
+ 
+ [授業 三十七](N5/37-nogajouzu.html)　のがじょうず
+ 
+ [授業 三十八](N5/38-nogasuki.html)　のがすき
+ 
+ [授業 三十九](N5/39-nogaheta.html)　のがへた
+ 
+ [授業 四十](N5/40-tai.html)　たい
+ 
+ [授業 四十一](N5/41-tokotogaaru.html)　とごとがある
+ 
+ [授業 四十二](N5/42-teiru.html)　ている
+ 
+ [授業 四十三](N5/43-tekudasai.html)　てください
+ 
+ [授業 四十四](N5/44-temoii.html)　てもいい
+ 
+ [授業 四十五](N5/45-tekara.html)　てから
+ 
+ [授業 四十六](N5/46-tewaikenai.html)　てわいけない
+ 
+ [授業 四十七](N5/47-to.html)　と
+ 
+ [授業 四十八](N5/48-tsumorida.html)　つもりだ
+ 
+ [授業 四十九](N5/49-ya.html)　や
+ 
+ [授業 五十](N5/50-yori-nohouga.html)　より～のほうが
+ 
 </div>

@@ -1,5 +1,5 @@
 ---
-title: "title"
+title: "のが下手だ"
 output:
   xaringan::moon_reader:
     seal: false
@@ -20,19 +20,17 @@ output:
 class: title-slide middle center
 count: false
 
-# title
+# のが下手だ
 
 ![:note]
 
 .grammar[
 
-*Meaning:* 
+*Meaning:*  to be bad at something, to be not good at something
 
-*Formation:* 
+*Formation:* Verb-dictionary form + のが下手だ
 
 ]
-
-
 
 ![:next]
 
@@ -43,13 +41,15 @@ class: center
 
 ---
 
-![:audioPlay]![:audio](0/-01.mp3)
+私は絵を描くのがすごく下手です。
+
+![:audioPlay]![:audio](39/nogaheta-01.mp3)
 
 ![:button]
 
 .english[
 
-
+I’m terrible at painting.
 
 ]
 
@@ -59,15 +59,15 @@ class: center
 
 ---
 
+僕は走るのが下手です。
 
-
-![:audioPlay]![:audio](0/-02.mp3)
+![:audioPlay]![:audio](39/nogaheta-02.mp3)
 
 ![:button]
 
 .english[
 
-
+I’m not good at running.
 
 ]
 
@@ -77,15 +77,15 @@ class: center
 
 ---
 
+おれは泳ぐのが下手だ。
 
-
-![:audioPlay]![:audio](0/-03.mp3)
+![:audioPlay]![:audio](39/nogaheta-03.mp3)
 
 ![:button]
 
 .english[
 
-
+I’m not goot at swimming.
 
 ]
 
@@ -95,15 +95,15 @@ class: center
 
 ---
 
+お酒を飲むのが下手なのです。
 
-
-![:audioPlay]![:audio](0/-04.mp3)
+![:audioPlay]![:audio](39/nogaheta-04.mp3)
 
 ![:button]
 
 .english[
 
-
+I’m not good at drinking.
 
 ]
 
@@ -113,15 +113,15 @@ class: center
 
 ---
 
+聞くのが下手だと言われました。
 
-
-![:audioPlay]![:audio](0/-05.mp3)
+![:audioPlay]![:audio](39/nogaheta-05.mp3)
 
 ![:button]
 
 .english[
 
-
+I was told that I’m not good at listening.
 
 ]
 
@@ -131,15 +131,15 @@ class: center
 
 ---
 
+私は他人に対して自分の感じていることを説明するのが下手だった。
 
-
-![:audioPlay]![:audio](0/-06.mp3)
+![:audioPlay]![:audio](39/nogaheta-06.mp3)
 
 ![:button]
 
 .english[
 
-
+I had a hard time explaining my feelings to others.
 
 ]
 
@@ -149,15 +149,15 @@ class: center
 
 ---
 
+あなたの全部が好き、嘘をつくのが下手なところも。
 
-
-![:audioPlay]![:audio](0/-07.mp3)
+![:audioPlay]![:audio](39/nogaheta-07.mp3)
 
 ![:button]
 
 .english[
 
-
+I love everything about you, including the fact that you’re bad at lying.
 
 ]
 
@@ -167,15 +167,15 @@ class: center
 
 ---
 
+自分も例外ではないが、我々の世代の人間は、教わるのが下手だ。
 
-
-![:audioPlay]![:audio](0/-08.mp3)
+![:audioPlay]![:audio](39/nogaheta-08.mp3)
 
 ![:button]
 
 .english[
 
-
+I’m no exception, but our generation is really bad at learning.
 
 ]
 
@@ -185,15 +185,15 @@ class: center
 
 ---
 
+傘をさすのが下手なようで、どうしても足元が濡れます。なぜみなさん濡れないのですか。
 
-
-![:audioPlay]![:audio](0/-09.mp3)
+![:audioPlay]![:audio](39/nogaheta-09.mp3)
 
 ![:button]
 
 .english[
 
-
+I’m not good at holding an umbrella, so my feet are always wet. Why are your feet not wet?
 
 ]
 
@@ -203,15 +203,15 @@ class: center
 
 ---
 
+.smaller[子どもはどうして寝るのが下手なの？寝つくまでに時間がかかったり、早朝起きてしまったり、子どもの睡眠トラブルが絶えません。]
 
-
-![:audioPlay]![:audio](0/-10.mp3)
+![:audioPlay]![:audio](39/nogaheta-10.mp3)
 
 ![:button]
 
 .english[
 
-
+Why are children so bad at sleeping? It takes time for them to fall asleep, they wake up early in the morning, there’s just no end to kids’ sleeping trouble.
 
 ]
 
@@ -221,179 +221,17 @@ class: center
 
 ---
 
+日本人は休むのが下手で、頑張ればうまくいくと思い込み過ぎなのではないか？
 
-
-![:audioPlay]![:audio](0/-11.mp3)
-
-![:button]
-
-.english[
-
-
-
-]
-
-![:prev]
-
-![:next]
-
----
-
-
-
-![:audioPlay]![:audio](0/-12.mp3)
+![:audioPlay]![:audio](39/nogaheta-11.mp3)
 
 ![:button]
 
 .english[
 
-
-
-]
-
-![:prev]
-
-![:next]
-
----
-
-
-
-![:audioPlay]![:audio](0/-13.mp3)
-
-![:button]
-
-.english[
-
-
+Japanese people are not good at taking a break. Are they living under the impression that as long as they do their best, everything will work out just fine?
 
 ]
 
 ![:prev]
-
-![:next]
-
----
-
-
-
-![:audioPlay]![:audio](0/-14.mp3)
-
-![:button]
-
-.english[
-
-
-
-]
-
-![:prev]
-
-![:next]
-
----
-
-
-
-![:audioPlay]![:audio](0/-15.mp3)
-
-![:button]
-
-.english[
-
-
-
-]
-
-![:prev]
-
-![:next]
-
----
-
-
-
-![:audioPlay]![:audio](0/-16.mp3)
-
-![:button]
-
-.english[
-
-
-
-]
-
-![:prev]
-
-![:next]
-
----
-
-
-
-![:audioPlay]![:audio](0/-17.mp3)
-
-![:button]
-
-.english[
-
-
-
-]
-
-![:prev]
-
-![:next]
-
----
-
-
-
-![:audioPlay]![:audio](0/-18.mp3)
-
-![:button]
-
-.english[
-
-
-
-]
-
-![:prev]
-
-![:next]
-
----
-
-
-
-![:audioPlay]![:audio](0/-19.mp3)
-![:button]
-
-.english[
-
-
-
-]
-
-![:prev]
-
-![:next]
-
----
-
-
-
-![:audioPlay]![:audio](0/-20.mp3)
-
-![:button]
-
-.english[
-
-
-
-]
-
-![:prev]
-
 

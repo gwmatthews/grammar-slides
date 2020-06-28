@@ -1,5 +1,5 @@
 ---
-title: "title"
+title: "のがじょうず"
 output:
   xaringan::moon_reader:
     seal: false
@@ -20,19 +20,20 @@ output:
 class: title-slide middle center
 count: false
 
-# title
+# のがじょうず
 
 ![:note]
 
 .grammar[
 
-*Meaning:* 
+*Meaning:* to be good at
 
 *Formation:* 
 
+Verb-dictionary form + のがじょうず
+Noun + がじょうず
+
 ]
-
-
 
 ![:next]
 
@@ -43,13 +44,15 @@ class: center
 
 ---
 
-![:audioPlay]![:audio](0/-01.mp3)
+弟は歌うのが上手だ。
+
+![:audioPlay]![:audio](37/nogajouzu-01.mp3)
 
 ![:button]
 
 .english[
 
-
+My little brother is good at singing.
 
 ]
 
@@ -59,15 +62,15 @@ class: center
 
 ---
 
+私の彼氏はキスするのが上手ですよ。
 
-
-![:audioPlay]![:audio](0/-02.mp3)
+![:audioPlay]![:audio](37/nogajouzu-02.mp3)
 
 ![:button]
 
 .english[
 
-
+My boyfriend is good at kissing.
 
 ]
 
@@ -77,15 +80,15 @@ class: center
 
 ---
 
+教えるのが上手な人は、どんな人？
 
-
-![:audioPlay]![:audio](0/-03.mp3)
+![:audioPlay]![:audio](37/nogajouzu-03.mp3)
 
 ![:button]
 
 .english[
 
-
+What kind of people are good at teaching?
 
 ]
 
@@ -95,15 +98,15 @@ class: center
 
 ---
 
+母は値切るのが上手です。
 
-
-![:audioPlay]![:audio](0/-04.mp3)
+![:audioPlay]![:audio](37/nogajouzu-04.mp3)
 
 ![:button]
 
 .english[
 
-
+My mother is good at beating down the price.
 
 ]
 
@@ -113,15 +116,15 @@ class: center
 
 ---
 
+兄は相談に乗るのが上手です。
 
-
-![:audioPlay]![:audio](0/-05.mp3)
+![:audioPlay]![:audio](37/nogajouzu-05.mp3)
 
 ![:button]
 
 .english[
 
-
+My big brother is good at giving advice.
 
 ]
 
@@ -131,15 +134,15 @@ class: center
 
 ---
 
+今回は、褒めるのが上手な人の特徴と、そのテクニックをご紹介していきます。
 
-
-![:audioPlay]![:audio](0/-06.mp3)
+![:audioPlay]![:audio](37/nogajouzu-06.mp3)
 
 ![:button]
 
 .english[
 
-
+This time, I’d like to introduce the characteristics of people who are good at praising and their techniques.
 
 ]
 
@@ -149,15 +152,15 @@ class: center
 
 ---
 
+嘘つくのがなかなか上手ね。でもこの際はすっかり話してしまったほうが時間と手間が省けるというものよ。
 
-
-![:audioPlay]![:audio](0/-07.mp3)
+![:audioPlay]![:audio](37/nogajouzu-07.mp3)
 
 ![:button]
 
 .english[
 
-
+You lie very well. But it will save time and trouble now if you tell me all about it.
 
 ]
 
@@ -167,15 +170,15 @@ class: center
 
 ---
 
+研究によれば、心拍変動の高い人は、気が散るものを無視したり、欲求の充足を遅らせたり、ストレスの多い状況に対処するのが上手であることがわかっています。
 
-
-![:audioPlay]![:audio](0/-08.mp3)
+![:audioPlay]![:audio](37/nogajouzu-08.mp3)
 
 ![:button]
 
 .english[
 
-
+Studies show that people with higher heart rate variability are better at ignoring distractions, delaying gratification, and dealing with stressful situations.
 
 ]
 
@@ -185,215 +188,17 @@ class: center
 
 ---
 
+お子さんが１３歳で絵が上手なら、アニメで身を立てることを考えたほうがいいですよ。
 
-
-![:audioPlay]![:audio](0/-09.mp3)
-
-![:button]
-
-.english[
-
-
-
-]
-
-![:prev]
-
-![:next]
-
----
-
-
-
-![:audioPlay]![:audio](0/-10.mp3)
+![:audioPlay]![:audio](37/nogajouzu-09.mp3)
 
 ![:button]
 
 .english[
 
-
-
-]
-
-![:prev]
-
-![:next]
-
----
-
-
-
-![:audioPlay]![:audio](0/-11.mp3)
-
-![:button]
-
-.english[
-
-
+If your kids are doing well in drawing in seventh grade, you must think of making a career in animation.
 
 ]
 
 ![:prev]
-
-![:next]
-
----
-
-
-
-![:audioPlay]![:audio](0/-12.mp3)
-
-![:button]
-
-.english[
-
-
-
-]
-
-![:prev]
-
-![:next]
-
----
-
-
-
-![:audioPlay]![:audio](0/-13.mp3)
-
-![:button]
-
-.english[
-
-
-
-]
-
-![:prev]
-
-![:next]
-
----
-
-
-
-![:audioPlay]![:audio](0/-14.mp3)
-
-![:button]
-
-.english[
-
-
-
-]
-
-![:prev]
-
-![:next]
-
----
-
-
-
-![:audioPlay]![:audio](0/-15.mp3)
-
-![:button]
-
-.english[
-
-
-
-]
-
-![:prev]
-
-![:next]
-
----
-
-
-
-![:audioPlay]![:audio](0/-16.mp3)
-
-![:button]
-
-.english[
-
-
-
-]
-
-![:prev]
-
-![:next]
-
----
-
-
-
-![:audioPlay]![:audio](0/-17.mp3)
-
-![:button]
-
-.english[
-
-
-
-]
-
-![:prev]
-
-![:next]
-
----
-
-
-
-![:audioPlay]![:audio](0/-18.mp3)
-
-![:button]
-
-.english[
-
-
-
-]
-
-![:prev]
-
-![:next]
-
----
-
-
-
-![:audioPlay]![:audio](0/-19.mp3)
-![:button]
-
-.english[
-
-
-
-]
-
-![:prev]
-
-![:next]
-
----
-
-
-
-![:audioPlay]![:audio](0/-20.mp3)
-
-![:button]
-
-.english[
-
-
-
-]
-
-![:prev]
-
 

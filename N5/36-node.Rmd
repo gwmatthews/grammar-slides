@@ -1,5 +1,5 @@
 ---
-title: "title"
+title: "ので"
 output:
   xaringan::moon_reader:
     seal: false
@@ -20,15 +20,19 @@ output:
 class: title-slide middle center
 count: false
 
-# title
+# ので
 
 ![:note]
 
 .grammar[
 
-*Meaning:* 
+*Meaning:* because of; the reason is that; given that
 
 *Formation:* 
+Verb + ので
+Noun + なので
+いadj + ので
+なadj + なので
 
 ]
 
@@ -43,13 +47,15 @@ class: center
 
 ---
 
-![:audioPlay]![:audio](0/-01.mp3)
+頭痛がひどくなったので、家に帰りましたよ。
+
+![:audioPlay]![:audio](36/node-01.mp3)
 
 ![:button]
 
 .english[
 
-
+I had a bad headache so I went directly home.
 
 ]
 
@@ -59,15 +65,15 @@ class: center
 
 ---
 
+雨が降っていたので、出て行くこともできなかった。
 
-
-![:audioPlay]![:audio](0/-02.mp3)
+![:audioPlay]![:audio](36/node-02.mp3)
 
 ![:button]
 
 .english[
 
-
+I couldn't go away on account of the rain.
 
 ]
 
@@ -77,15 +83,15 @@ class: center
 
 ---
 
+彼女はずっと考え事をしていたので気づかなかったのだ。
 
-
-![:audioPlay]![:audio](0/-03.mp3)
+![:audioPlay]![:audio](36/node-03.mp3)
 
 ![:button]
 
 .english[
 
-
+She had been too absorbed in her own thoughts to notice.
 
 ]
 
@@ -95,15 +101,15 @@ class: center
 
 ---
 
+私は引退生活に飽きたので、自分でビジネスを始めた。
 
-
-![:audioPlay]![:audio](0/-04.mp3)
+![:audioPlay]![:audio](36/node-04.mp3)
 
 ![:button]
 
 .english[
 
-
+I was bored with retirement, so I started my own business.
 
 ]
 
@@ -113,15 +119,15 @@ class: center
 
 ---
 
+ミナコはかわいらしい話し方をするので人気がある。
 
-
-![:audioPlay]![:audio](0/-05.mp3)
+![:audioPlay]![:audio](36/node-05.mp3)
 
 ![:button]
 
 .english[
 
-
+Minako has an endearing way of talking that makes her popular.
 
 ]
 
@@ -131,15 +137,15 @@ class: center
 
 ---
 
+私の写真がぼやけていたので、カメラのレンズを掃除した。
 
-
-![:audioPlay]![:audio](0/-06.mp3)
+![:audioPlay]![:audio](36/node-06.mp3)
 
 ![:button]
 
 .english[
 
-
+My photos looked blurry, so I cleaned the camera lens.
 
 ]
 
@@ -149,15 +155,15 @@ class: center
 
 ---
 
+彼女の挨拶はとても陽気だったので、不真面目に見えた。
 
-
-![:audioPlay]![:audio](0/-07.mp3)
+![:audioPlay]![:audio](36/node-07.mp3)
 
 ![:button]
 
 .english[
 
-
+Her greeting was so cheerful that it seemed insincere.
 
 ]
 
@@ -167,15 +173,15 @@ class: center
 
 ---
 
+柔らかな、涼しい風が吹いていたので、窓を二つ開けていた。
 
-
-![:audioPlay]![:audio](0/-08.mp3)
+![:audioPlay]![:audio](36/node-08.mp3)
 
 ![:button]
 
 .english[
 
-
+There was a soft breeze blowing, and so I had opened two windows.
 
 ]
 
@@ -185,15 +191,15 @@ class: center
 
 ---
 
+机の上の電話が、用心深い音をたてたので、彼女は、受話器を取りあげた。
 
-
-![:audioPlay]![:audio](0/-09.mp3)
+![:audioPlay]![:audio](36/node-09.mp3)
 
 ![:button]
 
 .english[
 
-
+The telephone on her desk gave a discreet buzz so she picked it up.
 
 ]
 
@@ -203,15 +209,15 @@ class: center
 
 ---
 
+これから仮眠をとるので、七時に目覚ましの電話をかけてほしい。
 
-
-![:audioPlay]![:audio](0/-10.mp3)
+![:audioPlay]![:audio](36/node-10.mp3)
 
 ![:button]
 
 .english[
 
-
+I’m going to lie down, so please give me a wake-up call at seven o’clock.
 
 ]
 
@@ -221,15 +227,15 @@ class: center
 
 ---
 
+そもそも携帯電話をもっていなかったので、携帯が鳴ることはなかった。
 
-
-![:audioPlay]![:audio](0/-11.mp3)
+![:audioPlay]![:audio](36/node-11.mp3)
 
 ![:button]
 
 .english[
 
-
+My cell phone never rang because I did not have one.
 
 ]
 
@@ -239,15 +245,15 @@ class: center
 
 ---
 
+私は何回となくその答えを耳にしているので、すでに準備ができている。
 
-
-![:audioPlay]![:audio](0/-12.mp3)
+![:audioPlay]![:audio](36/node-12.mp3)
 
 ![:button]
 
 .english[
 
-
+I have prepared for this answer, because I have heard it so often.
 
 ]
 
@@ -257,15 +263,15 @@ class: center
 
 ---
 
+とてもガタガタと揺れる飛行だったので、私は機内で眠れなかった。
 
-
-![:audioPlay]![:audio](0/-13.mp3)
+![:audioPlay]![:audio](36/node-13.mp3)
 
 ![:button]
 
 .english[
 
-
+I couldn’t sleep on the airplane because the flight was so bumpy.
 
 ]
 
@@ -275,15 +281,15 @@ class: center
 
 ---
 
+ホテルに泊まれなかったので、ガレージ内にある寝室を借りました。
 
-
-![:audioPlay]![:audio](0/-14.mp3)
+![:audioPlay]![:audio](36/node-14.mp3)
 
 ![:button]
 
 .english[
 
-
+Since I couldn’t get in a hotel, I rented a sleeping room in a garage.
 
 ]
 
@@ -293,15 +299,15 @@ class: center
 
 ---
 
+イツキはとても早口にその話をしたので、本当なのか判断できなかった。
 
-
-![:audioPlay]![:audio](0/-15.mp3)
+![:audioPlay]![:audio](36/node-15.mp3)
 
 ![:button]
 
 .english[
 
-
+Itsuki told the story so quickly, I couldn’t gauge its truth.
 
 ]
 
@@ -311,15 +317,15 @@ class: center
 
 ---
 
+とはいえ、飲食店業は厳しいので、よい選択とは見なさない人もいます。
 
-
-![:audioPlay]![:audio](0/-16.mp3)
+![:audioPlay]![:audio](36/node-16.mp3)
 
 ![:button]
 
 .english[
 
-
+But the restaurant business is tough so not everyone sees it as a good choice.
 
 ]
 
@@ -329,15 +335,15 @@ class: center
 
 ---
 
+観光客がたくさん訪れると予想されているので、仕事が増えると期待しています。
 
-
-![:audioPlay]![:audio](0/-17.mp3)
+![:audioPlay]![:audio](36/node-17.mp3)
 
 ![:button]
 
 .english[
 
-
+We expect a lot of tourists and a lot of work, hopefully.
 
 ]
 
@@ -347,15 +353,15 @@ class: center
 
 ---
 
+手がいつまでもひどくふるえているので、ひげを剃るのも容易ではなかった。
 
-
-![:audioPlay]![:audio](0/-18.mp3)
+![:audioPlay]![:audio](36/node-18.mp3)
 
 ![:button]
 
 .english[
 
-
+Shaving was not an easy task, for my hand continued to shake very much.
 
 ]
 
@@ -365,14 +371,14 @@ class: center
 
 ---
 
+彼にはほかに身内がないので、私を唯一の相続人にするつもりでいたのです。
 
-
-![:audioPlay]![:audio](0/-19.mp3)
+![:audioPlay]![:audio](36/node-19.mp3)
 ![:button]
 
 .english[
 
-
+He had no other relations, and he had intended me to be his sole heiress.
 
 ]
 
@@ -382,15 +388,15 @@ class: center
 
 ---
 
+彼はふたりに飲物をすすめたが断られたので、シガレットケースを差し出した。
 
-
-![:audioPlay]![:audio](0/-20.mp3)
+![:audioPlay]![:audio](36/node-20.mp3)
 
 ![:button]
 
 .english[
 
-
+He offered them a drink and when that was refused he took out his cigarette case.
 
 ]
 
