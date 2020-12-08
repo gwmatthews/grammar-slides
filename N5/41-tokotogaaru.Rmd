@@ -26,13 +26,11 @@ count: false
 
 .grammar[
 
-*Meaning:* 
+*Meaning:* have done something before
 
-*Formation:* 
+*Formation:* Verb-plain past + ことがある
 
 ]
-
-
 
 ![:next]
 
@@ -43,13 +41,15 @@ class: center
 
 ---
 
+そんなものは使ったことがないね。
+
 ![:audioPlay]![:audio](41/tokotogaaru-01.mp3)
 
 ![:button]
 
 .english[
 
-
+I’ve never used that.
 
 ]
 
@@ -59,7 +59,7 @@ class: center
 
 ---
 
-
+そんなことを考えたこともないね。
 
 ![:audioPlay]![:audio](41/tokotogaaru-02.mp3)
 
@@ -67,7 +67,7 @@ class: center
 
 .english[
 
-
+I hardly ever think about it.
 
 ]
 
@@ -77,7 +77,7 @@ class: center
 
 ---
 
-
+これは誰にも話したことがありません。
 
 ![:audioPlay]![:audio](41/tokotogaaru-03.mp3)
 
@@ -85,7 +85,7 @@ class: center
 
 .english[
 
-
+I have never told this to anyone.
 
 ]
 
@@ -95,7 +95,7 @@ class: center
 
 ---
 
-
+お名前をお聞きしたことはあると思います。
 
 ![:audioPlay]![:audio](41/tokotogaaru-04.mp3)
 
@@ -103,7 +103,7 @@ class: center
 
 .english[
 
-
+I think I’ve heard your name before.
 
 ]
 
@@ -113,7 +113,7 @@ class: center
 
 ---
 
-
+しかし彼女自身はまだそこに行ったことがない。
 
 ![:audioPlay]![:audio](41/tokotogaaru-05.mp3)
 
@@ -121,7 +121,7 @@ class: center
 
 .english[
 
-
+She had never been to that place, however.
 
 ]
 
@@ -131,7 +131,7 @@ class: center
 
 ---
 
-
+あなたはその階段を使ったことがあるの？
 
 ![:audioPlay]![:audio](41/tokotogaaru-06.mp3)
 
@@ -139,7 +139,7 @@ class: center
 
 .english[
 
-
+Have you ever used one of these stairways?
 
 ]
 
@@ -149,7 +149,7 @@ class: center
 
 ---
 
-
+そんな写真は見たことがないね。
 
 ![:audioPlay]![:audio](41/tokotogaaru-07.mp3)
 
@@ -157,7 +157,7 @@ class: center
 
 .english[
 
-
+I’ve never seen that picture in my life.
 
 ]
 
@@ -167,7 +167,7 @@ class: center
 
 ---
 
-
+それ以上に的確な評言はきいたことがない。
 
 ![:audioPlay]![:audio](41/tokotogaaru-08.mp3)
 
@@ -175,7 +175,7 @@ class: center
 
 .english[
 
-
+I’ve never heard it put better.
 
 ]
 
@@ -185,7 +185,7 @@ class: center
 
 ---
 
-
+私は賭博が不道徳だと思ったことはない。
 
 ![:audioPlay]![:audio](41/tokotogaaru-09.mp3)
 
@@ -193,7 +193,7 @@ class: center
 
 .english[
 
-
+I’ve never had any great moral problems with gambling.
 
 ]
 
@@ -203,7 +203,7 @@ class: center
 
 ---
 
-
+他の男になんか目もくれたことはありませんわ。
 
 ![:audioPlay]![:audio](41/tokotogaaru-10.mp3)
 
@@ -211,7 +211,7 @@ class: center
 
 .english[
 
-
+I’ve never looked at any other man.
 
 ]
 
@@ -221,7 +221,7 @@ class: center
 
 ---
 
-
+アユミ…愛が冷めたことは一度もないよ。
 
 ![:audioPlay]![:audio](41/tokotogaaru-11.mp3)
 
@@ -229,7 +229,7 @@ class: center
 
 .english[
 
-
+Ayumi, I’ve never stopped loving you.
 
 ]
 
@@ -239,7 +239,7 @@ class: center
 
 ---
 
-
+パリのエッフェル塔に行ったことはありますか？
 
 ![:audioPlay]![:audio](41/tokotogaaru-12.mp3)
 
@@ -247,7 +247,7 @@ class: center
 
 .english[
 
-
+Have you ever been to Eiffel Tower in Paris?
 
 ]
 
@@ -257,7 +257,7 @@ class: center
 
 ---
 
-
+一度か二度、わたしは恐れを感じたことがある。
 
 ![:audioPlay]![:audio](41/tokotogaaru-13.mp3)
 
@@ -265,7 +265,7 @@ class: center
 
 .english[
 
-
+Once or twice I have felt afraid.
 
 ]
 
@@ -275,7 +275,7 @@ class: center
 
 ---
 
-
+それで、この紳士を以前に見たことがあるのですね？
 
 ![:audioPlay]![:audio](41/tokotogaaru-14.mp3)
 
@@ -283,7 +283,7 @@ class: center
 
 .english[
 
-
+And you say you’ve seen this gentleman before?
 
 ]
 
@@ -293,7 +293,7 @@ class: center
 
 ---
 
-
+私は、一度、強盗と仲よく話したことがあります。
 
 ![:audioPlay]![:audio](41/tokotogaaru-15.mp3)
 
@@ -301,7 +301,7 @@ class: center
 
 .english[
 
-
+I had a very pleasant chat with a burglar once.
 
 ]
 
@@ -311,7 +311,7 @@ class: center
 
 ---
 
-
+私は一年間、東京に暮らしたことがあります。
 
 ![:audioPlay]![:audio](41/tokotogaaru-16.mp3)
 
@@ -319,7 +319,7 @@ class: center
 
 .english[
 
-
+I lived in Tokyo for a year.
 
 ]
 
@@ -329,7 +329,7 @@ class: center
 
 ---
 
-
+あなたはわたしを憎むことをやめたことがありますか？
 
 ![:audioPlay]![:audio](41/tokotogaaru-17.mp3)
 
@@ -337,7 +337,7 @@ class: center
 
 .english[
 
-
+Have you ever stopped hating me?
 
 ]
 
@@ -347,7 +347,7 @@ class: center
 
 ---
 
-
+ここまで強い訛はもう何年も耳にしたことがない。
 
 ![:audioPlay]![:audio](41/tokotogaaru-18.mp3)
 
@@ -355,7 +355,7 @@ class: center
 
 .english[
 
-
+I haven’t heard such a thick accent in years.
 
 ]
 
@@ -365,14 +365,14 @@ class: center
 
 ---
 
-
+入院したことはありますか？
 
 ![:audioPlay]![:audio](41/tokotogaaru-19.mp3)
 ![:button]
 
 .english[
 
-
+Have you been hospitalized?
 
 ]
 
@@ -382,7 +382,7 @@ class: center
 
 ---
 
-
+あなたは男が泣くのをごらんになったことがありますか？
 
 ![:audioPlay]![:audio](41/tokotogaaru-20.mp3)
 
@@ -390,7 +390,7 @@ class: center
 
 .english[
 
-
+Have you ever seen a man cry?
 
 ]
 
