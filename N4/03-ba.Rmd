@@ -1,0 +1,418 @@
+---
+title: "ba"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default", "style.css"]
+    lib_dir: libs
+    includes: 
+      after_body: "includes/header.html"
+    nature:
+      countIncrementalSlides: false
+      beforeInit: "js/macros.js"
+      slideNumberFormat: '%current%'
+      navigation:
+        scroll: true
+        click: false
+        touch: false
+
+---
+
+class: title-slide middle center
+count: false
+
+# ば
+
+![:note]
+
+.grammar[ 
+
+*Meaning:* if...then
+
+]
+
+![:next]
+
+---
+
+layout: true
+class: center
+
+---
+
+このボタンを押せば、ドアが開きます。
+
+![:audioPlay]![:audio](03/ba-01.mp3)
+
+![:button]
+
+.english[
+
+If you push this button, the door will open.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+
+毎日練習をすれば、上手になりますよ。
+
+![:audioPlay]![:audio](03/ba-02.mp3)
+
+![:button]
+
+.english[
+
+If you practice every day, you'll get better.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+
+先生を待ってるふりをすればいいじゃないか。
+
+![:audioPlay]![:audio](03/ba-03.mp3)
+
+![:button]
+
+.english[
+
+You can pretend to be waiting for the teacher, you know.
+
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+今すぐ出発すれば間に合うでしょう。
+
+![:audioPlay]![:audio](03/ba-04.mp3)
+
+![:button]
+
+.english[
+
+You'll still make it if you go now.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+
+あなたが行けば、わたしも行きます。
+
+![:audioPlay]![:audio](03/ba-05.mp3)
+
+![:button]
+
+.english[
+
+If you go, I'll go too.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+
+数週間もすれば、みんな忘れるよ。
+
+![:audioPlay]![:audio](03/ba-06.mp3)
+
+![:button]
+
+.english[
+
+They'll all forget this in a few weeks.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+
+あの美術館へ行けば、日本の古い絵を見ることができます。
+
+![:audioPlay]![:audio](03/ba-07.mp3)
+
+![:button]
+
+.english[
+
+If you go to that art gallery, you'll be able to see old Japanese pictures.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+
+このケーキは冷たくなければ、おいしくありません。
+
+![:audioPlay]![:audio](03/ba-08.mp3)
+
+![:button]
+
+.english[
+
+This cake tastes best when served cold.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+
+これ以上事を起こせば、政府とまずいことになってしまうよ。
+
+![:audioPlay]![:audio](03/ba-09.mp3)
+
+![:button]
+
+.english[
+
+If you cause any more trouble, you'll be in trouble with the government.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+
+イタリア大使館へ行きたいんですが、どう行けばいいですか。
+
+![:audioPlay]![:audio](03/ba-10.mp3)
+
+![:button]
+
+.english[
+
+I want to go to the Embassy of Italy, how do I get there?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+
+それ以上は僕に尋ねないでくれ。君も自分の目で見ればそれがわかる。
+
+![:audioPlay]![:audio](03/ba-11.mp3)
+
+![:button]
+
+.english[
+
+Don't ask me any more. You'd have to see it with your own eyes to understand.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+
+天井がなければ、可能性は無限なのです。
+
+![:audioPlay]![:audio](03/ba-12.mp3)
+
+![:button]
+
+.english[
+
+When there are no ceilings, the sky's the limit.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+
+習えば誰だって泳げるようになるんだよ。
+
+![:audioPlay]![:audio](03/ba-13.mp3)
+
+![:button]
+
+.english[
+
+If you practice, anyone can learn to swim.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+
+警察沙汰にすれば彼の将来に影響するよ。
+
+![:audioPlay]![:audio](03/ba-14.mp3)
+
+![:button]
+
+.english[
+
+If we called the police, it'd effect his future.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+
+人は死ねば、皮膚しか身につけていない。
+
+![:audioPlay]![:audio](03/ba-15.mp3)
+
+![:button]
+
+.english[
+
+When a man dies he has only his skin.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+
+海に行けば誰だって水着を着るわ。
+
+![:audioPlay]![:audio](03/ba-16.mp3)
+
+![:button]
+
+.english[
+
+Everyone wears a swimsuit on the beach.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+
+十分な忍耐力があれば、すぐにモーターバイクに乗れるようになるよ。
+
+![:audioPlay]![:audio](03/ba-17.mp3)
+
+![:button]
+
+.english[
+
+With enough perseverance, you'll soon learn to ride a motorbike.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+
+中国に民主主義が存在しなければ、香港の未来も見えてきません。
+
+![:audioPlay]![:audio](03/ba-18.mp3)
+
+![:button]
+
+.english[
+
+If there's no democracy in China, I cannot see a future for Hong Kong.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+
+.smaller[ここに来れば、ほかの人とおしゃべりもできるし、このひもを上下に引っ張るようなちょっとした運動もできます。]
+
+![:audioPlay]![:audio](03/ba-19.mp3)
+
+![:button]
+
+.english[
+
+When I come here I can chat with other people and do some exercise like pulling this string up and down.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+
+会社が違えば機械も違いますが、皆、見せる手品は同じです。
+
+![:audioPlay]![:audio](03/ba-20.mp3)
+
+![:button]
+
+.english[
+
+Different companies have different machines, of course, but we all perform the same tricks.
+
+]
+
+![:prev]
+
+

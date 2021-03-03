@@ -7,10 +7,12 @@ pagetitle: "レベル　四"
 
 <div class="container">
 
- [授業 一](N4/01-amarinai.html)　です
+ [授業 一](N4/01-amarinai.html)　あまりない
 
- [授業 ニ](N4/02-atode.html)　だけ
-
+ [授業 ニ](N4/02-atode.html)　後で　
  
+ [授業 三](N4/03-ba.html) ば
+
+ [授業 四](N4/04-baii.html) 場合
  
 </div>
