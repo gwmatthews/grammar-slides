@@ -1,0 +1,38 @@
+<script src="../site_libs/jquery-1.11.3/jquery.min.js"></script>
+
+<script>
+$(document).ready(function(){
+    $("button.show-english").click(function(){
+      if ( $(this).next('div.english').css('visibility') == 'hidden' )
+        $(this).next('div.english').css('visibility','visible');
+      else
+    $(this).next('div.english').css('visibility','hidden');
+    });
+});
+
+
+
+</script>
+
+<script>
+$(document).ready(function(){
+    $("button.grammar-note").click(function(){
+      if ( $(this).next('div.grammar').css('visibility') == 'hidden' )
+        $(this).next('div.grammar').css('visibility','visible');
+      else
+    $(this).next('div.grammar').css('visibility','hidden');
+    });
+});
+</script>
+
+<script>
+$(document).ready(function(){
+    $("button.audio").click(function(){
+      $(this).next('audio.sound')[0].play();
+    });
+});
+</script>
+
+
+
+

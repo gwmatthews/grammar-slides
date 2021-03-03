@@ -5,7 +5,7 @@ output:
     seal: false
     css: ["default", "style.css"]
     lib_dir: libs
-    includes: 
+    includes:
       after_body: "includes/header.html"
     nature:
       countIncrementalSlides: false
