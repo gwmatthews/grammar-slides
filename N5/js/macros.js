@@ -18,7 +18,7 @@ remark.macros.audioPlay = function () {
 
 remark.macros.audio = function () {
   var url = this;
-  return '<audio class="sound"><source src=' + url + ' type="audio/mpeg"></audio><br>';
+  return '<audio class="sound" preload="auto"><source src=' + url + ' type="audio/mpeg"></audio><br>';
 }
 
 
