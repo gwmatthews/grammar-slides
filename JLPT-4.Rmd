@@ -15,4 +15,12 @@ pagetitle: "レベル　四"
 
  [授業 四](N4/04-baii.html) 場合
  
+ [授業 五](N4/05-bakari.html)　ばかり　
+ 
+ [授業 六](N4/06-dakede.html)　だけで 
+
+ [授業 七](N4/07-dasu.html) 出す
+ 
+ [授業 八](N4/08-demo.html) でも
+ 
 </div>

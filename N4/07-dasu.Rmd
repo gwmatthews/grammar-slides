@@ -1,0 +1,402 @@
+---
+title: "dasu"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default", "style.css"]
+    lib_dir: libs
+    includes: 
+      after_body: "includes/header.html"
+    nature:
+      countIncrementalSlides: false
+      beforeInit: "js/macros.js"
+      slideNumberFormat: '%current%'
+      navigation:
+        scroll: true
+        click: false
+        touch: false
+
+---
+
+class: title-slide middle center
+count: false
+
+# 出す 
+
+![:note]
+
+.grammar[ 
+
+*Meaning:* to suddenly begin; to suddenly appear;　... out
+
+*Formation:*
+
+Verb-stem + 出す
+
+]
+
+![:next]
+
+---
+
+layout: true
+class: center
+
+---
+
+雨が急に降り出した。
+
+![:audioPlay]![:audio](07/dasu-01.mp3)
+
+![:button]
+
+.english[
+
+It suddenly started raining.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+「彼女はどうしてこんなふうになったの？」彼がゆっくりと切り出した。
+
+![:audioPlay]![:audio](07/dasu-02.mp3)
+
+![:button]
+
+.english[
+
+"How did she get like this?" he asked slowly.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+「待て」ジョンがもう歩き出したとき、ブラッドが突然叫んだ。
+
+![:audioPlay]![:audio](07/dasu-03.mp3)
+
+![:button]
+
+.english[
+John had already started walking away when Brad burst out, "Wait!"
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+あの赤ちゃんが泣き出すと、なかなか泣き止まない。
+
+![:audioPlay]![:audio](07/dasu-04.mp3)
+
+![:button]
+
+.english[
+
+Once that baby starts crying, she won't stop.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+新宿駅に着く直前、彼はあることを思い出した。
+
+![:audioPlay]![:audio](07/dasu-05.mp3)
+
+![:button]
+
+.english[
+
+They were almost at Shinjuku station when he remembered something.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+非常ベルが急に鳴り出した。
+
+![:audioPlay]![:audio](07/dasu-06.mp3)
+
+![:button]
+
+.english[
+
+The emergency bell suddenly started ringing.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+あいつは今夜逃げ出したよ。
+
+![:audioPlay]![:audio](07/dasu-07.mp3)
+
+![:button]
+
+.english[
+
+He fled tonight.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+彼の話を聞いて、つい笑い出してしまった。
+
+![:audioPlay]![:audio](07/dasu-08.mp3)
+
+![:button]
+
+.english[
+
+I burst into laughing when I heard his story.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+彼は最後にもう一度手をふると、驚くほど速い足取りで歩き出しました。
+
+![:audioPlay]![:audio](07/dasu-09.mp3)
+
+![:button]
+
+.english[
+
+He gave a final wave of his hand, and walked off at a surprising pace.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+彼の祖母は、平和を望んだので、彼を一族から追放し、その屋敷から追い出した。
+
+![:audioPlay]![:audio](07/dasu-10.mp3)
+
+![:button]
+
+.english[
+
+His grandmother, desiring peace, expelled him from the family and turned him out of her house.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+その時、馬に乗った人は体を立てて、手綱を動かした。馬は動き出した。
+
+![:audioPlay]![:audio](07/dasu-11.mp3)
+
+![:button]
+
+.english[
+
+At that moment the rider sat up, and shook the reins. The horse stepped forward.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+.smaller[この競技で不正行為をしているかもしれない人を引き止め、見つけ出すのに、科学技術はどの程度有効だと思いますか？ ]
+
+![:audioPlay]![:audio](07/dasu-12.mp3)
+
+![:button]
+
+.english[
+
+How successful do you think technology will be to stop and identify those who might be cheating in the sport?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+.smaller[この「光の都」は、２０１５年に発生した前代未聞のテロ事件の後に陥った観光業の不振から抜け出すことを望んでいました。]
+
+![:audioPlay]![:audio](07/dasu-13.mp3)
+
+![:button]
+
+.english[
+
+The City of Lights hoped to pull itself out of the tourism slump that followed unprecedented terror attacks here in 2015.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+だけどこれ以外にここから抜け出せる方法は僕には見つかりもしないし、考えつきもしないよ。
+
+![:audioPlay]![:audio](07/dasu-14.mp3)
+
+![:button]
+
+.english[
+
+But there is no other way out of here that I can see or think of.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+彼女は飛行機の客室から折りたたみ式の階段へ足を踏み出した。
+
+![:audioPlay]![:audio](07/dasu-15.mp3)
+
+![:button]
+
+.english[
+
+She stepped out of the airplane onto the foldout staircase.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+行ってみると、馬の中の二頭が道のかなり先の方までさ迷い出していた。
+
+![:audioPlay]![:audio](07/dasu-16.mp3)
+
+![:button]
+
+.english[
+
+I found that two horses had wandered on a good way along the path.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+自分ひとりでここから抜け出す道を見つけるのはまず無理だろう。
+
+![:audioPlay]![:audio](07/dasu-17.mp3)
+
+![:button]
+
+.english[
+
+I doubt I could ever find my way out of here alone.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+このドアの開け方を見つけ出す必要がある。
+
+![:audioPlay]![:audio](07/dasu-18.mp3)
+
+![:button]
+
+.english[
+
+We need to figure out how to open this door.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+赤々と燃えるかまどの明かりと、吹き上げる湯気が流れ出した。
+
+![:audioPlay]![:audio](07/dasu-19.mp3)
+
+![:button]
+
+.english[
+
+Firelight came out, and a puff of steam.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+あの男は私たちが駅から逃げ出すのを見ていたんだ。
+
+![:audioPlay]![:audio](07/dasu-20.mp3)
+
+![:button]
+
+.english[
+
+That man saw us flee the station together.
+
+]
+
+![:prev]
+
+

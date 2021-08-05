@@ -1,0 +1,383 @@
+---
+title: "demo"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default", "style.css"]
+    lib_dir: libs
+    includes: 
+      after_body: "includes/header.html"
+    nature:
+      countIncrementalSlides: false
+      beforeInit: "js/macros.js"
+      slideNumberFormat: '%current%'
+      navigation:
+        scroll: true
+        click: false
+        touch: false
+
+---
+
+class: title-slide middle center
+count: false
+
+# でも
+
+![:note]
+
+.grammar[ 
+
+*Meaning:* ... or something
+
+*Formation:*
+
+Noun + でも
+
+]
+
+![:next]
+
+---
+
+layout: true
+class: center
+
+---
+
+暇だからゲームでもしましょう。
+
+![:audioPlay]![:audio](08/demo-01.mp3)
+
+![:button]
+
+.english[
+
+Since we're free, let's play games or something.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+疲れたから、コーヒーでも飲みましょう。
+
+![:audioPlay]![:audio](08/demo-02.mp3)
+
+![:button]
+
+.english[
+
+Since we're tired, let's drink coffee or something.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+連休はどうする？郊外へでも行ってみようか。
+
+![:audioPlay]![:audio](08/demo-03.mp3)
+
+![:button]
+
+.english[
+
+What are we gonna do this consecutive holiday? Shall we go to the suburb or something?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+夕食までもう少し時間があるから、パンでも食べなさい。
+
+![:audioPlay]![:audio](08/demo-04.mp3)
+
+![:button]
+
+.english[
+
+Since dinner won't be ready for a little while, eat bread or something.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+一緒にお茶でもいかがですか。
+
+![:audioPlay]![:audio](08/demo-05.mp3)
+
+![:button]
+
+.english[
+
+Shall we go drink tea or something together?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+泣いたようですね。悪いことでもあったのですか。
+
+![:audioPlay]![:audio](08/demo-06.mp3)
+
+![:button]
+
+.english[
+
+You look like you were crying. Did something bad happen?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+よく運動してください。病気にでもなったら困るですから。
+
+![:audioPlay]![:audio](08/demo-07.mp3)
+
+![:button]
+
+.english[
+
+Please exercise frequently. It'd be troublesome if you got sick.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+紅茶でも飲んだら？持ってきてあげるわよ。
+
+![:audioPlay]![:audio](08/demo-08.mp3)
+
+![:button]
+
+.english[
+
+Would you like some tea? I'll bring it for you.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+何か暖かいものでも飲む？
+
+![:audioPlay]![:audio](08/demo-09.mp3)
+
+![:button]
+
+.english[
+
+How about something hot to drink?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+顔色悪いけど、気分でも悪いの？
+
+![:audioPlay]![:audio](08/demo-10.mp3)
+
+![:button]
+
+.english[
+
+You look terrible. Do you feel sick?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+もし寒くなければみんなでお弁当を持って新宿御苑にでも遊びに行ってくるわ。
+
+![:audioPlay]![:audio](08/demo-11.mp3)
+
+![:button]
+
+.english[
+
+If it isn't too cold, maybe we could grab our bento and have a picnic in Shinjuku Gyoen Park.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+.smaller[霧が出てきたので、あなたが溝にでも落ちてやしないかと思って、村の方まで見に行ってきたんです。]
+
+![:audioPlay]![:audio](08/demo-12.mp3)
+
+![:button]
+
+.english[
+
+When it grew foggy I came across and rode up towards the village to see if you had fallen in any ditches.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+ところが半時間ばかり前から、彼女は頭痛でもするのか急に静かになっちまった。
+
+![:audioPlay]![:audio](08/demo-13.mp3)
+
+![:button]
+
+.english[
+
+And then, about a half-hour ago, she got kind of quiet, like she had a headache.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+彼の顔はまるで心臓でも刺されたように苦痛に歪んでいた。目から涙が溢れ出ていた。
+
+![:audioPlay]![:audio](08/demo-14.mp3)
+
+![:button]
+
+.english[
+
+His face was wrung with pain, as if he had been stabbed in the heart. Tears welled from his eyes.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+さてと、あんたは泣いてたね。わけを話してもらえんかな？痛いところでもあるかね？
+
+![:audioPlay]![:audio](08/demo-15.mp3)
+
+![:button]
+
+.english[
+
+Well, you have been crying. Can you tell me what about? Have you any pain?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+あんなにめんくらった顔を私は見たことがない。まるで幽霊にでも出会ったかのような顔をしていた。
+
+![:audioPlay]![:audio](08/demo-16.mp3)
+
+![:button]
+
+.english[
+
+Never have I seen a man more taken aback. He looked as though he had seen a ghost.
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+一体、なにに手間取っているのだろうか？事故でもあったのだろうか？
+
+![:audioPlay]![:audio](08/demo-17.mp3)
+
+![:button]
+
+.english[
+
+What could keep him? Has an accident happened?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+私が秘密を守らないとでもお思いなの？
+
+![:audioPlay]![:audio](08/demo-18.mp3)
+
+![:button]
+
+.english[
+
+Don't you think I could keep a secret?
+
+]
+
+![:prev]
+
+![:next]
+
+---
+
+実際どこか小さなホテルにでも移らなくちゃ。
+
+![:audioPlay]![:audio](08/demo-19.mp3)
+
+![:button]
+
+.english[
+
+Really I have to go to some small hotel.
+
+]
+
+![:prev]
